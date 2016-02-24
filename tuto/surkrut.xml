@@ -1,0 +1,376 @@
+<body>
+
+<div id="container">
+
+    <header>
+        <h1><a href="http://comgraph.hear.fr">Sürkrüt</a></h1>
+        <p class="description">Blog de l’atelier de Communication graphique de la HEAR</p>
+    </header>
+
+    <div id="sidebar">
+	<div class="rightmenu css3transition">
+	<ul>
+	<li id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-du-haut-container"><ul id="menu-menu-du-haut" class="menu"><li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a href="http://comgraph.esad-stg.org">Accueil</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a title="Tümblr Frankfürter" href="http://surkrurter.tumblr.com/">Sürkrürter</a></li>
+<li id="menu-item-2548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2548"><a href="http://comgraph.hear.fr/a-propos-credits/">À propos / crédits</a></li>
+</ul></div></li>
+<li id="search-3" class="widget widget_search"><form method="get" id="searchform" action="http://comgraph.hear.fr/">
+<div>
+<input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Chercher" />
+</div>
+</form></li>
+		<li id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widgettitle">Articles récents</h2>
+		<ul>
+					<li>
+				<a href="http://comgraph.hear.fr/2015/02/entretien-skype-avec-simon-renaud/">Portrait de Simon Renaud</a>
+						</li>
+					<li>
+				<a href="http://comgraph.hear.fr/2015/01/conference-chevalvert/">Conférence Chevalvert</a>
+						</li>
+					<li>
+				<a href="http://comgraph.hear.fr/2014/12/le-graphisme-pour-qui-pourquoi/">Le graphisme. <br />Pour qui ? Pourquoi ?</a>
+						</li>
+					<li>
+				<a href="http://comgraph.hear.fr/2014/12/remi-jimenes-la-typographie-source-et-objet-dhistoire-lhistorien-du-livre-face-au-design-graphique/">Rémi Jimenes, « La typographie, source et objet d&rsquo;histoire : l&rsquo;historien du livre face au design graphique »</a>
+						</li>
+					<li>
+				<a href="http://comgraph.hear.fr/2014/12/visite-larche/">visite à l&rsquo;arche</a>
+						</li>
+				</ul>
+		</li>
+<li id="linkcat-113" class="widget widget_links"><h2 class="widgettitle">1/ Blogs d’actualité</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://adw.tumblr.com" title="Tumblr de Benjamin Gaulon, aka Recyclism — ancien de l&rsquo;école. Il partage régulièrement des vidéos portées sur le design interactif et autres bidouillages électroniques." target="_blank">ADW*/</a></li>
+<li><a href="http://www.large.la" title="Blog du groupe de graphistes Large">Le blog de Large</a></li>
+<li><a href="http://lejournaldelaphotographie.com/" title="Blog traitant de l&rsquo;actualité photographique internationale, qu&rsquo;il s&rsquo;agisse d&rsquo;expositions, de livres, de portfolios, etc. Chaque article comporte un court texte, un sélection d&rsquo;images ainsi que des informations complémentaires." target="_blank">Le Journal de la Photographie</a></li>
+<li><a href="http://pointypo.com/" title="Résumé de l&rsquo;actualité typographique — travaux, évènements, livres — au travers d&rsquo;articles courts et faciles d&rsquo;accès." target="_blank">Pointypo</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-112" class="widget widget_links"><h2 class="widgettitle">2/ Revues en ligne</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://designobserver.com/" title="Revue en ligne généraliste sur le design (en anglais)" target="_blank">Design Observer</a></li>
+<li><a href="http://www.rosab.net/" title="Webmagazine semestriel coproduit par le CAPC musée et l’École des beaux-arts de Bordeaux, dédié à la recherche et à la réflexion qui aborde et questionne les différentes problématiques actuelles de la création" target="_blank">rosab</a></li>
+<li><a href="http://strabic.fr/" title="Revue web sur le design, suivant de grandes problématiques — des saisons — mais également des articles plus courts, sur l&rsquo;actualité ; un regard particulier et une &laquo;&nbsp;Haute Qualité Éditoriale&nbsp;&raquo; en font un site à part." target="_blank">Strabic</a></li>
+<li><a href="http://www.t-o-m-b-o-l-o.eu/" title="Tombolo est une revue en ligne qui voudrait créer des liens entre les archipels du savoir sur le graphisme et plus si affinités, dans une forme critique propre, avec des contributeurs d’ici et d’ailleurs." target="_blank">Tombolo</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-111" class="widget widget_links"><h2 class="widgettitle">3/ Sites de revues et magazines</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.eyemagazine.com/" title="Site et blog de Eye, magazine anglais de référence dans le domaine du design graphique (en anglais)" target="_blank">Eye Magazine</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-115" class="widget widget_links"><h2 class="widgettitle">4/ Blogs pédagogiques</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://esad-stg.org/options/didactique_visuelle/blog/" title="Blog de l&rsquo;atelier de Didactique visuelle de l’École supérieure des arts décoratifs de Strasbourg / Haute école des arts du Rhin" target="_blank">Atelier de Didactique visuelle</a></li>
+<li><a href="http://esadespacespublics.wordpress.com/" title="Blog de l&rsquo;atelier de Scénographie de l’École supérieure des arts décoratifs de Strasbourg / Haute école des arts du Rhin" target="_blank">Atelier de Scénographie</a></li>
+<li><a href="http://greatscott.jrmdprt.net/" title="Blog complémentaire aux enseignements de Jérôme Dupeyrat, professeur d&rsquo;histoire et théorie de l&rsquo;art (art contemporain &#8211; édition &#8211; design graphique)  à l&rsquo;École des beaux-arts de Toulouse" target="_blank">Great Scott !</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-180" class="widget widget_links"><h2 class="widgettitle">5/ Blogs de librairies</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://bookletlibrary.org/" title="Bibliothèque/librairie japonaise d&rsquo;éditions indépendantes. Cette librairie en ligne (marchande) présente souvents de beaux aperçus des éditions.">booklet library</a></li>
+<li><a href="http://artschoolvets.com/blog/mottoberlin/" title="Le blog de la librairie Motto Berlin pour lequel chaque ouvrage présenté a été spécialement photographié.">Motto Berlin</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-369" class="widget widget_links"><h2 class="widgettitle">6/ Galeries d’images</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://gurafiku.tumblr.com/">Gurafiku</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-2" class="widget widget_links"><h2 class="widgettitle">7/ Autres blogs</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://designishistory.com/" title="Histoire du design graphique et de l&rsquo;image, du XVe au XXe siècle, à travers une sélection de grandes figures." target="_blank">Design is History</a></li>
+<li><a href="http://www.ecogex.com/delectable/" title="Base de données de sites web">Ecogex/Delectable</a></li>
+<li><a href="http://fontsinuse.com/">Fonts in use</a></li>
+<li><a href="http://indexgrafik.fr/">Index graphik</a></li>
+<li><a href="http://hyperbate.fr/dernier/" title="Le blog de Jean-Noël Lafargue" target="_blank">Le dernier des blogs</a></li>
+<li><a href="http://www.tierslivre.net/" title="Le site de François Bon consacré aux relations entre web et littérature et au livre numérique." target="_blank">Le tiers livre</a></li>
+<li><a href="http://readingforms.com/" title="Banque d&rsquo;images référencées concernant la scénographie d&rsquo;expositions de graphisme." target="_blank">Reading Forms</a></li>
+<li><a href="http://www.typeradio.org/">Type Radio</a></li>
+<li><a href="http://typefoundry.blogspot.fr/">Typefoundry</a></li>
+<li><a href="http://www.urbain-trop-urbain.fr" title="“Tentative d’approche fragmentaire et éclatée — par l’écriture littéraire et sociologique ou philosophique — de cette mutation/disparition de la ville occidentale, comme idée, cosa mentale et comme espace social homogène.”" target="_blank">Urbain trop urbain</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-370" class="widget widget_links"><h2 class="widgettitle">8/ Le cimetière des blogs</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.salutpublic.be/2ou3choses/" title="Ancien blog de Thierry Chancogne">2 ou 3 choses…</a></li>
+<li><a href="http://www.my-os.net/archives/" title="Le blog de référence sur tout ce qui touche au design interactif." target="_blank">Étienne Mineur archives</a></li>
+<li><a href="http://culturevisuelle.org/icones/" title="Le “carnet de recherche d&rsquo;André Gunthert”, historien, chercheur en culture visuelle, maître de conférences à l’EHESS. Blog scientifique spécialisé dans le domaine des études visuelles." target="_blank">L&#039;atelier des icônes</a></li>
+<li><a href="http://www.paulcox.centrepompidou.fr/" title="Ancien blog de Paul Cox au Centre Pompidou">Paul Cox</a></li>
+
+	</ul>
+</li>
+
+		
+
+
+	</ul>
+	</div>
+</div>   
+
+    <div id="page">
+
+    	<nav>
+    	    	</nav>
+	
+
+
+
+<div id="content">
+
+
+		
+<div class="post" id="post-6403">
+    
+        
+        <div class="post_content">
+        	<h2 class="titre"><a href="http://comgraph.hear.fr/2015/02/entretien-skype-avec-simon-renaud/" title="Portrait de Simon Renaud">Portrait de Simon Renaud</a></h2>
+            
+            
+<p class="postmetadata"> 
+<span class="date">13/02/2015</span> |
+Par <span class="auteur"><a href="http://comgraph.hear.fr/author/angeline/" title="Articles par Angéline Girard" class="url fn" rel="author">Angéline Girard</a></span> 
+
+</p>            </br>
+
+            <p>Simon Renaud est originaire de Nancy, il y a passé le bac arts appliqués.<br />
+Il est allé ensuite à Lyon pour faire un BTS graphisme, édition, publicité<br />
+à la Martinière-Diderot. Formation qui lui laissait peu de temps pour expérimenter. Alors, il décide de se tourner vers des écoles d&rsquo;art pour poursuivre ses études. Arts décos de Strasbourg, Beaux-arts de Nancy ? Finalement son intérêt pour les ateliers de l&rsquo;école (sérigraphie, livre…) et le travail de Pierre di Sciullo le pousse à aller à Strasbourg. Comme beaucoup d&rsquo;entre nous, il regrette un peu le manque d&rsquo;accessibilité de ces ateliers.</p>
+<p class="p1">Il est donc diplômé des Arts décos en Communication graphique en 2004. En trois ans à Strasbourg, il pousse son autonomie. Cette autonomie qui est bien plus difficile à obtenir en BTS. Il commence aussi à découvrir le travail en collaboration, avec d&rsquo;autres étudiants de l&rsquo;école.</p>
+<div id="attachment_6405" style="width: 810px" class="wp-caption alignnone"><a href="http://comgraph.hear.fr/wp-content/uploads/2015/01/hear-6.jpg"><img class="size-full wp-image-6405" src="http://comgraph.hear.fr/wp-content/uploads/2015/01/hear-6.jpg" alt="Communication pour l'exposition des diplômes de la HEAR, en 2012. Avec Jérémie Nuel" width="800" height="1204" /></a><p class="wp-caption-text"><em>Communication pour l&rsquo;exposition des diplômes de la HEAR, en 2012. Simon Renaud et Jérémie Nuel</em></p></div>
+<p class="p1">Il a apprécié l&rsquo;ouverture de l&rsquo;école vers la pluridisciplinarité. Ainsi, il élargit son panel : animation, photographie, vidéo. Pour enrichir son travail d&rsquo;expérimentation autour de nouvelles techniques, il fait un post-diplôme à Cracovie. Là-bas, il s&rsquo;essaie à la gravure sur zinc, au film d&rsquo;animation, au dessin à la plume… À son retour de Pologne, il retourne à Strasbourg pour mettre en place un atelier avec un ami rencontré aux Arts décoratifs, Jérémie Nuel. Ils ont commencé à travailler sur des projets collectifs dès la troisième année. lls partent s&rsquo;installer à Lyon. Ils y restent trois-quatre ans, puis ils partent à Paris : A is a Name est né. Aujourd&rsquo;hui, après 10 ans de collaboration le duo s’arrête<span class="s1">. </span></p>
+<p class="p1">Maintenant Simon est freelance, à Paris. Il essaie d&rsquo;avoir des clients à l&rsquo;international. Depuis qu&rsquo;il a travaillé avec <em>Dazed &amp; Confused</em>, il se rend compte de l&rsquo;ouverture d&rsquo;esprit des pays étrangers sur le design graphique. Il peut développer avec eux des travaux conceptuels et en adéquation avec son propos. Celui-ci s&rsquo;oriente autour de l&rsquo;écriture, des codes et des machines numériques. Il tient d&rsquo;ailleurs un tumblr « <a href="http://writing-system.tumblr.com/">languages as symbols</a> ». Il y rassemble des systèmes d&rsquo;écritures du monde entier. Aujourd&rsquo;hui c&rsquo;est presque devenu ses obsessions. Ainsi, les <a href="http://class-computing.tumblr.com/">workshops</a> qu&rsquo;il initie tournent beaucoup autour de ces deux thèmes. Par exemple, ce semestre en tant que prof aux Beaux-arts d&rsquo;Amiens, il a proposé un sujet autour du livre électronique « Livre machine, tête de lecture » .</p>
+<p class="p1">On en vient ainsi à parler de l&rsquo;importance de la scénographie des projets de graphisme. L&rsquo;exposition du design graphique devient primordiale aujourd&rsquo;hui.</p>
+
+		<div class='gallery gallery-columns-1 gallery-size-full'>
+			<div class='gallery-icon'><a class='fancybox' rel='gallery-1' href='http://comgraph.hear.fr/wp-content/uploads/2015/01/lachambre-6-683x1024.jpg' title='La chambre de Faraday, Simon Renaud et Jérémie Nuel, à Lyon dans la galerie Mademoiselle Major, 2014'><img src="http://comgraph.hear.fr/wp-content/uploads/2015/01/lachambre-6-683x1024.jpg" /></a></div><a class='fancybox hide' rel='gallery-1' href='http://comgraph.hear.fr/wp-content/uploads/2015/01/bc10a79dd809565f8638fd1af75f9bee.jpg' title='Contre-Mesure, Simon Renaud et Jérémie Nuel, chez Néon à Lyon, 2014'><img src="http://comgraph.hear.fr/wp-content/uploads/2015/01/bc10a79dd809565f8638fd1af75f9bee.jpg" /></a>
+			
+				<div class='more'>
+				Afficher la gallerie (2&nbsp;images)
+				</div>
+			</div>
+<div class='reset'></div>
+
+
+		<div class='gallery gallery-columns-1 gallery-size-full'>
+			<div class='gallery-icon'><a class='fancybox' rel='gallery-2' href='http://comgraph.hear.fr/wp-content/uploads/2015/01/typedesign_anamorphosis4.gif' title='Anamorphosis, Simon Renaud'><img src="http://comgraph.hear.fr/wp-content/uploads/2015/01/typedesign_anamorphosis4.gif" /></a></div><a class='fancybox hide' rel='gallery-2' href='http://comgraph.hear.fr/wp-content/uploads/2015/01/typedesign_anamorphosis5.gif' title='Anamorphosis, Simon Renaud'><img src="http://comgraph.hear.fr/wp-content/uploads/2015/01/typedesign_anamorphosis5.gif" /></a><a class='fancybox hide' rel='gallery-2' href='http://comgraph.hear.fr/wp-content/uploads/2015/01/typedesign_anamorphosis2.gif' title='Anamorphosis, Simon Renaud'><img src="http://comgraph.hear.fr/wp-content/uploads/2015/01/typedesign_anamorphosis2.gif" /></a>
+			
+				<div class='more'>
+				Afficher la gallerie (3&nbsp;images)
+				</div>
+			</div>
+<div class='reset'></div>
+
+<p class="p1">D&rsquo;ailleurs en parlant d&rsquo;exposition, Simon Renaud expose du 25 février au 20 mars au Toutouchic à Metz. Il y présentera sa typographie l&rsquo;Anamorphosis qu&rsquo;il avait commencé à créer en post diplôme à Cracovie. Il y aura aussi des lettres en volume, des photographies…</p>
+<p class="p1">À bientôt à Metz.</p>
+<p class="p1"><strong><a href="http://www.simonrenaud.fr/">Simon Renaud</a>, typography &amp; graphic design</strong><br />
+<a href="http://class-computing.tumblr.com/"><strong> Workshops</strong></a><br />
+<a href="http://writing-system.tumblr.com/"><strong> Languages as symbols</strong></a></p>
+
+            <p class="foot_content"> Cat&eacute;gorie: <a href="http://comgraph.hear.fr/category/observatoire/" rel="category tag">Observatoire</a>, <a href="http://comgraph.hear.fr/category/portraits-danciens-etudiants/" rel="category tag">Portraits d'anciens étudiants</a> | <a href="http://comgraph.hear.fr/2015/02/entretien-skype-avec-simon-renaud/#respond" title="Commentaire sur Portrait de Simon Renaud">Laisser un commentaire</a> </p>
+        </div>
+    </br>
+</div> 
+
+ 
+		
+		
+<div class="post" id="post-6389">
+    
+        
+        <div class="post_content">
+        	<h2 class="titre"><a href="http://comgraph.hear.fr/2015/01/conference-chevalvert/" title="Conférence Chevalvert">Conférence Chevalvert</a></h2>
+            
+            
+<p class="postmetadata"> 
+<span class="date">22/01/2015</span> |
+Par <span class="auteur"><a href="http://comgraph.hear.fr/author/loic_syclo/" title="Articles par Loïc Horellou" class="url fn" rel="author">Loïc Horellou</a></span> 
+
+</p>            </br>
+
+            <p>Le jeudi 22 janvier 2015 à 18 heures, aura lieu une conférence du studio de design visuel Chevalvert, à l&rsquo;auditorium de la Hear Strasbourg.</p>
+<p>Patrick Paleta et Stéphane Buellet présenteront le studio <a title="Chevalvert" href="http://chevalvert.fr" target="_blank">Chevalvert</a> qu’ils ont fondé à Paris en 200<span class="text_exposed_show">7. Chevalvert revendique une approche du design ouverte, multidisciplinaire et transversale dont les réalisations se partagent entre des commandes institutionnelles, culturelles, industrielles et des projets autoproduits, dans les champs de l’identité visuelle, de l’édition, du numérique ou de la signalétique d’expositions.</span></p>
+<p>Chevalvert organise également un workshop sur le logiciel processing avec les étudiants de 2e année communication et un échange avec les étudiants de 5 année communication graphique.</p>
+<p><a href="http://comgraph.hear.fr/wp-content/uploads/2015/01/image-conference-hear1.jpeg"><img class="alignleft size-full wp-image-6397" src="http://comgraph.hear.fr/wp-content/uploads/2015/01/image-conference-hear1.jpeg" alt="image-conference-HEAR" width="1280" height="720" /></a></p>
+<p><strong>—</strong><br />
+<strong>Jeudi 22 janvier 2015 à 18h00</strong><br />
+<strong>Haute école des arts du Rhin</strong><br />
+<strong>Auditorium, 1 rue de l’Académie,</strong><br />
+<strong>Strasbourg</strong><br />
+<strong>Conférence ouverte à tous</strong></p>
+
+            <p class="foot_content"> Cat&eacute;gorie: <a href="http://comgraph.hear.fr/category/laboratoire/" rel="category tag">Laboratoire</a> | <a href="http://comgraph.hear.fr/2015/01/conference-chevalvert/#respond" title="Commentaire sur Conférence Chevalvert">Laisser un commentaire</a> </p>
+        </div>
+    </br>
+</div> 
+
+ 
+		
+		
+<div class="post" id="post-6128">
+    
+        
+        <div class="post_content">
+        	<h2 class="titre"><a href="http://comgraph.hear.fr/2014/12/le-graphisme-pour-qui-pourquoi/" title="Le graphisme. <br />Pour qui ? Pourquoi ?">Le graphisme. <br />Pour qui ? Pourquoi ?</a></h2>
+            
+            
+<p class="postmetadata"> 
+<span class="date">25/12/2014</span> |
+Par <span class="auteur"><a href="http://comgraph.hear.fr/author/magalibrueder/" title="Articles par Magali Brueder" class="url fn" rel="author">Magali Brueder</a> et <a href="http://comgraph.hear.fr/author/montasser/" title="Articles par Montasser Drissi" class="url fn" rel="author">Montasser Drissi</a></span> 
+
+</p>            </br>
+
+            <p><a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/img_6679.jpg"><img class="alignnone wp-image-6133 size-large" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/img_6679-e1418312293455-1024x1024.jpg" alt="IMG_6679" width="1024" height="1024" /></a></p>
+<p>Nous nous sommes tous assis, ce samedi midi, autour de la grande table de travail de l’Atelier de création graphique, fondé en 1990, après la fin du collectif Grapus. Pierre Bernard est revenu avec nous sur l’histoire de son atelier et de ses différentes collaborations au fil des années. De ses débuts au magazine <em>Jeune Afrique </em>dont il réalisait la maquette jusqu&rsquo;à l’identité visuelle du parc de la Villette, Pierre Bernard nous a présenté ses projets avec le recul nécessaire et une fine analyse du métier de graphiste et son évolution.</p>
+<p>Diplômé de l’Ensad en tant que décorateur spécialité art graphique, il voyage ensuite en Pologne où il est admiratif des affiches libérées de la rigueur formelle constructiviste, et libératrices par leur caractère contestataire et poétique. Ce langage qui s&rsquo;est développé en réaction à la censure et au diktat de l’esthétique dominante, a nourri Pierre Bernard, notamment grâce à l’enseignement de Henryk Tomaszewski et l’école polonaise.</p>
+<p>Quelques années après, il participe activement au mouvement de mai 68 qu’il considère comme un moment « magique » et « éblouissant », et rencontre Gérard Paris-Clavel et François Miehe, bientôt collaborateurs du collectif Grapus. L’utilité sociale du graphisme, toujours présente dans son travail constituait le fil directeur de sa présentation. Le souci de rendre l’information et la culture accessibles à toutes et à tous se reflète dans des projets comme l’identité du parc de la Villette, du musée du Louvre ou encore des commandes pour des institutions publiques. D’autres projets, comme la collaboration avec le Parti communiste ou le Secours populaire français, révèlent un besoin criant de s’exprimer sur des causes sociales et politiques.</p>
+<p>Un brin nostalgique des années où l’engagement était plus ancré dans les consciences collectives, Pierre Bernard n’est pas pour autant pessimiste quant à l’avenir du graphisme engagé. Bien que l’Atelier de création graphique se soit créé selon lui dans une période régressive où l’individualisme prenait le pas sur la conscience collective, Pierre Bernard voit émerger aujourd’hui plusieurs collectifs dont le travail fait écho à nos problématiques contemporaines.</p>
+
+            <p class="foot_content"> Cat&eacute;gorie: <a href="http://comgraph.hear.fr/category/observatoire/notes-de-voyage/" rel="category tag">Notes de voyage</a>, <a href="http://comgraph.hear.fr/category/observatoire/" rel="category tag">Observatoire</a> | <a href="http://comgraph.hear.fr/2014/12/le-graphisme-pour-qui-pourquoi/#respond" title="Commentaire sur Le graphisme. Pour qui ? Pourquoi ?">Laisser un commentaire</a> </p>
+        </div>
+    </br>
+</div> 
+
+ 
+		
+		
+<div class="post" id="post-6035">
+    
+        
+        <div class="post_content">
+        	<h2 class="titre"><a href="http://comgraph.hear.fr/2014/12/remi-jimenes-la-typographie-source-et-objet-dhistoire-lhistorien-du-livre-face-au-design-graphique/" title="Rémi Jimenes, « La typographie, source et objet d&rsquo;histoire : l&rsquo;historien du livre face au design graphique »">Rémi Jimenes, « La typographie, source et objet d&rsquo;histoire : l&rsquo;historien du livre face au design graphique »</a></h2>
+            
+            
+<p class="postmetadata"> 
+<span class="date">21/12/2014</span> |
+Par <span class="auteur"><a href="http://comgraph.hear.fr/author/angeline/" title="Articles par Angéline Girard" class="url fn" rel="author">Angéline Girard</a></span> 
+
+</p>            </br>
+
+            <p class="p1"><em>Compte-rendu de la conférence de Rémi Jimenes, dans la cadre du colloque « Design graphique, les formes de l&rsquo;histoire ».</em></p>
+<p class="p1"><span class="s2">Fraîchement diplomé d&rsquo;une thèse sur </span>Charlotte Guillard, veuve des imprimeurs Berthold Rembolt et Claude Chevallon, <span class="s2">Rémi Jimenes est un </span>doctorant au Centre d&rsquo;études supérieures de la Renaissance. Mais c&rsquo;est aussi un ingénieur d&rsquo;études aux Bibliothèques virtuelles humanistes.</p>
+<p class="p3"><strong>Le livre, un concept global</strong></p>
+<p class="p3">Pour Rémi Jimenes, le design graphique est une science auxiliaire de l&rsquo;histoire du livre. Selon lui, il y a trois manières indissociables d&rsquo;aborder le livre :</p>
+<p class="p3">1) L&rsquo;ornement<br />
+2) La composition du texte/la mise en page<br />
+3) Le choix typo</p>
+<p class="p3">La composition doit être adaptée à chaque objet. Mais à la renaissance ce n&rsquo;était pas forcément possible donc il n&rsquo;y a pas de grille/de design à analyser de manière individuelle. Cependant à cette époque, tout est à faire, à inventer. C&rsquo;est l&rsquo;âge héroïque du livre. Il va donc y avoir toute une période de construction de l&rsquo;histoire de l&rsquo;objet livre. La bible à 42 lignes de Gutenberg va ainsi être un matériel très utilisé par les imprimeurs. C&rsquo;est une véritable mine d&rsquo;informations pour eux évidemment. Et la bible à 42 lignes inspire encore aujourd&rsquo;hui. Les Éditions B42 lui rendent par exemple un hommage par leur nom…</p>
+<p class="p3">L&rsquo;histoire du livre comme pratique et comme enseignement est très peu développée (voire n&rsquo;existe pas du tout) dans les universités françaises alors qu&rsquo;il y a de plus en plus de chercheurs qui traitent de ce sujet aujourd&rsquo;hui. C&rsquo;est une pratique qui se développe officieusement.</p>
+<p class="p3">Lucien Febvre (1878-1956), par exemple, est le rénovateur de la science historique c&rsquo;est-à-dire que pour lui l&rsquo;histoire c&rsquo;est aussi la sociologie, l&rsquo;économie, la politique, la culture… Et il commence donc à voir l&rsquo;apparition du livre comme faisant partie intégrante de l&rsquo;histoire.</p>
+<p class="p3">Mais le père fondateur de cette démarche est Henri-Jean Martin. C&rsquo;est un historien français spécialisé dans l&rsquo;histoire du livre et de l&rsquo;édition. Il aborde ainsi le livre sous différents aspects : le commerce, la sociologie, l&rsquo;économie… Il s&rsquo;attache à l&rsquo;étude de ses interactions, sa fonction d&rsquo;archives, les conditions socio-économiques qui l&rsquo;entourent, mais aussi les conditions de lecture.</p>
+<p class="p3">Ainsi, l&rsquo;approche graphique du livre serait juste un angle d&rsquo;attaque parmi tant d&rsquo;autres : l&rsquo;aspect littéraire, technique, social ou encore économique. Le livre serait donc un projet bien plus global que ce que pourrait imaginer un néophyte.</p>
+<p class="p3"><strong>L&rsquo;excellence typographique, moteur de renouvellement</strong></p>
+<p class="p3">L&rsquo;histoire de l&rsquo;excellence typographique contribue aussi nettement au développement du livre. Les pères fondateurs de cela sont les typographes humanistes comme Alde Manuce ou Claude Garamond. Puis plus tard, des personnes comme Francis Thibaudeau ou Stanley Morison vont mettre en lumière les évolutions typographiques. Claude Garamond a commencé à être actif dès 1530. Il grava par exemple pour Estienne deux caractères : un gros Canon et un gros Romain. On pensait à l&rsquo;époque que c&rsquo;était lui le typographe le plus influent. Mais d&rsquo;après Rémi Jimenes, on s&rsquo;est rendu compte depuis que le Garamond aurait en fait été inventé avant Claude Garamond lui même. Cette découverte d&rsquo;erreur dans l&rsquo;histoire est possible grâce aux systèmes d&rsquo;analyse et d&rsquo;identification de fontes et d&rsquo;archives.</p>
+<p class="p3"><strong>La bibliographie, comme élément fondateur de l&rsquo;histoire du livre</strong></p>
+<p class="p3">L&rsquo;importance de l&rsquo;identification de l&rsquo;imprimeur par le matériel typographique est une notion inhérente au travail de Rémi Jimenes. Identifier est presque devenu une nécessité pour l&rsquo;époque des Elzévirs qui ont souvent été contrefaites. Henry Bradshaw, un bibliothécaire britannique a par exemple créé la première liste de typographies en développant des recherches minutieuses à travers les incunables. Robert Proctor s&rsquo;est lui aussi lancé dans la bibliographie et a ainsi catalogué des incunables par pays et villes d&rsquo;impression puis par imprimeurs et éditions. Entre 1906 et 1911, sous la direction de Konrad Haebler, un vaste inventaire d&rsquo;incunables est créé. Il puise des informations dans 676 bibliothèques allemandes et recense 145 000 exemplaires d&rsquo;incunables. Tout cela va créer un fond documentaire très important qui sert encore aujourd&rsquo;hui.</p>
+<p class="p3">L&rsquo;identification permet donc de pouvoir reconnaitre les presses de tel ou tel imprimeur et de savoir à quel imprimeur appartient telle typographie. Même s&rsquo;il y a eu des périodes plus complexes pour l&rsquo;identification. En effet, au XVIe siècle, beaucoup d&rsquo;imprimeurs s&rsquo;échangeaient leurs caractères typographiques. Mais chacun composait différemment et c&rsquo;est cela qui permet d&rsquo;identifier un imprimeur précis.</p>
+<p class="p3">C&rsquo;est justement un système d&rsquo;analyse du matériel typographique qu&rsquo;a développé Rémi Jimenes : les Bibliothèques Virtuelles Humanistes. C&rsquo;est un projet ambitieux de numérisation et de reconnaissance d&rsquo;ouvrages de la renaissance. Il permet d&rsquo;extraire le texte, les lettres ornées, les marques imprimeur etc. Peut-être que ce projet pourrait être une bonne base de matériaux pour les graphistes et typographes. Mais le site mériterait un bon rafraichissement visuel…</p>
+<p class="p3"><strong>À lire/voir :</strong></p>
+<p><a href="http://www.bvh.univ-tours.fr">Le site des Bibliothèques virtuelles humanistes</a><br />
+Roger Chartier et Henri-Jean Martin, <em>L&rsquo;histoire de l&rsquo;édition Française<br />
+</em>Sous la direction de Dominique Varry,<em> 50 ans d’histoire du livre : 1958-2008<br />
+</em><span style="font-size: 13px;">Alain Cavalier, </span><em style="font-size: 13px;">La relieuse</em></p>
+
+            <p class="foot_content"> Cat&eacute;gorie: <a href="http://comgraph.hear.fr/category/observatoire/" rel="category tag">Observatoire</a> | <a href="http://comgraph.hear.fr/2014/12/remi-jimenes-la-typographie-source-et-objet-dhistoire-lhistorien-du-livre-face-au-design-graphique/#respond" title="Commentaire sur Rémi Jimenes, « La typographie, source et objet d&rsquo;histoire : l&rsquo;historien du livre face au design graphique »">Laisser un commentaire</a> </p>
+        </div>
+    </br>
+</div> 
+
+ 
+		
+		
+<div class="post" id="post-6250">
+    
+        
+        <div class="post_content">
+        	<h2 class="titre"><a href="http://comgraph.hear.fr/2014/12/visite-larche/" title="visite à l&rsquo;arche">visite à l&rsquo;arche</a></h2>
+            
+            
+<p class="postmetadata"> 
+<span class="date">18/12/2014</span> |
+Par <span class="auteur"><a href="http://comgraph.hear.fr/author/djelissa-latini/" title="Articles par Djelissa Latini" class="url fn" rel="author">Djelissa Latini</a> et <a href="http://comgraph.hear.fr/author/florence/" title="Articles par Florence Boudier" class="url fn" rel="author">Florence Boudier</a></span> 
+
+</p>            </br>
+
+            <p class="p1">Jeudi 27 Novembre 2014 : l’atelier de communication graphique part à Paris.</p>
+<p class="p1"><a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/dscf4923.jpg"><img class="aligncenter size-large wp-image-6282" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/dscf4923-1024x768.jpg" alt="DSCF4923" width="1024" height="768" /></a></p>
+<p class="p1">Au programme de notre séjour :</p>
+<p class="p1"><span class="s1">Jeudi et vendredi : </span>colloque international sur le design graphique et ses formes dans l’histoire organisé par Catherine de Smet, André Baldinger et Philippe Millot et modéré par Patricia Falguières avec des interventions de <span class="s1">Gerard Unger, Teal Triggs, Rick Poynor, Olivier Lugon, EnsadLab Type, Gordon Bruce, Fred Smeijers, Christopher Burke, Rémi Jimenes, et Alice Twemlow.</span></p>
+<p class="p1"><span class="s1">Samedi : visites d’ateliers au choix entre Pierre Bernard, Frédéric Teschner ou Laptop. </span></p>
+<p class="p1"><span class="s1">Nous avions aussi la possibilité de nous rendre à d’autres expositions lors de ce voyage. Nous allons partager ici notre expérience sur<span class="Apple-converted-space"> </span></span>celle de la passerelle de l’Arche Cafétéria à Verdun, de loin notre préférée !</p>
+<p class="p1"><a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/dscf4911.jpg"><img class="aligncenter size-large wp-image-6281" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/dscf4911-1024x768.jpg" alt="DSCF4911" width="1024" height="768" /></a></p>
+<p class="p4"><span class="s2">Située à </span><span class="s3">Haudiomont, près de l’aire de Verdun-Saint Nicolas sur l’autoroute A4, ce chef d’œuvre architectural est une instit</span><span class="s1">ution polyculturelle originale entièrement vouée à la création moderne et contemporaine où les arts plastiques côtoient les livres, la cuisine, le design et la grisaille.</span></p>
+<p class="p4"><span class="s1">Lors de notre visite matinale, nous avons pu découvrir plusieurs galeries toutes plus intéressantes les unes que les autres. À l’entrée de l’Arche, s’érige une majestueuse sculpture cubiste en hommage au conflit de la guerre 14-18, entourée de totems au design épuré. Ce premier aperçu nous laisse imaginer la subtilité de la collection permanente.</span></p>
+<p class="p4"><a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/10808902_1552665701612743_1935224115_n.jpg"><img class="aligncenter size-full wp-image-6252" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/10808902_1552665701612743_1935224115_n.jpg" alt="10808902_1552665701612743_1935224115_n" width="640" height="640" /></a> <a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/10858604_10154848824655456_7232975489564743573_n.jpg"><img class="aligncenter size-full wp-image-6262" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/10858604_10154848824655456_7232975489564743573_n.jpg" alt="10858604_10154848824655456_7232975489564743573_n" width="960" height="720" /></a></p>
+<p class="p7"><span class="s5">Le parcours s&rsquo;amorce au rez-de-chaussée, l’Arche propose une expérience hors-norme et unique en son genre : le spectateur est invité à gravir les marches ou à emprunter l’escalier mécanique afin de se confronter à la première galerie d’œuvres permanentes. Celle-ci présente une série de tableaux surréalistes particulièrement sensibles : </span><span class="s6">violentes dans le dessin et dans l&rsquo;application des pigments, ses lignes volantes éclaboussent avec intensité les couleurs chaudes et froides, qui se confrontent pour créer des constructions vigoureuses et sculpturales emprisonnées dans des formes organiques. </span></p>
+<p class="p8"><span class="s7">Ce </span><span class="s5">qui n’est pas sans nous rappeler l’<em>action painting</em> incarnée par Jackson Pollock.</span></p>
+<p class="p8"><a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/10850342_10152842939644361_624924939_n.jpg"><img class="aligncenter size-full wp-image-6260" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/10850342_10152842939644361_624924939_n.jpg" alt="10850342_10152842939644361_624924939_n" width="720" height="960" /></a> <a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/10850711_10152842939639361_1093914739_n.jpg"><img class="aligncenter size-full wp-image-6261" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/10850711_10152842939639361_1093914739_n.jpg" alt="10850711_10152842939639361_1093914739_n" width="720" height="960" /></a> <a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/10863619_10152842939574361_1949594024_n.jpg"><img class="aligncenter size-full wp-image-6263" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/10863619_10152842939574361_1949594024_n.jpg" alt="10863619_10152842939574361_1949594024_n" width="720" height="960" /></a> <a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/10872205_10152842939544361_2076594899_n.jpg"><img class="aligncenter size-full wp-image-6265" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/10872205_10152842939544361_2076594899_n.jpg" alt="10872205_10152842939544361_2076594899_n" width="720" height="960" /></a></p>
+<p class="p8">Il faut aussi noter avec quelle attention la scénographie de l’Arche révèle le travail des artistes, le dôme vitré surplombant cette galerie offre une lumière zénithale optimale qui participe à l’instant contemplatif, tout en étant une œuvre magistrale à part entière.</p>
+<p class="p8"><a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/10841438_10152900555749420_455057855_n.jpg"><img class="aligncenter size-full wp-image-6256" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/10841438_10152900555749420_455057855_n.jpg" alt="10841438_10152900555749420_455057855_n" width="540" height="960" /></a></p>
+<p class="p8"><a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/dscf4877-e1418827340768.jpg"><img class="aligncenter size-large wp-image-6283" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/dscf4877-e1418827340768-768x1024.jpg" alt="DSCF4877" width="768" height="1024" /></a></p>
+<p class="p10">Au bout de ce long couloir baigné de lumière, qui se veut un trait d&rsquo;union entre le début et la fin du parcours, se trouve un espace de relaxation dans lequel le spectateur fait partie intégrante de l’œuvre. Il est invité à interagir avec les différents dispositifs tel que le « Siège Massant ».</p>
+<p class="p10"><a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/dscf4879.jpg"><img class="aligncenter size-large wp-image-6330" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/dscf4879-1024x768.jpg" alt="DSCF4879" width="1024" height="768" /></a></p>
+<p class="p12"><span class="s1">Pour finir, un restaurant ainsi qu’une librairie-boutique dans laquelle on trouve une grande sélection dans le domaine des éditions d’art. </span><span class="s8">Toutes les disciplines de la création moderne et contemporaine y sont représentées : presse politique, journaux à sensations, romans, sudoku…</span></p>
+<p class="p12"><a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/10833957_10205033135840740_59793035_n.jpg"><br />
+</a> <a href="http://comgraph.hear.fr/wp-content/uploads/2014/12/10833889_10152842939529361_629793514_n.jpg"><img class="aligncenter size-full wp-image-6254" src="http://comgraph.hear.fr/wp-content/uploads/2014/12/10833889_10152842939529361_629793514_n.jpg" alt="10833889_10152842939529361_629793514_n" width="720" height="960" /></a></p>
+<p class="p12"><span class="s1">Hélas, pris par le temps, nous n’avons pas eu l’occasion d’apprécier la totalité des œuvres exposées à l’intérieur mais aussi à l’extérieur de l’Arche. Ce qui nous laisse une bonne occasion d’y revenir très prochainement. En conclusion, nous vous recommandons chaudement la visite de l’Arche Cafétéria pour son originalité et sa sélection artistique qui n’a rien à envier aux plus grands musées d’art contemporain.</span></p>
+<p class="p12">-</p>
+<p class="p12">Merci à Quentin C, Clémentine, Josué, Benjamin, Quentin L, et à Estelle pour leurs photos de l&rsquo;exposition.</p>
+
+            <p class="foot_content"> Cat&eacute;gorie: <a href="http://comgraph.hear.fr/category/observatoire/notes-de-voyage/" rel="category tag">Notes de voyage</a>, <a href="http://comgraph.hear.fr/category/observatoire/" rel="category tag">Observatoire</a> | <a href="http://comgraph.hear.fr/2014/12/visite-larche/#respond" title="Commentaire sur visite à l&rsquo;arche">Laisser un commentaire</a> </p>
+        </div>
+    </br>
+</div> 
+
+ 
+		
+<div class="navigation">
+<span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://comgraph.hear.fr/page/2/'>2</a>
+<a class='page-numbers' href='http://comgraph.hear.fr/page/3/'>3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://comgraph.hear.fr/page/31/'>31</a>
+<a class="next page-numbers" href="http://comgraph.hear.fr/page/2/">Plus ancien</a></div>
+</div>
+
+
+
+
+
+
+	<footer>
+	<p>&#169; <a href="http://hear.fr" target="_blank">HEAR</a> - atelier de Communication Graphique 2015 | <a href="http://wordpress.org/">WordPress</a></p>
+	</footer>
+
+	</div>
+</div>
+
+<div id="footer">
+</div>  
+
+<div id="fb-root"></div>
+
+</body>
