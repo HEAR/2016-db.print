@@ -61,6 +61,16 @@ La notice du format [MARC](https://fr.wikipedia.org/wiki/Machine-Readable_Catalo
 
 Pour vérifier les différents champs qui peuvent être présents dans votre export de notice au format MARC, vous pouvez utiliser le logiciel [MarcEdit](http://marcedit.reeset.net/downloads). Il est compatible avec Linux, Windows et Mac OS X.
 
+## Utiliser les scripts php
+
+Bien lire les commentaires dans le fichier de script. Si vous constatez que vous allez utiliser un code qui nécessite certains fichiers, vérifiez bien que tous vos fichiers sont bien nommés.
+
+- Ouvrir l'application terminal (sur windows cmd)
+- écrire cd + espace + glisser le dossier contenant le script que vous souhaitez executer (sur windows : dir + espace + glisser le dossier contenant le script que vous souhaitez executer)
+- appuyer sur entrée
+- écrire `php index.php` (si votre script s'appelle index.php)
+- appuyer sur entrée
+
 
 ## Récupérer les images
 
