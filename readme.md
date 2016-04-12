@@ -59,6 +59,8 @@ La notice du format [MARC](https://fr.wikipedia.org/wiki/Machine-Readable_Catalo
 
 ![Une partie des informations du bloc des informations descriptives (2xx)](tuto/unimarc.jpg)
 
+Pour vérifier les différents champs qui peuvent être présents dans votre export de notice au format MARC, vous pouvez utiliser le logiciel [MarcEdit](http://marcedit.reeset.net/downloads). Il est compatible avec Linux, Windows et Mac OS X.
+
 
 ## Récupérer les images
 
