@@ -2,7 +2,17 @@
 
 date_default_timezone_set('Europe/Paris');
 
-$liste = array("88-8215-631-1", "2-85088-086-8", "978-88-366-2652-6");
+
+set_error_handler(function($errno, $errstr, $errfile, $errline, array $errcontext) {
+    // error was suppressed with the @-operator
+    if (0 === error_reporting()) {
+        return false;
+    }
+
+    throw new ErrorException($errstr, 0, $errno, $errfile, $errline);
+});
+
+$liste = array("88-8215-631-1", "2-85088-086-8", "978-88-366-2652-6", "84-393-7103-9", "2-7013-0440-7");
 
 
 include_once("php-isbn-master/isbn.php");
@@ -25,36 +35,58 @@ include_once("php-isbn-master/isbn.php");
 
 foreach($liste as $requete){
 
-	//$requete = "88-8215-631-1";
+	downloadISBN( $requete );
+	
+}
 
-	// $urlGoogle = "https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=".$requete."&as_filetype=jpg";
 
 
-	//$url = "https://www.google.fr/search?q=".$requete."&biw=1315&bih=920&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjF05OIl-vLAhWDDBoKHQaYC2MQ_AUICSgE#tbm=isch&q=".$requete."";
+function downloadISBN($isbn = false){
 
-	$requete = Isbn::to10($requete);
+	if(!is_dir('images')){
+		mkdir('images');
+	}
 
-	$requete = str_replace('-','',$requete);
+	if($isbn){
+		//$requete = "88-8215-631-1";
 
-	echo $requete."\n";
+		// $urlGoogle = "https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=".$requete."&as_filetype=jpg";
 
-	$url = "http://www.amazon.fr/gp/aw/d/$requete/ref=mw_dp_img_1?in=1&is=l";
 
-	$result = file_get_contents($url);
+		//$url = "https://www.google.fr/search?q=".$requete."&biw=1315&bih=920&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjF05OIl-vLAhWDDBoKHQaYC2MQ_AUICSgE#tbm=isch&q=".$requete."";
 
-	$pattern = "/src\s*=\s*(\"|')(([^\"';]*))(\"|')/";
+		$isbn = Isbn::to10($isbn);
 
-	//echo $result;
+		$isbn = str_replace('-','',$isbn);
 
-	preg_match($pattern, $result, $matches, PREG_OFFSET_CAPTURE, 3);
+		echo $isbn."\n";
 
-	//print_r($matches[2][0]);
+		$url = "http://www.amazon.fr/gp/aw/d/$isbn/ref=mw_dp_img_1?in=1&is=l";
 
-	$image = file_get_contents($matches[2][0]);
+		$result = file_get_contents($url);
 
-	file_put_contents('images/'.$requete.".jpg", $image);
+		$pattern = "/src\s*=\s*(\"|')(([^\"';]*))(\"|')/";
 
-	echo date('l jS \of F Y h:i:s A')."\n";
-	echo "sleep 3\n";
-	sleep(3);
+		//echo $result;
+
+		preg_match($pattern, $result, $matches, PREG_OFFSET_CAPTURE, 3);
+
+		//print_r($matches[2][0]);
+
+		try {
+			$image = file_get_contents($matches[2][0]) ;
+
+			if($image){
+				file_put_contents('images/'.$isbn.".jpg", $image);
+
+				echo date('l jS \of F Y h:i:s A')."\n";
+				echo "sleep 3\n";
+				sleep(3);
+			}
+		} catch (Exception $e) {
+			// echo 'Caught exception: ',  $e->getMessage(), "\n";
+			echo "l'image n'existe pas pour l'ISBN $isbn\n";
+		}
+	}
+
 }
