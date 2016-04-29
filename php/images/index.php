@@ -6,8 +6,9 @@ $liste = array("88-8215-631-1", "2-85088-086-8", "978-88-366-2652-6");
 
 // AMAZON
 // http://www.amazon.fr/gp/aw/d/8882156311/ref=mw_dp_img_z?is=l&qid=1459438191&sr=8-1
-//8882156311
-//2850880868
+// 8882156311
+// 2850880868
+// 978 8836626526
 
 // GOOGLE
 // https://www.google.fr/search?q=8882156311&biw=1315&bih=920&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjF05OIl-vLAhWDDBoKHQaYC2MQ_AUICSgE#tbm=isch&q=8882156311
@@ -19,6 +20,7 @@ $liste = array("88-8215-631-1", "2-85088-086-8", "978-88-366-2652-6");
 
 
 
+
 foreach($liste as $requete){
 
 	//$requete = "88-8215-631-1";
@@ -27,6 +29,8 @@ foreach($liste as $requete){
 
 
 	$urlGoogle = "https://www.google.fr/search?q=".$requete."&biw=1315&bih=920&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjF05OIl-vLAhWDDBoKHQaYC2MQ_AUICSgE#tbm=isch&q=".$requete."";
+
+	// $urlGoogle = "https://www.amazon.fr/gp/aw/d/".$requete."?is=l&qid=1459438191&sr=8-1";
 
 	$result = file_get_contents($urlGoogle);
 

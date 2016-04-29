@@ -23,7 +23,7 @@
 // ainsi pour les notices dans le dossier « fichiers » :
 // $notice_unimarc = "fichiers/nom_de_la_notice.mrc";
 
-$notice_unimarc = "HEADBAROQUE.mrc";
+$notice_unimarc = "fichiers/Deslot-Noemie.mrc";
 
 
 // on inclue la librairie MARC.php
@@ -101,78 +101,103 @@ function print_recs($recs) {
 		 */
 
 		// la variable $retour sert à stocker les différents éléments d'une notice
-		$retour .= "\t<notice>\n";
+		$retour .= "<notice>\n";
 
 
 		// un bloc foreach sert ici à analyser les différentes zones et sous zones
 		// du format unimarc
+
 		foreach($rec->getValues('200$a') as $val){
 
 			// echo sert à afficher dans le terminal
 			echo '200$a : '.iso2709_decode($val)."\n";
 
 			// on met dans $retour tout ce que l'on veut dans son fichier xml
-			$retour .= "\t\t<titre>".iso2709_decode($val)."</titre>\n";
+			$retour .= "<titre>".iso2709_decode($val)."</titre>\n";
 		}
+
+
+		$retour .= "\t<texte>";
+		foreach($rec->getValues('200$a') as $val){
+
+			// echo sert à afficher dans le terminal
+			echo '200$a : '.iso2709_decode($val)."\n";
+
+			// on met dans $retour tout ce que l'on veut dans son fichier xml
+			$retour .= "Le livre <ital>".iso2709_decode($val)."</ital>";
+		}
+
+		
 
 		// pour chaque sous-zone souhaitée, on dublique le bloc foreach
-		foreach($rec->getValues('200$e') as $val){
-			echo '200$e : '.iso2709_decode($val)."\n";
+		// foreach($rec->getValues('200$e') as $val){
+		// 	echo '200$e : '.iso2709_decode($val)."\n";
 
-			$retour .= "\t\t<b200e>".iso2709_decode($val)."</b200e>\n";
-		}
+		// 	$retour .= "".iso2709_decode($val)."";
+		// }
 
+		$nbrISBN = 0;
 		foreach($rec->getValues('010$a') as $val){
 			// echo '010$a : '.iso2709_decode($val)."\n";
 
-			$retour .= "\t\t<isbn>".iso2709_decode($val)."</isbn>\n";
-
+			if($nbrISBN == 0){
+				$retour .= " a l'ISBN n°".iso2709_decode($val).".";
+			}
+			$nbrISBN = 1;
 
 		}
-		foreach($rec->getValues('200$b') as $val){
-			// echo '200$b : '.iso2709_decode($val)."\n";
-			$retour .= "\t\t<b200b>".iso2709_decode($val)."</b200b>\n";
-		}
-		foreach($rec->getValues('200$c') as $val){
-			// echo '200$c : '.iso2709_decode($val)."\n";
+		// foreach($rec->getValues('200$b') as $val){
+		// 	// echo '200$b : '.iso2709_decode($val)."\n";
+		// 	$retour .= "<b200b>".iso2709_decode($val)."</b200b>\n";
+		// }
+		// foreach($rec->getValues('200$c') as $val){
+		// 	// echo '200$c : '.iso2709_decode($val)."\n";
 
-			$retour .= "\t\t<b200c>".iso2709_decode($val)."</b200c>\n";
-		}
-		foreach($rec->getValues('200$d') as $val){
-			// echo '200$d : '.iso2709_decode($val)."\n";
+		// 	$retour .= "<b200c>".iso2709_decode($val)."</b200c>\n";
+		// }
+		// foreach($rec->getValues('200$d') as $val){
+		// 	// echo '200$d : '.iso2709_decode($val)."\n";
 
-			$retour .= "\t\t<b200d>".iso2709_decode($val)."</b200d>\n";
-		}
-		foreach($rec->getValues('200$e') as $val){
-			// echo '200$e : '.iso2709_decode($val)."\n";
+		// 	$retour .= "<b200d>".iso2709_decode($val)."</b200d>\n";
+		// }
+		// foreach($rec->getValues('200$e') as $val){
+		// 	// echo '200$e : '.iso2709_decode($val)."\n";
 
-			$retour .= "\t\t<b200e>".iso2709_decode($val)."</b200e>\n";
-		}
-		foreach($rec->getValues('200$f') as $val){
-			// echo '200$f : '.iso2709_decode($val)."\n";
+		// 	$retour .= "<b200e>".iso2709_decode($val)."</b200e>\n";
+		// }
+		// foreach($rec->getValues('200$f') as $val){
+		// 	// echo '200$f : '.iso2709_decode($val)."\n";
 
 
-			$retour .= "\t\t<b200f>".iso2709_decode($val)."</b200f>\n";
-		}
-		foreach($rec->getValues('200$g') as $val){
-			// echo '200$g : '.iso2709_decode($val)."\n";
+		// 	$retour .= "<b200f>".iso2709_decode($val)."</b200f>\n";
+		// }
+		// foreach($rec->getValues('200$g') as $val){
+		// 	// echo '200$g : '.iso2709_decode($val)."\n";
 
-			$retour .= "\t\t<b200g>".iso2709_decode($val)."</b200g>\n";
-		}
+		// 	$retour .= "<b200g>".iso2709_decode($val)."</b200g>\n";
+		// }
 
-		foreach($rec->getValues('205$a') as $val){
-			// echo '200$g : '.iso2709_decode($val)."\n";
+		// foreach($rec->getValues('205$a') as $val){
+		// 	// echo '200$g : '.iso2709_decode($val)."\n";
 
-			$retour .= "\t\t<b205a>".iso2709_decode($val)."</b205a>\n";
-		}
+		// 	$retour .= "<b205a>".iso2709_decode($val)."</b205a>\n";
+		// }
+
+		// foreach($rec->getValues('330$a') as $val){
+		// 	// echo '200$g : '.iso2709_decode($val)."\n";
+
+		// 	$retour .= "<b330a>".iso2709_decode($val)."</b330a>\n";
+		// }
+
+		$retour .= "</texte>\n";
 
 		foreach($rec->getValues('330$a') as $val){
-			// echo '200$g : '.iso2709_decode($val)."\n";
+		
+			$retour .= "<resume>".iso2709_decode($val)."</resume>\n";
 
-			$retour .= "\t\t<b330a>".iso2709_decode($val)."</b330a>\n";
 		}
 
-		$retour .= "\t</notice>\n";
+		$retour .= "</notice>";
 
 
 		// pour afficher une séparation dans la console entre chaque notice

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"requi",
+				"require_once〔keyword〕"
+			],
+			[
 				"font-",
 				"font-style"
 			],
@@ -39,6 +43,41 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<?php\n\ndate_default_timezone_set('Europe/Paris');\n\n$liste = array(\"88-8215-631-1\", \"2-85088-086-8\", \"978-88-366-2652-6\");\n\n// AMAZON\n// http://www.amazon.fr/gp/aw/d/8882156311/ref=mw_dp_img_z?is=l&qid=1459438191&sr=8-1\n// 8882156311\n// 2850880868\n// 978 8836626526\n\n// GOOGLE\n// https://www.google.fr/search?q=8882156311&biw=1315&bih=920&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjF05OIl-vLAhWDDBoKHQaYC2MQ_AUICSgE#tbm=isch&q=8882156311\n\n// GOOGLE AJAX\n// https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=8882156311&as_filetype=jpg\n\n// https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=978-2-84056-322-8&as_filetype=jpg\n\n\n\n\nforeach($liste as $requete){\n\n	//$requete = \"88-8215-631-1\";\n\n	// $urlGoogle = \"https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=\".$requete.\"&as_filetype=jpg\";\n\n\n	$urlGoogle = \"https://www.google.fr/search?q=\".$requete.\"&biw=1315&bih=920&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjF05OIl-vLAhWDDBoKHQaYC2MQ_AUICSgE#tbm=isch&q=\".$requete.\"\";\n\n	$result = file_get_contents($urlGoogle);\n\n	$pattern = \"/src\\s*=\\s*(\\\"|')(([^\\\"';]*))(\\\"|')/\";\n\n	//echo $result;\n\n	preg_match($pattern, $result, $matches, PREG_OFFSET_CAPTURE, 3);\n\n	//print_r($matches[2][0]);\n\n	$image = file_get_contents($matches[2][0]);\n\n	file_put_contents('images/'.$requete.\".jpg\", $image);\n\n	echo date('l jS \\of F Y h:i:s A').\"\\n\";\n	echo \"sleep 10\\n\";\n	sleep(10);\n}",
+			"file": "images/index.php",
+			"file_size": 1365,
+			"file_write_time": 131045121600000000,
+			"settings":
+			{
+				"buffer_size": 1386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "unimarc/index.php",
+			"settings":
+			{
+				"buffer_size": 5045,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "unimarc/lelivre.xml",
+			"settings":
+			{
+				"buffer_size": 71232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/readme.md",
+			"settings":
+			{
+				"buffer_size": 10931,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -47,10 +86,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 67.0,
-		"last_filter": "",
+		"height": 392.0,
+		"last_filter": "php",
 		"selected_items":
 		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
 			[
 				"bash",
 				"Set Syntax: Shell Script (Bash)"
@@ -96,7 +139,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 593.0
 	},
 	"console":
 	{
@@ -117,9 +160,19 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/php",
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/php/unimarc",
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/php/unimarc/fichiers",
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/fichiers",
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print"
 	],
 	"file_history":
 	[
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/php/unimarc/lelivre.xml",
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/php/csv/index.php",
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/php/unimarc/iso2709_decode.php",
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/php/unimarc/iso_decode.php",
+		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/php/unimarc/test.xml",
 		"/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/php/db.print",
 		"/Users/loic/Sites/pdf-generator/index.php",
 		"/Users/loic/Sites/Site_CDF/wp-content/plugins/multi-publisher/inc/tinymce_js/mp_gallery_plugin.js",
@@ -151,7 +204,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -166,6 +219,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			".mrc",
+			"ISO_decode",
+			"&",
+			"é",
 			"mp_new_option_name",
 			"settings_fields",
 			"do_settings_sections",
@@ -241,8 +298,127 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "images/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "unimarc/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1004,
+								1019
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "unimarc/lelivre.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/loic/Documents/COURS/STRASBOURG/2015-2016/A3/db.print/readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3842,
+								3842
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 961.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
