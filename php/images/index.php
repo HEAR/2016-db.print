@@ -35,13 +35,13 @@ include_once("php-isbn-master/isbn.php");
 
 foreach($liste as $requete){
 
-	downloadISBN( $requete );
+	downloadISBN( $requete, 0 );
 	
 }
 
 
 
-function downloadISBN($isbn = false){
+function downloadISBN($isbn = false, $delais = 3){
 
 	if(!is_dir('images')){
 		mkdir('images');
@@ -80,8 +80,8 @@ function downloadISBN($isbn = false){
 				file_put_contents('images/'.$isbn.".jpg", $image);
 
 				echo date('l jS \of F Y h:i:s A')."\n";
-				echo "sleep 3\n";
-				sleep(3);
+				echo "sleep $delais\n";
+				sleep( $delais );
 			}
 		} catch (Exception $e) {
 			// echo 'Caught exception: ',  $e->getMessage(), "\n";
