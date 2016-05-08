@@ -1,1605 +1,4619 @@
 <livre>
 	<notice>
-		<titre>Das barocke Universum Gotha</titre>
-		<b200e>Schätze von Schloss Friedenstein aus Archiv, Bibliothek und Museen</b200e>
-		<isbn>978-3-940998-10-1</isbn>
-		<isbn>3-940998-10-9</isbn>
-		<b200b>Texte imprime</b200b>
-		<b200e>Schätze von Schloss Friedenstein aus Archiv, Bibliothek und Museen</b200e>
-		<b200f>[Redaktion Roland Krischke, Marco Karthe (Bild) und Jutta Reinisch]</b200f>
-	</notice>
-	<notice>
-		<titre>Le Baroque en Flandres, Rubens, van Dyck, Jordaens</titre>
-		<b200e>[exposition], École nationale supérieure des beaux-arts, Paris, 16 février-7 mai 2010, Musée des beaux-arts, Rouen, février-mai 2011, Musée de la Chartreuse, Douai, 24 février-28 mai 2012</b200e>
-		<isbn>978-2-84056-322-8</isbn>
+		<titre>Livres hebdo</titre>
+		<b200b>périodique</b200b>
+	</notice>
+	<notice>
+		<titre>Visage</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Djamel Tatah</b200f>
+		<b205a>Tirage : 13/21</b205a>
+	</notice>
+	<notice>
+		<titre>Visage</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Djamel Tatah</b200f>
+		<b205a>Tirage : 24/30</b205a>
+	</notice>
+	<notice>
+		<titre>Ange</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Françoise Petrovitch </b200f>
+		<b205a>Tirage : 2/14</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie-Paule Lesage</b200f>
+		<b205a>Tirage : 1/1</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie-Paule Lesage</b200f>
+		<b205a>Tirage : 1/1</b205a>
+	</notice>
+	<notice>
+		<titre>Ramures cérébrales</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Valérie Graftieaux</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Ramures cérébrales</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Valérie Graftieaux</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 2/7</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 2/7</b205a>
+	</notice>
+	<notice>
+		<titre>Ariège, le Mas d'Azil</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Lin Delpierre</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Ariège, le Mas d'Azil</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Lin Delpierre</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Ariège, le Mas d'Azil</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Lin Delpierre</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Erevan</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Sivaslian</b200f>
+	</notice>
+	<notice>
+		<titre>Erevan</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Sivaslian</b200f>
+	</notice>
+	<notice>
+		<titre>Erevan</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Sivaslian</b200f>
+	</notice>
+	<notice>
+		<titre>Erevan</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Sivaslian</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mirnaib Hasanoglou</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mirnaib Hasanoglou</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mirnaib Hasanoglou</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mirnaib Hasanoglou</b200f>
+	</notice>
+	<notice>
+		<titre>L'ascenseur</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : V/X</b205a>
+	</notice>
+	<notice>
+		<titre>Coq carnivore</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : X/XV</b205a>
+	</notice>
+	<notice>
+		<titre>Le centaure</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : EA</b205a>
+	</notice>
+	<notice>
+		<titre>A moto c'est mieux</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : VIII/XV</b205a>
+	</notice>
+	<notice>
+		<titre>Sommernachtsraum in Antibes</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : 31/60</b205a>
+	</notice>
+	<notice>
+		<titre>Roma Venezia</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : 33/50</b205a>
+	</notice>
+	<notice>
+		<titre>Roma Venezia</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : 31/50</b205a>
+	</notice>
+	<notice>
+		<titre>Roma Venezia</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : 33/50</b205a>
+	</notice>
+	<notice>
+		<titre>Roma Venezia</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : 35/50</b205a>
+	</notice>
+	<notice>
+		<titre>Roma Venezia</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+		<b205a>Tirage : 17/50</b205a>
+	</notice>
+	<notice>
+		<titre>Lune et l'Autre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Bailly-Maïtre-Grand</b200f>
+	</notice>
+	<notice>
+		<titre>Mouches millimétrées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Bailly-Maïtre-Grand</b200f>
+	</notice>
+	<notice>
+		<titre>Endroit en verre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Bailly-Maïtre-Grand</b200f>
+		<b205a>Tirage : EA III/III</b205a>
+	</notice>
+	<notice>
+		<titre>Les anneaux d'eau</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Bailly-Maïtre-Grand</b200f>
+		<b205a>Tirage : EA II/III</b205a>
+	</notice>
+	<notice>
+		<titre>Formol 's band</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Bailly-Maïtre-Grand</b200f>
+		<b205a>Tirage : EA II/III</b205a>
+	</notice>
+	<notice>
+		<titre>Exit</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Tom Drahos</b200f>
+	</notice>
+	<notice>
+		<titre>Exit</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Tom Drahos</b200f>
+	</notice>
+	<notice>
+		<titre>Ailépouvantail hélico</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Villaume</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Ailépouvantail langues</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Villaume</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean Brault</b200f>
+		<b205a>Tirage : 4/15</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean Brault</b200f>
+		<b205a>Tirage : 4/15</b205a>
+	</notice>
+	<notice>
+		<titre>Petit pas d'éléphant</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie-Paule Lesage</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Variation sur San Peine (cirrocumulus)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ralph Samuel Grossmann</b200f>
+		<b205a>Tirage : 2/15</b205a>
+	</notice>
+	<notice>
+		<titre>Variation sur Camarat (cirrocumulus)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ralph Samuel Grossmann</b200f>
+		<b205a>Tirage : 2/15</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Claude Viallat</b200f>
+		<b205a>Tirage : 60 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Le Waldek</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anne Immelé</b200f>
+		<b205a>Tirage : 1/4</b205a>
+	</notice>
+	<notice>
+		<titre>Quartier de la Fonderie</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anne Immelé</b200f>
+		<b205a>Tirage : 2/4</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vladimir Skoda</b200f>
+		<b205a>Tirage : 15 ex.</b205a>
+	</notice>
+	<notice>
+		<titre>Zaha Hadid terminus Hoenheim nord</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Wolfram Janzer</b200f>
+	</notice>
+	<notice>
+		<titre>Zaha Hadid terminus Hoenheim nord</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Wolfram Janzer</b200f>
+	</notice>
+	<notice>
+		<titre>Pas d'éléphant XVIII</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie Paule-Lesage</b200f>
+		<b205a>Tirage : 5/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pascal Mahou</b200f>
+		<b205a>Tirage : 3/12</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pascal Mahou</b200f>
+		<b205a>Tirage : 3/9</b205a>
+	</notice>
+	<notice>
+		<titre>Orgue I</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ode Bertrand</b200f>
+		<b205a>Tirage : 13/30</b205a>
+	</notice>
+	<notice>
+		<titre>Orgue II</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ode Bertrand</b200f>
+		<b205a>Tirage : 7/10</b205a>
+	</notice>
+	<notice>
+		<titre>Mise au tombeau</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pierre Gangloff</b200f>
+	</notice>
+	<notice>
+		<titre>Equilibre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Alix Hafner</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Ombres</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Alix Hafner</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>301</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Alix Hafner</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>327</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Alix Hafner</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Marbres II</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Sagnes</b200f>
+		<b205a>Tirage : 1/9</b205a>
+	</notice>
+	<notice>
+		<titre>Marbres I</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Sagnes</b200f>
+		<b205a>Tirage : 2/8</b205a>
+	</notice>
+	<notice>
+		<titre>Hommage à Truman Capote</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pierre Gangloff</b200f>
+	</notice>
+	<notice>
+		<titre>Hommage à Edgar Allan Poe</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pierre Gangloff</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie-Paule Lesage</b200f>
+		<b205a>Tirage : 3/3</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie-Paule Lesage</b200f>
+		<b205a>Tirage : EA II/IV</b205a>
+	</notice>
+	<notice>
+		<titre>Châteaux de sable</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Camille Roux</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Châteaux de sable</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Camille Roux</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Le port du Rhin</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Louis Hess</b200f>
+	</notice>
+	<notice>
+		<titre>Le port du Rhin</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Louis Hess</b200f>
+	</notice>
+	<notice>
+		<titre>Le port du Rhin</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Louis Hess</b200f>
+	</notice>
+	<notice>
+		<titre>Le port du Rhin</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Louis Hess</b200f>
+	</notice>
+	<notice>
+		<titre>Big Grid Project</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Stéphane Mroczkowski</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Station 4-1</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Julie Meyer</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Station 4-2</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Julie Meyer</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Station 4-3</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Julie Meyer</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Taureau 4</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Louisgrand</b200f>
+		<b205a>Tirage : 1/60</b205a>
+	</notice>
+	<notice>
+		<titre>Toucans</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Louisgrand</b200f>
+		<b205a>Tirage : 3/60</b205a>
+	</notice>
+	<notice>
+		<titre>Rhinocéros</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Louisgrand</b200f>
+		<b205a>Tirage : 1/60</b205a>
+	</notice>
+	<notice>
+		<titre>La peau de l'autre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Martin</b200f>
+		<b205a>Tirage : 5/30</b205a>
+	</notice>
+	<notice>
+		<titre>La peau de l'autre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Martin</b200f>
+		<b205a>Tirage : 5/30</b205a>
+	</notice>
+	<notice>
+		<titre>La peau de l'autre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Martin</b200f>
+		<b205a>Tirage : 5/30</b205a>
+	</notice>
+	<notice>
+		<titre>La peau de l'autre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Martin</b200f>
+		<b205a>Tirage : 5/30</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Assan Smati</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Assan Smati</b200f>
+		<b205a>Tirage : 28/30</b205a>
+	</notice>
+	<notice>
+		<titre>Le brouillard se lève</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gudrun Von Maltzan</b200f>
+		<b205a>Tirage : 28/32</b205a>
+	</notice>
+	<notice>
+		<titre>Tête de chat</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Cognée</b200f>
+		<b205a>Tirage : 1/20</b205a>
+	</notice>
+	<notice>
+		<titre>Tête d'homme</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Cognée</b200f>
+		<b205a>Tirage : 4/20</b205a>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 6/20</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 6/20</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 6/20</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 6/20</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 6/20</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 6/20</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 6/20</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 6/20</b205a>
+	</notice>
+	<notice>
+		<titre>Les montagnes rêvées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Savey</b200f>
+		<b205a>Tirage : 6/20</b205a>
+	</notice>
+	<notice>
+		<titre>Les ambitieux</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Renaud Auguste-Dormeuil </b200f>
+		<b205a>Tirage : 2/6</b205a>
+	</notice>
+	<notice>
+		<titre>Les ambitieux</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Renaud Auguste-Dormeuil </b200f>
+		<b205a>Tirage : 2/6</b205a>
+	</notice>
+	<notice>
+		<titre>Tanz</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Frédérique Loutz</b200f>
+		<b205a>Tirage : 7/15</b205a>
+	</notice>
+	<notice>
+		<titre>Poupée</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Françoise Pétrovitch</b200f>
+		<b205a>Tirage : 4/14</b205a>
+	</notice>
+	<notice>
+		<titre>Suite pour le souvenir</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vincent Gagliardi</b200f>
+		<b205a>Tirage : 1/4</b205a>
+	</notice>
+	<notice>
+		<titre>Suite pour le souvenir</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vincent Gagliardi</b200f>
+		<b205a>Tirage : EA</b205a>
+	</notice>
+	<notice>
+		<titre>Suite pour le souvenir</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vincent Gagliardi</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Suite pour le souvenir</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vincent Gagliardi</b200f>
+		<b205a>Tirage : 2/3</b205a>
+	</notice>
+	<notice>
+		<titre>Carte postale, A.N.Z., 07.01</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Déborah Farnault</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Carte postale, A.N.Z., 07.01</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Déborah Farnault</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Stéphane Mroczkowski</b200f>
+	</notice>
+	<notice>
+		<titre>Gulbene, Atelier de restauration</titre>
+		<b200b>image fixe</b200b>
+		<b205a>Tirage : 2/3</b205a>
+	</notice>
+	<notice>
+		<titre>Auvents</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gauthier Sibillat</b200f>
+		<b205a>Tirage : 1/12</b205a>
+	</notice>
+	<notice>
+		<titre>Auvents</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gauthier Sibillat</b200f>
+		<b205a>Tirage : 1/12</b205a>
+	</notice>
+	<notice>
+		<titre>Songe</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Florian Tiedje</b200f>
+		<b205a>Tirage : 5/10</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Fanchon</b200f>
+		<b205a>Tirage : 15 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Bruetschy</b200f>
+		<b205a>Tirage : 35/60</b205a>
+	</notice>
+	<notice>
+		<titre>Doppel Moppel</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Frédérique Loutz</b200f>
+		<b205a>Titage : 1/11</b205a>
+	</notice>
+	<notice>
+		<titre>Juin 2002</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vincent Corpet</b200f>
+		<b205a>Tirage : 23/24</b205a>
+	</notice>
+	<notice>
+		<titre>L'enfant II</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Das Kind II</b200d>
+		<b200f>Florian Tiedje</b200f>
+		<b205a>Tirage : 3/10</b205a>
+	</notice>
+	<notice>
+		<titre>L'enfant I</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Das Kind I</b200d>
+		<b200f>Florian Tiedje</b200f>
+		<b205a>Tirage : 3/19</b205a>
+	</notice>
+	<notice>
+		<titre>Marbres I</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Sagnes</b200f>
+		<b205a>Tirage : 8 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Marbres II</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Sagnes</b200f>
+		<b205a>Tirage : 9 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Pierre Brigaudiot, Jean-Luc Jehan</b200f>
+		<b205a>Tirage : 3/18</b205a>
+	</notice>
+	<notice>
+		<titre>Semences pour deux ruses</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Charvolin, Germain Roesz</b200f>
+		<b205a>EA 5</b205a>
+	</notice>
+	<notice>
+		<titre>Son et lumière</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Wolff, Matthias Bumiller</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>La prise électrique</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Wolff,  Matthias Bumiller</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Les fruits du travail</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Wolff,  Matthias Bumiller</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Les visiteuses</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nathalie Wolff,  Matthias Bumiller</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Fly off 2 Home 1</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gabor Kerekes</b200f>
+		<b205a>Tirage : 1/9</b205a>
+	</notice>
+	<notice>
+		<titre>Aircraft cemetery 3</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gabor Kerekes</b200f>
+		<b205a>Tirage : 3/10</b205a>
+	</notice>
+	<notice>
+		<titre>Butterflies</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gabor Kerekes</b200f>
+	</notice>
+	<notice>
+		<titre>Boule de pierre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gabor Kerekes</b200f>
+		<b205a>Tirage : 5/10</b205a>
+	</notice>
+	<notice>
+		<titre>Spirale</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gabor Kerekes</b200f>
+		<b205a>Tirage : 8/10</b205a>
+	</notice>
+	<notice>
+		<titre>Dents de sagesse</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Valérie Graftieaux</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>Dents de sagesse</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Valérie Graftieaux</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>Crissement</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Valérie Graftieaux</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Crissement</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Valérie Graftieaux</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Juillet 2002</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vincent Corpet</b200f>
+		<b205a>Tirage : 28 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Nature morte, école d'art Aluksene</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Klaus Stöber</b200f>
+		<b205a>Tirage : 2/3</b205a>
+	</notice>
+	<notice>
+		<titre>Avant les forêts</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathilde Mestrallet</b200f>
+	</notice>
+	<notice>
+		<titre>Avant les forêts</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathilde Mestrallet</b200f>
+	</notice>
+	<notice>
+		<titre>Eclipse d'oeil</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Cristine Guinamand</b200f>
+		<b205a>Tirage : 34/34</b205a>
+	</notice>
+	<notice>
+		<titre>Cerf-tête</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Cristine Guinamand</b200f>
+		<b205a>Tirage : 26/26</b205a>
+	</notice>
+	<notice>
+		<titre>Der blaue Reiter</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Le cavalier bleu</b200d>
+		<b200f>Gudrun Von Maltzan</b200f>
+		<b205a>Tirage : 2/20</b205a>
+	</notice>
+	<notice>
+		<titre>Feuillée III</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gérard Titus-Carmel</b200f>
+		<b205a>Tirage : 46/55</b205a>
+	</notice>
+	<notice>
+		<titre>Le ciel au-dessus du Sertao</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Bogner</b200f>
+		<b205a>Tirage : 5 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Le ciel au-dessus du Sertao</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Bogner</b200f>
+		<b205a>Tirage : 5 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Le ciel au-dessus du Sertao</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Bogner</b200f>
+		<b205a>Tirage : 5 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Le ciel au-dessus du Sertao</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Bogner</b200f>
+		<b205a>Tirage : 5 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Pi et plis (noir)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Morellet</b200f>
+		<b205a>Tirage : 60 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Arlequinades II</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Dominique Gauthier</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Tenir debout</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Françoise Pétrovitch</b200f>
+		<b205a>Tirage : 14 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Morgenstreich</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Paul Strebel</b200f>
+	</notice>
+	<notice>
+		<titre>Ceci dit en passant</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Clochey</b200f>
+		<b205a>Tirage : 6/40</b205a>
+	</notice>
+	<notice>
+		<titre>Au bord du limbe</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Clochey</b200f>
+		<b205a>Tirage : 11/40</b205a>
+	</notice>
+	<notice>
+		<titre>Paris ville-ténèbres</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Henri Maccheroni</b200f>
+		<b205a>Tirage : 1/1</b205a>
+	</notice>
+	<notice>
+		<titre>Agglomération III</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nistor Costa</b200f>
+		<b205a>Tirage : 5/20</b205a>
+	</notice>
+	<notice>
+		<titre>Tour de passe-passe</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Elisabeth Degranges</b200f>
+		<b205a>Tirage : 5/20</b205a>
+	</notice>
+	<notice>
+		<titre>Bather and dog</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Baigneuse et chien</b200d>
+		<b205a>Tirage n?59</b205a>
+	</notice>
+	<notice>
+		<titre>2 plis</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daphné Gamble</b200f>
+		<b205a>Tirage : 8/10</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Renaud Granel</b200f>
+		<b205a>Tirage : 1/25</b205a>
+	</notice>
+	<notice>
+		<titre>Going home</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Marie Haesslé</b200f>
+		<b205a>Tirage : 46/100</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Francis Hungler</b200f>
+		<b205a>Tirage : 98/100</b205a>
+	</notice>
+	<notice>
+		<titre>Trompettiste</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Gerd Kaminski</b200f>
+		<b205a>Tirage : 53/100</b205a>
+	</notice>
+	<notice>
+		<titre>Réf K88-1</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Gerd Kaminski</b200f>
+	</notice>
+	<notice>
+		<titre>Réf K88-2</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Gerd Kaminski</b200f>
+	</notice>
+	<notice>
+		<titre>Réf K88-4</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Gerd Kaminski</b200f>
+	</notice>
+	<notice>
+		<titre>Réf K89-8</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Gerd Kaminski</b200f>
+	</notice>
+	<notice>
+		<titre>Trois bouleaux, le soir (Le Tholy, Vosges)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Pierre Kruch</b200f>
+		<b205a>Tirage : 5/10</b205a>
+	</notice>
+	<notice>
+		<titre>Marokko I</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Imre Kocsis</b200f>
+	</notice>
+	<notice>
+		<titre>Marokko II</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Imre Kocsis</b200f>
+	</notice>
+	<notice>
+		<titre>Marokko III</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Imre Kocsis</b200f>
+	</notice>
+	<notice>
+		<titre>Sorbier sous la pluie (Tendon, Vosges)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Pierre Kruch</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>Les affiches (Aubrac)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Pierre Kruch</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>La baraque en planches, Servance</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Pierre Kruch</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>Grues de Beaubourg</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean Legros</b200f>
+		<b205a>Tirage : 100/100 </b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Michel Meyer</b200f>
+		<b205a>Tirage : 2/13</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Michel Meyer</b200f>
+		<b205a>Tirage : 2/13</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Hervé Roelants, Nicolas Simonin</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Roth</b200f>
+		<b205a>Tirage : 9/100</b205a>
+	</notice>
+	<notice>
+		<titre>Horizon XIV</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Doina Simionescu</b200f>
+	</notice>
+	<notice>
+		<titre>Horizon XII</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Doina Simionescu</b200f>
+	</notice>
+	<notice>
+		<titre>Horizon X</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Doina Simionescu</b200f>
+	</notice>
+	<notice>
+		<titre>Neige III</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Robert Simon</b200f>
+		<b205a>Tirage : 17/25</b205a>
+	</notice>
+	<notice>
+		<titre>Montagne I</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Robert Simon</b200f>
+		<b205a>Tirage : 6/30</b205a>
+	</notice>
+	<notice>
+		<titre>Las Vegas</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gilbert Ebner</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gilbert Ebner</b200f>
+	</notice>
+	<notice>
+		<titre>Le mur bleu (Saint Nicolas de Port)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Pierre Kruch</b200f>
+		<b205a>Exemplaire d'usage</b205a>
+	</notice>
+	<notice>
+		<titre>Suite des cinq</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anne Petrequin</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>Suite des cinq</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anne Petrequin</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>Suite des cinq</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anne Petrequin</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>Suite des cinq</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anne Petrequin</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>Suite des cinq</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anne Petrequin</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>Les chasseurs</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bugati Vavoslav</b200f>
+		<b205a>Tirage : 5/20</b205a>
+	</notice>
+	<notice>
+		<titre>4 petites chambres</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bugati Vavoslav</b200f>
+		<b205a>Tirage : 4/20</b205a>
+	</notice>
+	<notice>
+		<titre>3 petites chambres</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bugati Vavoslav</b200f>
+		<b205a>Tirage : 13/20</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Catherine Gangloff</b200f>
+		<b205a>Tirage : EA 1/1</b205a>
+	</notice>
+	<notice>
+		<titre>Ruban noir</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Michel Dejean</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Charvolin et Bertrand Vivin</b200f>
+	</notice>
+	<notice>
+		<titre>Noire</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Claude Gagean</b200f>
+		<b205a>Tirage : 2/12</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Claude Gagean</b200f>
+		<b205a>Tirage : 3/12</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Cécile Baudoncourt, Jean-Marc Scanreigh</b200f>
+		<b205a>Tirage : 4/15</b205a>
+	</notice>
+	<notice>
+		<titre>Ils ont couru étonnés</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Didier Guth</b200f>
+		<b205a>Tirage : 13/45</b205a>
+	</notice>
+	<notice>
+		<titre>For peace</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Germain Roesz</b200f>
+		<b205a>Tirage : 33/80</b205a>
+	</notice>
+	<notice>
+		<titre>La lisière fébrile sinue les oiseaux</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Didier Guth</b200f>
+		<b205a>E.A.</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Richard Conte, Mohand Saci</b200f>
+		<b205a>Tirage : 6/30</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Hafid Mourbat</b200f>
+		<b205a>Tirage : 12/15</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vincent Bioulès</b200f>
+	</notice>
+	<notice>
+		<titre>Noire</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jacques T'Kindt, Peter Rul</b200f>
+		<b205a>Tirage : 2/6</b205a>
+	</notice>
+	<notice>
+		<titre>Songe</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Catherine Gangloff</b200f>
+		<b205a>Tirage : 25/25</b205a>
+	</notice>
+	<notice>
+		<titre>Tâches</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Claude Gagean</b200f>
+		<b205a>Tirage : 15/25</b205a>
+	</notice>
+	<notice>
+		<titre>Incisions</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Claude Gagean</b200f>
+		<b205a>Tirage : 18/25</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christiane Bricka</b200f>
+		<b205a>Tirage : 14/14</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Claude Gagean</b200f>
+		<b205a>Tirage : 5/20</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Claude Gagean</b200f>
+		<b205a>Tirage : 12/12</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Charvolin</b200f>
+		<b205a>Tirage : 3/20</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anne Suss</b200f>
+		<b205a>Tirage : 7/20</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ratiba Mokri</b200f>
+		<b205a>Tirage : 15/24</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Claude Gagean</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Dominique Angel</b200f>
+		<b205a>Tirage : 20/20</b205a>
+	</notice>
+	<notice>
+		<titre>Que calore</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Charvolin</b200f>
+		<b205a>Tirage : 7/20</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Charvolin</b200f>
+		<b205a>Tirage : 12/17</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Villaume Sylvie, Ilana Iseyaheck</b200f>
+		<b205a>Tirage : 2/13</b205a>
+	</notice>
+	<notice>
+		<titre>La puce vagabonde</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Michel Dejean</b200f>
+		<b205a>Tirage : 4/25</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ursula Reichart</b200f>
+		<b205a>Tirage : 18/24</b205a>
+	</notice>
+	<notice>
+		<titre>Mid Nude</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Sadler</b200f>
+		<b205a>Tirage : 10/15</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Louis Danicher, Catherine Gangloff</b200f>
+		<b205a>Tirage : 7/7</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raoul Hebreard</b200f>
+		<b205a>Tirage : 20/20</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Martin Geneviève</b200f>
+		<b205a>Tirage : 20/20</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Lise-Marie Brochen, Francis Jalain</b200f>
+		<b205a>Tirage : 3/12</b205a>
+	</notice>
+	<notice>
+		<titre>Soleil pourri</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sophie Desclerc</b200f>
+		<b205a>Tirage : 16/16</b205a>
+	</notice>
+	<notice>
+		<titre>Soleil pourri</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sophie Desclerc</b200f>
+		<b205a>Tirage : 16/16</b205a>
+	</notice>
+	<notice>
+		<titre>Soleil pourri</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sophie Desclerc</b200f>
+		<b205a>Tirage : 16/16</b205a>
+	</notice>
+	<notice>
+		<titre>Soleil pourri</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sophie Desclerc</b200f>
+		<b205a>Tirage : 16/16</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>José Sicard</b200f>
+		<b205a>Tirage : 20/20</b205a>
+	</notice>
+	<notice>
+		<titre>L'oiseau parfois</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Didier Guth</b200f>
+		<b205a>Tirage : 2/3</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Michel Dejean</b200f>
+		<b205a>Tirage : 1/1</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Germain Roesz</b200f>
+		<b205a>Tirage : 1/1</b205a>
+	</notice>
+	<notice>
+		<titre>Grüsse aus Dresden</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Villaume</b200f>
+		<b205a>Tirage : 5/14</b205a>
+	</notice>
+	<notice>
+		<titre>Dresden</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Villaume</b200f>
+		<b205a>Tirage : 5/14</b205a>
+	</notice>
+	<notice>
+		<titre>8 cercles</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Germain Roesz</b200f>
+		<b205a>Tirage : 1/6</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Meyer, Michel Dejean</b200f>
+		<b205a>Tirage : 8/9</b205a>
+	</notice>
+	<notice>
+		<titre>Littoral miroir</titre>
+		<b200e>série 2.2</b200e>
+		<b200b>image fixe</b200b>
+		<b200e>série 2.2</b200e>
+		<b200f>Tiphaine Gondouin</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre : hanches]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Diana Quinby</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre : main]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Diana Quinby</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre : pieds]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Diana Quinby</b200f>
+	</notice>
+	<notice>
+		<titre>Détail (fil et perles)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pierre Savatier</b200f>
+	</notice>
+	<notice>
+		<titre>Détail (fil et perles)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pierre Savatier</b200f>
+	</notice>
+	<notice>
+		<titre>Sanson et Dalila</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Benoît de Carpentier</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Godwin Hoffmann</b200f>
+		<b205a>Tirage : 37/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Godwin Hoffmann</b200f>
+	</notice>
+	<notice>
+		<titre>Triangle</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Godwin Hoffmann</b200f>
+	</notice>
+	<notice>
+		<titre>Bleu Afrique</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Françoise Saur</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Couple mixte</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Françoise Saur</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Lieux de prière</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Françoise Saur</b200f>
+		<b205a>Tirage : 12 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : rouge et violet]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Alain Clément</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre : noir et vert]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Alain Clément</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre : trame noire et orange sur fonds brun]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jacques Clauzel</b200f>
+		<b205a>Tirage : 6/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : trame serrée noire]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jacques Clauzel</b200f>
+		<b205a>Tirage : EA IV/VI</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : trame noire sur fonds beige, colonne au centre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jacques Clauzel</b200f>
+		<b205a>Tirage : 40/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : fonds beige, trame noire, large ligne beige en haut]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jacques Clauzel</b200f>
+		<b205a>Tirage : 46/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : rouge]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathew Tyson</b200f>
+		<b205a>Tirage : 6/25</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : jaune]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathew Tyson</b200f>
+		<b205a>Tirage : 6/25</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : bleu]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathew Tyson</b200f>
+		<b205a>Tirage : 6/25</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : rectangle gris sur fonds noir]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Andrea Malar</b200f>
+		<b205a>Tirage : 6/25</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : rectangle noir sur fonds gris]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Andrea Malar</b200f>
+		<b205a>Tirage : 16/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : traits noirs sur fond jaune]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Martin Noel</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre : personnages]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Hao Zhou</b200f>
+		<b205a>Tirage : EA</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre : zig-zags noirs sur fond blanc]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Hao Zhou</b200f>
+		<b205a>Tirage : 3/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ken Denning</b200f>
+		<b205a>Tirage : 8/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ken Denning</b200f>
+		<b205a>Tirage : II/XX</b205a>
+	</notice>
+	<notice>
+		<titre>Cygne</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Tony Soulié</b200f>
+	</notice>
+	<notice>
+		<titre>Forêt 2025061</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pierre Filliquet</b200f>
+		<b205a>Tirage : 5 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Forêt 2025024</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pierre Filliquet</b200f>
+		<b205a>Tirage : 5 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Forêt 2025001a</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pierre Filliquet</b200f>
+		<b205a>Tirage : 5 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>[Diptyque lune]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Suzanne Doppelt</b200f>
+		<b205a>Tirage : 4/8</b205a>
+	</notice>
+	<notice>
+		<titre>[Diptyque soleil]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Suzanne Doppelt</b200f>
+	</notice>
+	<notice>
+		<titre>[Totem à la pomme]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Suzanne Doppelt</b200f>
+		<b205a>Tirage : 4/10</b205a>
+	</notice>
+	<notice>
+		<titre>Point of recognition</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ian Paterson</b200f>
+		<b205a>Tirage : 2/15</b205a>
+	</notice>
+	<notice>
+		<titre>Point of recognition</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ian Paterson</b200f>
+	</notice>
+	<notice>
+		<titre>Pour Madeleine</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ian Paterson</b200f>
+		<b205a>Tirage : 4/15</b205a>
+	</notice>
+	<notice>
+		<titre>Trophée</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Meyer</b200f>
+	</notice>
+	<notice>
+		<titre>Trophée</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Meyer</b200f>
+	</notice>
+	<notice>
+		<titre>Trophée</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Meyer</b200f>
+	</notice>
+	<notice>
+		<titre>Projet pour les jardins familiaux de la Robertsau</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond Emile Waydelich</b200f>
+	</notice>
+	<notice>
+		<titre>Les aquatintes</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Bruetschy</b200f>
+		<b205a>Tirage : 39/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christine Crozat</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christine Crozat</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christine Crozat</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christine Crozat</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christine Crozat</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christine Crozat</b200f>
+	</notice>
+	<notice>
+		<titre>Strasbourg</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Kaminski</b200f>
+		<b205a>Tirage : 8/25</b205a>
+	</notice>
+	<notice>
+		<titre>Strasbourg</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Kaminski</b200f>
+		<b205a>Tirage : 1/25</b205a>
+	</notice>
+	<notice>
+		<titre>Strasbourg</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Max Kaminski</b200f>
+		<b205a>Tirage : 10/25</b205a>
+	</notice>
+	<notice>
+		<titre>March Suite</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Albert Merz</b200f>
+		<b205a>Tirage : 3/45</b205a>
+	</notice>
+	<notice>
+		<titre>March Suite</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Albert Merz</b200f>
+		<b205a>Tirage : 2/45</b205a>
+	</notice>
+	<notice>
+		<titre>March Suite</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Albert Merz</b200f>
+		<b205a>Tirage : 21/45</b205a>
+	</notice>
+	<notice>
+		<titre>March Suite</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Albert Merz</b200f>
+		<b205a>Tirage : 23/45</b205a>
+	</notice>
+	<notice>
+		<titre>March Suite</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Albert Merz</b200f>
+		<b205a>Tirage : 19/45</b205a>
+	</notice>
+	<notice>
+		<titre>March Suite</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Albert Merz</b200f>
+		<b205a>Tirage : 28/45</b205a>
+	</notice>
+	<notice>
+		<titre>March Suite</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Albert Merz</b200f>
+		<b205a>Tirage : 35/45</b205a>
+	</notice>
+	<notice>
+		<titre>March Suite</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Albert Merz</b200f>
+		<b205a>Tirage : 19/45</b205a>
+	</notice>
+	<notice>
+		<titre>March Suite</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Albert Merz</b200f>
+		<b205a>Tirage : 28/45</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Meureta</b200f>
+		<b205a>Tirage : 18/30</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Meureta</b200f>
+		<b205a>Tirage : 15/30</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Meureta</b200f>
+		<b205a>Tirage : 21/30</b205a>
+	</notice>
+	<notice>
+		<titre>Les musiciens de Brême</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Pierre Pincemin</b200f>
+		<b205a>Tirage : 8/50</b205a>
+	</notice>
+	<notice>
+		<titre>Le dauphin</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Pierre Pincemin</b200f>
+		<b205a>Tirage : 3/50</b205a>
+	</notice>
+	<notice>
+		<titre>Soldato</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bernard Quesniaux</b200f>
+		<b205a>Tirage : 27/30</b205a>
+	</notice>
+	<notice>
+		<titre>Mon trouble</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bernard Quesniaux</b200f>
+		<b205a>Tirage : 4/30</b205a>
+	</notice>
+	<notice>
+		<titre>Mon trouble</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bernard Quesniaux</b200f>
+		<b205a>Tirage : 22/30</b205a>
+	</notice>
+	<notice>
+		<titre>La nature du geste</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Marc Scanreigh</b200f>
+		<b205a>Tirage : 4/50</b205a>
+	</notice>
+	<notice>
+		<titre>Quant au sens</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Marc Scanreigh</b200f>
+		<b205a>Tirage : 19/50</b205a>
+	</notice>
+	<notice>
+		<titre>Son ami et son rival</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Marc Scanreigh</b200f>
+		<b205a>Tirage : 9/50</b205a>
+	</notice>
+	<notice>
+		<titre>Hiroshima my love</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mitsuo Shiraishi</b200f>
+		<b205a>Tirage : 14/30</b205a>
+	</notice>
+	<notice>
+		<titre>Hiroshima my love</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mitsuo Shiraishi</b200f>
+		<b205a>Tirage : 29/45</b205a>
+	</notice>
+	<notice>
+		<titre>Hiroshima my love</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mitsuo Shiraishi</b200f>
+		<b205a>Tirage : 9/30</b205a>
+	</notice>
+	<notice>
+		<titre>Hiroshima my love</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mitsuo Shiraishi</b200f>
+		<b205a>Tirage : 34/45</b205a>
+	</notice>
+	<notice>
+		<titre>Hiroshima my love</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mitsuo Shiraishi</b200f>
+		<b205a>Tirage : 20/45</b205a>
+	</notice>
+	<notice>
+		<titre>Hiroshima my love</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mitsuo Shiraishi</b200f>
+		<b205a>Tirage : 7/30</b205a>
+	</notice>
+	<notice>
+		<titre>Hiroshima my love</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mitsuo Shiraishi</b200f>
+		<b205a>Tirage : 15/45</b205a>
+	</notice>
+	<notice>
+		<titre>Afrique</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Tony Soulié</b200f>
+		<b205a>Tirage : 19/50</b205a>
+	</notice>
+	<notice>
+		<titre>Afrique</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Tony Soulié</b200f>
+		<b205a>Tirage : 5/50</b205a>
+	</notice>
+	<notice>
+		<titre>Afrique</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Tony Soulié</b200f>
+		<b205a>Tirage : 4/50</b205a>
+	</notice>
+	<notice>
+		<titre>Afrique</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Tony Soulié</b200f>
+		<b205a>Tirage : 30/50</b205a>
+	</notice>
+	<notice>
+		<titre>Croco signo</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Richard Texier</b200f>
+		<b205a>Tirage : 32/33</b205a>
+	</notice>
+	<notice>
+		<titre>Europa Circus</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Richard Texier</b200f>
+		<b205a>Tirage : 32/33</b205a>
+	</notice>
+	<notice>
+		<titre>Cap Mira</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Richard Texier</b200f>
+		<b205a>Tirage : 32/33</b205a>
+	</notice>
+	<notice>
+		<titre>Nielles I à V</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gérard Titus-Carmel</b200f>
+		<b205a>Tirage : 20/45</b205a>
+	</notice>
+	<notice>
+		<titre>Nielles I à V</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gérard Titus-Carmel</b200f>
+		<b205a>Tirage : 20/45</b205a>
+	</notice>
+	<notice>
+		<titre>Nielles I à V</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gérard Titus-Carmel</b200f>
+		<b205a>Tirage : 20/45</b205a>
+	</notice>
+	<notice>
+		<titre>Nielles I à V</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gérard Titus-Carmel</b200f>
+		<b205a>Tirage : 20/45</b205a>
+	</notice>
+	<notice>
+		<titre>Nielles I à V</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gérard Titus-Carmel</b200f>
+		<b205a>Tirage : 26/45</b205a>
+	</notice>
+	<notice>
+		<titre>Afrika dream</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raymond-Emile Waydelich</b200f>
+		<b205a>Tirage : 1/30</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Joël Ducorroy</b200f>
+	</notice>
+	<notice>
+		<titre>Homme ours</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Meyer</b200f>
+		<b205a>Tirage : 6/8</b205a>
+	</notice>
+	<notice>
+		<titre>Démon Lao</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Meyer</b200f>
+		<b205a>Tirage : 6/12</b205a>
+	</notice>
+	<notice>
+		<titre>Démon Lao</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Meyer</b200f>
+		<b205a>Tirage : 6/10</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Henri Goetz</b200f>
+		<b205a>Tirage : 42/44</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Henri Goetz</b200f>
+	</notice>
+	<notice>
+		<titre>22 juillet 1994, Italie San Alessio</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Denis Roche</b200f>
+	</notice>
+	<notice>
+		<titre>23 mars 1981, Gizeh, Egypte, The Sphinx House</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Denis Roche</b200f>
+	</notice>
+	<notice>
+		<titre>Le maître et son rigolo</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrice Bouvier</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Masquée</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrice Bouvier</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean Dewasne</b200f>
+	</notice>
+	<notice>
+		<titre>Rrose Sélavy</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean Dewasne</b200f>
+	</notice>
+	<notice>
+		<titre>[Shanghaï]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Bourgeois</b200f>
+	</notice>
+	<notice>
+		<titre>Journal d'un Vosges trotter</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean Claus</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mohammed El Mourid</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mohammed El Mourid</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mohammed El Mourid</b200f>
+	</notice>
+	<notice>
+		<titre>Kappala</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Stéphane Le Mercier</b200f>
+	</notice>
+	<notice>
+		<titre>Bleu figuier</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Monique Tello</b200f>
+		<b205a>Tirage : 15/16</b205a>
+	</notice>
+	<notice>
+		<titre>22 septembre 1988, Sphinx House, Gizeh, Egypte</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Denis Roche</b200f>
+	</notice>
+	<notice>
+		<titre>Forward draw for</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Avant tirage</b200d>
+		<b200f>Stéphane Le Mercier</b200f>
+	</notice>
+	<notice>
+		<titre>Empty shell dropping on empty floor</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Coquille vide tombée sur sol vide</b200d>
+		<b200f>Stéphane Le Mercier</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie-Paule Lesage</b200f>
+		<b205a>Tirage : 29/31</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie Prunier</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie Prunier</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marie Prunier</b200f>
+	</notice>
+	<notice>
+		<titre>La grande arche</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Colette Hyvrard</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>L'ombre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jan Horacek</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>Le lampadaire</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jan Horacek</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>Seule dans la nuit</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jan Horacek</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>La fête</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jan Horacek</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>Kafka</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jan Horacek</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>Sculpture du pauvre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Colette Hyvrard</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Dianatura</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marion Galut</b200f>
+		<b205a>Tirage : 2/15</b205a>
+	</notice>
+	<notice>
+		<titre>Dianatura</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marion Galut</b200f>
+		<b205a>Tirage : 2/15</b205a>
+	</notice>
+	<notice>
+		<titre>Dianatura</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marion Galut</b200f>
+		<b205a>Tirage : 2/15</b205a>
+	</notice>
+	<notice>
+		<titre>Impregnation</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marion Galut</b200f>
+		<b205a>Tirage : 1/15</b205a>
+	</notice>
+	<notice>
+		<titre>A box of ku</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Masao Yamamoto</b200f>
+		<b205a>Tirage : 1/40</b205a>
+	</notice>
+	<notice>
+		<titre>Nakazora</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Masao Yamamoto</b200f>
+		<b205a>Tirage : 36/40</b205a>
+	</notice>
+	<notice>
+		<titre>Le fonds d'Auguste B.</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Fernande Petitdemange</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Varanasi (Bénarès), Inde</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pentti Sammallahti</b200f>
+	</notice>
+	<notice>
+		<titre>Bath</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Bain</b200d>
+		<b200f>Roxana Trestioreanu</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Mirror</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Roxana Trestioreanu</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Roxana Trestioreanu</b200f>
+	</notice>
+	<notice>
+		<titre>Formes aquatiques</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Depoutot</b200f>
+	</notice>
+	<notice>
+		<titre>Trois pins et cercle</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Francis Hungler</b200f>
+		<b205a>Tirage : 4/50</b205a>
+	</notice>
+	<notice>
+		<titre>Bordelic ramdam</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Depoutot</b200f>
+	</notice>
+	<notice>
+		<titre>Pelote bleue</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Corneille</b200f>
+		<b205a>Tirage : 48/70</b205a>
+	</notice>
+	<notice>
+		<titre>La mandoline</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Tomi Ungerer</b200f>
+		<b205a>Tirage : XXX/L (30/50)</b205a>
+	</notice>
+	<notice>
+		<titre>Handlich</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Kurt Mair</b200f>
+		<b205a>Tirage : 14/40</b205a>
+	</notice>
+	<notice>
+		<titre>Volets</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anke Vrijs</b200f>
+		<b205a>Tirage : 11/25</b205a>
+	</notice>
+	<notice>
+		<titre>Personnage</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anke Vrijs</b200f>
+		<b205a>Tirage : 4/25</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Anke Vrijs</b200f>
+		<b205a>Tirage : 6/25</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Aurélie Nemours</b200f>
+		<b205a>Tirage : 45/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Aurélie Nemours</b200f>
+		<b205a>Tirage : 48/50</b205a>
+	</notice>
+	<notice>
+		<titre>Banzaï</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Depoutot</b200f>
+		<b205a>Tirage : E.A.</b205a>
+	</notice>
+	<notice>
+		<titre>Swayambhunath, Népal</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pentti Sammallahti</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Genot</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Genot</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Genot</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Genot</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Genot</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>François Genot</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Isabelle Vorle</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Isabelle Vorle</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Isabelle Vorle</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>K</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Brandely</b200f>
+	</notice>
+	<notice>
+		<titre>Sans titre n?II</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Lise-Marie Brochen</b200f>
+	</notice>
+	<notice>
+		<titre>Barbouille, brouille, gribouille, souille</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Etienne Pressager</b200f>
+		<b205a>Tirage : 10/25</b205a>
+	</notice>
+	<notice>
+		<titre>Honeymoon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Lune de miel</b200d>
+		<b200f>François Bouillon</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Honeymoon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Lune de miel</b200d>
+		<b200f>François Bouillon</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Honeymoon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Lune de miel</b200d>
+		<b200f>François Bouillon</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Honeymoon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Lune de miel</b200d>
+		<b200f>François Bouillon</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Honeymoon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Lune de miel</b200d>
+		<b200f>François Bouillon</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Honeymoon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Lune de miel</b200d>
+		<b200f>François Bouillon</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Honeymoon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Lune de miel</b200d>
+		<b200f>François Bouillon</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ursula Reichart</b200f>
+	</notice>
+	<notice>
+		<titre>Le violoncelle vit</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ben Vautier</b200f>
+		<b205a>Tirage : 81/100</b205a>
+	</notice>
+	<notice>
+		<titre>Fais moi signe, je te comprends</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ben Vautier</b200f>
+		<b205a>Tirage : 19/30 EA</b205a>
+	</notice>
+	<notice>
+		<titre>Orchestre à squelette</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Daniel Depoutot</b200f>
+	</notice>
+	<notice>
+		<titre>By and by</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Emmanuelle Giora</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Emmanuelle Giora</b200f>
+	</notice>
+	<notice>
+		<titre>Sur nature rouge</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Miguel Chevalier</b200f>
+		<b205a>Tirage : 61/75</b205a>
+	</notice>
+	<notice>
+		<titre>Genius Loci (détail d'une oeuvre de Paolini, exposée à Pourtalès)</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Le génie du lieu</b200d>
+		<b200f>Klaus Stöber</b200f>
+	</notice>
+	<notice>
+		<titre>Genius Loci (détail d'une oeuvre de Paolini, exposée à Pourtalès)</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Le génie du lieu</b200d>
+		<b200f>Klaus Stöber</b200f>
+	</notice>
+	<notice>
+		<titre>White House</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Maison Blanche</b200d>
+		<b200f>BP (groupe d'artistes)</b200f>
+	</notice>
+	<notice>
+		<titre>Somewhere under the sea</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Quelque part sous la mer</b200d>
+		<b200f>Laurent Bechtel</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Somewhere in Saudi Arabia</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Quelque part en Arabie saoudite</b200d>
+		<b200f>Laurent Bechtel</b200f>
+		<b205a>Tirage : 4/5</b205a>
+	</notice>
+	<notice>
+		<titre>Somewhere on the moon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Quelque part sur la lune</b200d>
+		<b200f>Laurent Bechtel</b200f>
+		<b205a>Tirage : 5/5</b205a>
+	</notice>
+	<notice>
+		<titre>Intrusion</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nicolas Cochard</b200f>
+	</notice>
+	<notice>
+		<titre>Diffraction</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nicolas Cochard</b200f>
+	</notice>
+	<notice>
+		<titre>Diffraction</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Nicolas Cochard</b200f>
+	</notice>
+	<notice>
+		<titre>Strates domestiques</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Cécile Holveck</b200f>
+	</notice>
+	<notice>
+		<titre>Sans titre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Lepeut</b200f>
+	</notice>
+	<notice>
+		<titre>Sans titre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Lepeut</b200f>
+	</notice>
+	<notice>
+		<titre>Sans titre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Lepeut</b200f>
+	</notice>
+	<notice>
+		<titre>Sans titre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Philippe Lepeut</b200f>
+	</notice>
+	<notice>
+		<titre>Beijing Opera</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Opéra de Pékin</b200d>
+		<b200f>Bogdan Konopka</b200f>
+		<b205a>Tirage : 4/20</b205a>
+	</notice>
+	<notice>
+		<titre>Amilly</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bogdan Konopka</b200f>
+		<b205a>Tirage : 3/20</b205a>
+	</notice>
+	<notice>
+		<titre>Le fonds d'Auguste B.</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Fernande Petitdemange</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>L'herbier photographique</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Fernande Petitdemange</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Les ailes brisées</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Fernande Petitdemange</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Sans titre [499.22]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Maxime Loiseau</b200f>
+	</notice>
+	<notice>
+		<titre>Sans titre [207.25]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Maxime Loiseau</b200f>
+	</notice>
+	<notice>
+		<titre>Sans titre [114.18]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Maxime Loiseau</b200f>
+	</notice>
+	<notice>
+		<titre>Sans titre [114.13A]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Maxime Loiseau</b200f>
+	</notice>
+	<notice>
+		<titre>Water building</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Bâtiment d'eau</b200d>
+		<b200f>Nicolas Schneider</b200f>
+	</notice>
+	<notice>
+		<titre>Just the rain</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Juste la pluie</b200d>
+		<b200f>Nicolas Schneider</b200f>
+	</notice>
+	<notice>
+		<titre>La conversation</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Cécile Holveck</b200f>
+	</notice>
+	<notice>
+		<titre>Mental horizon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Horizon mental</b200d>
+		<b200f>Christiane Geoffroy</b200f>
+	</notice>
+	<notice>
+		<titre>Mental horizon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Horizon mental</b200d>
+		<b200f>Christiane Geoffroy</b200f>
+	</notice>
+	<notice>
+		<titre>Mental horizon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Horizon mental</b200d>
+		<b200f>Christiane Geoffroy</b200f>
+	</notice>
+	<notice>
+		<titre>Mental horizon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Horizon mental</b200d>
+		<b200f>Christiane Geoffroy</b200f>
+	</notice>
+	<notice>
+		<titre>Mental horizon</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Horizon mental</b200d>
+		<b200f>Christiane Geoffroy</b200f>
+	</notice>
+	<notice>
+		<titre>Technic hole</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Trou technique</b200d>
+		<b200f>Antoine Lejolivet</b200f>
+	</notice>
+	<notice>
+		<titre>Technic hole</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Trou technique</b200d>
+		<b200f>Antoine Lejolivet</b200f>
+	</notice>
+	<notice>
+		<titre>Technic hole</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Trou technique</b200d>
+		<b200f>Antoine Lejolivet</b200f>
+	</notice>
+	<notice>
+		<titre>Mur chambre blanche</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Pic</b200f>
+	</notice>
+	<notice>
+		<titre>Mur chambre blanche</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Pic</b200f>
+	</notice>
+	<notice>
+		<titre>Mur chambre blanche</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Pic</b200f>
+	</notice>
+	<notice>
+		<titre>Mur chambre blanche</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Pic</b200f>
+	</notice>
+	<notice>
+		<titre>Petit triptyque </titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sylvie Pic</b200f>
+	</notice>
+	<notice>
+		<titre>Palestine</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Galais</b200f>
+	</notice>
+	<notice>
+		<titre>Palestine</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Galais</b200f>
+	</notice>
+	<notice>
+		<titre>Palestine, Naplouse</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Galais</b200f>
+	</notice>
+	<notice>
+		<titre>Palestine, Jéricho</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Galais</b200f>
+	</notice>
+	<notice>
+		<titre>Fragments</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Yann Owens</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Terrasse au Havre</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Yann Owens</b200f>
+		<b205a>Tirage : 4/5</b205a>
+	</notice>
+	<notice>
+		<titre>Ecran</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Yves Schemoul</b200f>
+	</notice>
+	<notice>
+		<titre>Ecran-médium</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Yves Schemoul</b200f>
+	</notice>
+	<notice>
+		<titre>Etrusque</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Yves Schemoul</b200f>
+	</notice>
+	<notice>
+		<titre>Eros orthodoxe</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Orthodox eros</b200d>
+		<b200f>Lea Golda Holterman</b200f>
+	</notice>
+	<notice>
+		<titre>Eros orthodoxe</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Orthodox eros</b200d>
+		<b200f>Lea Golda Holterman</b200f>
+	</notice>
+	<notice>
+		<titre>Eros orthodoxe</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Orthodox eros</b200d>
+		<b200f>Lea Golda Holterman</b200f>
+	</notice>
+	<notice>
+		<titre>Incident sur le réseau</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Jacques Dumont</b200f>
+	</notice>
+	<notice>
+		<titre>Powerful magnet</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Jacques Dumont</b200f>
+	</notice>
+	<notice>
+		<titre>Effacement programmé</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-Jacques Dumont</b200f>
+		<b205a>Tirage : X/100</b205a>
+	</notice>
+	<notice>
+		<titre>Beauty is energy</titre>
+		<b200b>image fixe</b200b>
+		<b200d>La beauté c'est de l'énergie</b200d>
+		<b200f>Jean-Pierre Sergent</b200f>
+	</notice>
+	<notice>
+		<titre>Beauty is energy</titre>
+		<b200b>image fixe</b200b>
+		<b200d>La beauté c'est de l'énergie</b200d>
+		<b200f>Jean-Pierre Sergent</b200f>
+	</notice>
+	<notice>
+		<titre>Le peintre invisible et les demoiselles</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean Le Gac</b200f>
+		<b205a>Tirage : 23/30</b205a>
+	</notice>
+	<notice>
+		<titre>Vanité</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Ann Loubert</b200f>
+	</notice>
+	<notice>
+		<titre>Ni vu ni connu</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Pierre Alechinsky</b200f>
+		<b205a>Tirage : 29/50</b205a>
+	</notice>
+	<notice>
+		<titre>Rythme</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Geneviève Asse</b200f>
+		<b205a>Tirage : 9/25</b205a>
+	</notice>
+	<notice>
+		<titre>Transparence bleue</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Geneviève Asse</b200f>
+		<b205a>Tirage : 5/25</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gaëlle Lucas</b200f>
+	</notice>
+	<notice>
+		<titre>Bouquet</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marc Couturier</b200f>
+	</notice>
+	<notice>
+		<titre>Bouquet</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bernadette Bour</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bram Van Velde</b200f>
+		<b205a>Tirage : 98/100</b205a>
+	</notice>
+	<notice>
+		<titre>Crime 2</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bram Van Velde</b200f>
+		<b205a>Tirage : épreuve d'artiste</b205a>
+	</notice>
+	<notice>
+		<titre>23 octobre 2008</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gaëlle Lucas</b200f>
+	</notice>
+	<notice>
+		<titre>Littoral miroir</titre>
+		<b200e>série 2.2</b200e>
+		<b200b>image fixe</b200b>
+		<b200e>série 2.2</b200e>
+		<b200f>Tiphaine Gondouin</b200f>
+	</notice>
+	<notice>
+		<titre>Littoral miroir</titre>
+		<b200e>série 2.2</b200e>
+		<b200b>image fixe</b200b>
+		<b200e>série 2.2</b200e>
+		<b200f>Tiphaine Gondouin</b200f>
+	</notice>
+	<notice>
+		<titre>Hochhäuser</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Gratte-ciel</b200d>
+		<b200f>Ingrid Rodewald</b200f>
+	</notice>
+	<notice>
+		<titre>Nacht</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Nuit</b200d>
+		<b200f>Ingrid Rodewald</b200f>
+	</notice>
+	<notice>
+		<titre>Inside</titre>
+		<b200b>image fixe</b200b>
+		<b200d>A l'intérieur</b200d>
+		<b200f>Stefano Bianchi</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Inside</titre>
+		<b200b>image fixe</b200b>
+		<b200d>A l'intérieur</b200d>
+		<b200f>Stefano Bianchi</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Dreamland Cairo</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Solmaz Shahbazi</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Dreamland Cairo</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Solmaz Shahbazi</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Dreamland Cairo</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Solmaz Shahbazi</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>Limite 02</titre>
+		<b200e>Le Caire, img 0313, Saqqara</b200e>
+		<b200b>image fixe</b200b>
+		<b200e>Le Caire, img 0313, Saqqara</b200e>
+		<b200f>Claire Chevrier</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Croisement-ville 06</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Claire Chevrier</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Oleg Kulik</b200f>
+	</notice>
+	<notice>
+		<titre>Espace + construction 09</titre>
+		<b200e>Le Caire, img 0040</b200e>
+		<b200b>image fixe</b200b>
+		<b200e>Le Caire, img 0040</b200e>
+		<b200f>Claire Chevrier</b200f>
+		<b205a>Tirage : 1/5</b205a>
+	</notice>
+	<notice>
+		<titre>Regarde devant toi, idiot, tu vas nous faire repérer</titre>
+		<b200e>(Dé)</b200e>
+		<b200b>image fixe</b200b>
+		<b200e>(Dé)</b200e>
+		<b200f>Christophe Viart</b200f>
+	</notice>
+	<notice>
+		<titre>Regarde devant toi, idiot, tu vas nous faire repérer</titre>
+		<b200e>(Masque)</b200e>
+		<b200b>image fixe</b200b>
+		<b200e>(Masque)</b200e>
+		<b200f>Christophe Viart</b200f>
+	</notice>
+	<notice>
+		<titre>Instructions</titre>
+		<b200e>(à sec)</b200e>
+		<b200b>image fixe</b200b>
+		<b200e>(à sec)</b200e>
+		<b200f>Christophe Viart</b200f>
+	</notice>
+	<notice>
+		<titre>Instructions</titre>
+		<b200e>(à sec)</b200e>
+		<b200b>image fixe</b200b>
+		<b200e>(à sec)</b200e>
+		<b200f>Christophe Viart</b200f>
+	</notice>
+	<notice>
+		<titre>2012/03</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Maren Ruben</b200f>
+	</notice>
+	<notice>
+		<titre>Panorama - A sunny summer sunday afternoon in Paris</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Renée Kool</b200f>
+		<b205a>Tirage : 1/1</b205a>
+	</notice>
+	<notice>
+		<titre>Ame seule 31</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Joël Desbouiges</b200f>
+	</notice>
+	<notice>
+		<titre>Bal</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Patrick Tosani</b200f>
+		<b205a>Tirage : 4/70, 30 E.A.</b205a>
+	</notice>
+	<notice>
+		<titre>Transamazonienne</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean Messagier</b200f>
+		<b205a>Tirage : 19/50</b205a>
+	</notice>
+	<notice>
+		<titre>Paysage</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean Messagier</b200f>
+		<b205a>Tirage : 10/20</b205a>
+	</notice>
+	<notice>
+		<titre>Feuillets</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Gérard Duchêne</b200f>
+		<b205a>Tirage : 34/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>André Masson</b200f>
+		<b205a>Tirage : 57/100</b205a>
+	</notice>
+	<notice>
+		<titre>Vous êtes ici 1-2008</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Emmanuel Bourgois</b200f>
+	</notice>
+	<notice>
+		<titre>Composition Madi</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Carmelo Arden Quin</b200f>
+		<b205a>Tirage : 33/40</b205a>
+	</notice>
+	<notice>
+		<titre>12 outils</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christian Jaccard</b200f>
+		<b205a>Tirage : 115/150</b205a>
+	</notice>
+	<notice>
+		<titre>Dessin à lacune</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Michel Seuphor</b200f>
+		<b205a>Tirage : 5/100</b205a>
+	</notice>
+	<notice>
+		<titre>Mexico</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Arthur Aeschbacher</b200f>
+		<b205a>Tirage : 33/75</b205a>
+	</notice>
+	<notice>
+		<titre>Sans titre 90/03</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vera Molnar</b200f>
+		<b205a>Tirage : 43/45</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathieu Messagier</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathieu Messagier</b200f>
+	</notice>
+	<notice>
+		<titre>Terrasse 3</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marc Desgrandchamps</b200f>
+		<b205a>Tirage : 6/15</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marjan Seyedin</b200f>
+		<b205a>Tirage : 16/50</b205a>
+	</notice>
+	<notice>
+		<titre>Vache et géométrie</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marjan Seyedin</b200f>
+		<b205a>Tirage : 18/50</b205a>
+	</notice>
+	<notice>
+		<titre>2011/012</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Maren Ruben</b200f>
+	</notice>
+	<notice>
+		<titre>Singe</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Olivier Morel</b200f>
+		<b205a>Tirage : 35/50</b205a>
+	</notice>
+	<notice>
+		<titre>Sanglier</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Olivier Morel</b200f>
+		<b205a>Tirage : 19/50</b205a>
+	</notice>
+	<notice>
+		<titre>Le twist du cammé</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-François Robic</b200f>
+		<b205a>Tirage : 1/1</b205a>
+	</notice>
+	<notice>
+		<titre>To twist or not to twist</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jean-François Robic</b200f>
+		<b205a>Tirage : 1/1</b205a>
+	</notice>
+	<notice>
+		<titre>1980, Paris, test pour solarium</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Rodolphe Hervé</b200f>
+		<b205a>Tirage : 2/7</b205a>
+	</notice>
+	<notice>
+		<titre>1 an ou 2</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vladimir Skoda</b200f>
+		<b205a>Tirage : 25/80</b205a>
+	</notice>
+	<notice>
+		<titre>Suite Botticelli</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vladimir Skoda</b200f>
+		<b205a>Tirage : 9/16</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marc Desgrandchamps</b200f>
+		<b205a>Tirage : 12/18</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bruno Rousselot</b200f>
+		<b205a>Tirage : 5/17</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bruno Rousselot</b200f>
+		<b205a>Tirage : 3/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bruno Rousselot</b200f>
+	</notice>
+	<notice>
+		<titre>Sans titre 61/92</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vera Molnar</b200f>
+		<b205a>Tirage : 3/50</b205a>
+	</notice>
+	<notice>
+		<titre>Boutons dans le metropolitain parisien</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Renée Kool</b200f>
+	</notice>
+	<notice>
+		<titre>Prolifération 1</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Cathryn Boch</b200f>
+	</notice>
+	<notice>
+		<titre>Iris... en compression 16 couleurs en dégradé</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Charles Kalt</b200f>
+		<b205a>Tirage : 4/4</b205a>
+	</notice>
+	<notice>
+		<titre>Effets de système et Iris... en compression </titre>
+		<b200b>image fixe</b200b>
+		<b200f>Charles Kalt</b200f>
+		<b205a>Tirage : 2/2</b205a>
+	</notice>
+	<notice>
+		<titre>Miroirs vénitiens</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jacqueline Salmon</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>Miroirs vénitiens</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jacqueline Salmon</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>Miroirs vénitiens</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jacqueline Salmon</b200f>
+		<b205a>Tirage : 2/10</b205a>
+	</notice>
+	<notice>
+		<titre>Occupy Berlin Pressestrand</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Occuper Berlin Pressestrand</b200d>
+		<b200f>Andreas Rost</b200f>
+		<b205a>Tirage : 1/12</b205a>
+	</notice>
+	<notice>
+		<titre>CSD</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Andreas Rost</b200f>
+		<b205a>Tirage : 7/12</b205a>
+	</notice>
+	<notice>
+		<titre>Kaboul</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Andreas Rost</b200f>
+		<b205a>Tirage : 3/12</b205a>
+	</notice>
+	<notice>
+		<titre>Kaboul</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Andreas Rost</b200f>
+		<b205a>Tirage : 3/12</b205a>
+	</notice>
+	<notice>
+		<titre>Euroflag</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Drapeau européen</b200d>
+		<b200f>Romelo Pervolovici</b200f>
+	</notice>
+	<notice>
+		<titre>Melonen</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Melons</b200d>
+		<b200f>Andrea Diefenbach</b200f>
+	</notice>
+	<notice>
+		<titre>Fernseher</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Téléviseur</b200d>
+		<b200f>Andrea Diefenbach</b200f>
+	</notice>
+	<notice>
+		<titre>Schwestern</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Soeurs</b200d>
+		<b200f>Andrea Diefenbach</b200f>
+	</notice>
+	<notice>
+		<titre>Portrait serré</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Geneviève Boutry</b200f>
+	</notice>
+	<notice>
+		<titre>Portrait serré</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Geneviève Boutry</b200f>
+	</notice>
+	<notice>
+		<titre>Mise en scène</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Geneviève Boutry</b200f>
+	</notice>
+	<notice>
+		<titre>Ecran</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Yves Schemoul</b200f>
+	</notice>
+	<notice>
+		<titre>Ecran-médium</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Yves Schemoul</b200f>
+	</notice>
+	<notice>
+		<titre>Stones</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Pierres</b200d>
+		<b200f>Reinis Hofmanis</b200f>
+	</notice>
+	<notice>
+		<titre>Stones</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Pierres</b200d>
+		<b200f>Reinis Hofmanis</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bernard Quesniaux</b200f>
+		<b205a>Tirage : 28/30</b205a>
+	</notice>
+	<notice>
+		<titre>Nocturno</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bernard Quesniaux</b200f>
+		<b205a>Tirage : 27/30</b205a>
+	</notice>
+	<notice>
+		<titre>Stocznia Gdanska</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Michal Szlaga</b200f>
+	</notice>
+	<notice>
+		<titre>Lukasz Wyczynski, painter and sandblaster operator</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Lukasz Wyczynski, peintre et opérateur sableur</b200d>
+		<b200f>Michal Szlaga</b200f>
+	</notice>
+	<notice>
+		<titre>Miastroprojekt</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Projet de ville</b200d>
+		<b200f>Alicja Karska, Aleksandra Went</b200f>
+	</notice>
+	<notice>
+		<titre>Miastroprojekt</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Projet de ville</b200d>
+		<b200f>Alicja Karska, Aleksandra Went</b200f>
+	</notice>
+	<notice>
+		<titre>Fallen</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Tombé</b200d>
+		<b200f>Dominika Skutnik</b200f>
+	</notice>
+	<notice>
+		<titre>Fallen</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Tombé</b200d>
+		<b200f>Dominika Skutnik</b200f>
+	</notice>
+	<notice>
+		<titre>Number 1</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Numéro 1</b200d>
+		<b200f>Agnieska Wolodzko</b200f>
+	</notice>
+	<notice>
+		<titre>Number 2</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Numéro 2</b200d>
+		<b200f>Agnieska Wolodzko</b200f>
+	</notice>
+	<notice>
+		<titre>encyclopedie larousse </titre>
 		<b200b>texte imprimé</b200b>
-		<b200e>[exposition], École nationale supérieure des beaux-arts, Paris, 16 février-7 mai 2010, Musée des beaux-arts, Rouen, février-mai 2011, Musée de la Chartreuse, Douai, 24 février-28 mai 2012</b200e>
-		<b200f>sous la direction d'Emmanuelle Brugerolles</b200f>
-		<b200g>[catalogue par Emmanuelle Brugerolles et Camille Debrabant]</b200g>
+	</notice>
+	<notice>
+		<titre>Peau et os</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Marc Ferrante</b200f>
+	</notice>
+	<notice>
+		<titre>Osselets 05</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marc Ferrante</b200f>
+	</notice>
+	<notice>
+		<titre>Dwynwen</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Bethan Huws</b200f>
+	</notice>
+	<notice>
+		<titre>Women with ruler</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Femmes avec règles</b200d>
+		<b200f>Andrej Pirrwitz</b200f>
+		<b205a>Tirage : 6 exemplaires</b205a>
+	</notice>
+	<notice>
+		<titre>Falscherhimmel</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Le faux ciel</b200d>
+		<b200f>Andrej Pirrwitz</b200f>
+		<b205a>Tirage : 1/6</b205a>
+	</notice>
+	<notice>
+		<titre>Lecture</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Philippe Paret</b200f>
+	</notice>
+	<notice>
+		<titre>Lecture</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Philippe Paret</b200f>
+	</notice>
+	<notice>
+		<titre>Lecture</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Philippe Paret</b200f>
+	</notice>
+	<notice>
+		<titre>La rue mêlée [n?]</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Philippe Paret</b200f>
+	</notice>
+	<notice>
+		<titre>Vienne</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marta Caradec</b200f>
+		<b205a>Tirage : 2/3</b205a>
+	</notice>
+	<notice>
+		<titre>Budapest</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Marta Caradec</b200f>
+		<b205a>Tirage : 2/3</b205a>
+	</notice>
+	<notice>
+		<titre>Barnett Newman : chronology of work (red)</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Barnett Newman : chronologie des oeuvres (rouge)</b200d>
+		<b200f>David Diao</b200f>
+		<b205a>Tirage : 26/48</b205a>
+	</notice>
+	<notice>
+		<titre>Trou-type</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Dominique De Beir</b200f>
+	</notice>
+	<notice>
+		<titre>Xtreme</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Serge Clement</b200f>
+		<b205a>Tirage : 1/10</b205a>
+	</notice>
+	<notice>
+		<titre>Im Schaum</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Dans la mousse</b200d>
+		<b200f>Eva Bertram</b200f>
+	</notice>
+	<notice>
+		<titre>Perücke</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Perruque</b200d>
+		<b200f>Eva Bertram</b200f>
+	</notice>
+	<notice>
+		<titre>Maske</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Masque</b200d>
+		<b200f>Eva Bertram</b200f>
+	</notice>
+	<notice>
+		<titre>Modèle et rêve [A1-A2]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Joël Kermarrec</b200f>
+	</notice>
+	<notice>
+		<titre>Modèle et rêve [D1-D2]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Joël Kermarrec</b200f>
+	</notice>
+	<notice>
+		<titre>suite arlésienne</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Joël Kermarrec</b200f>
+		<b205a>Tirage : 1/8</b205a>
+	</notice>
+	<notice>
+		<titre>suite tonkinoise</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Joël Kermarrec</b200f>
+		<b205a>Tirage : 1/8</b205a>
+	</notice>
+	<notice>
+		<titre>suite précieuse</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Joël Kermarrec</b200f>
+		<b205a>Tirage : 1/8</b205a>
+	</notice>
+	<notice>
+		<titre>Trading</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Serge Clément</b200f>
+		<b205a>Tirage : 1/10</b205a>
+	</notice>
+	<notice>
+		<titre>Plantations de paysages</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jérémy Laffon</b200f>
+	</notice>
+	<notice>
+		<titre>Plantations de paysages</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jérémy Laffon</b200f>
+	</notice>
+	<notice>
+		<titre>Plantations de paysages</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Jérémy Laffon</b200f>
+	</notice>
+	<notice>
+		<titre>Trou-type</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Dominique De Beir</b200f>
+	</notice>
+	<notice>
+		<titre>Affiche 32</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Dominique De Beir</b200f>
+	</notice>
+	<notice>
+		<titre>Models</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Reinis Hofmanis</b200f>
+	</notice>
+	<notice>
+		<titre>Models</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Reinis Hofmanis</b200f>
+	</notice>
+	<notice>
+		<titre>Madonna</titre>
+		<b200b>Image fixe</b200b>
+		<b200d>Madone</b200d>
+		<b200f>Luminita Liboutet</b200f>
+	</notice>
+	<notice>
+		<titre>Danse</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Claude Horstmann</b200f>
+	</notice>
+	<notice>
+		<titre>Violette</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Claude Horstmann</b200f>
+	</notice>
+	<notice>
+		<titre>Graveur</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Claude Horstmann</b200f>
+	</notice>
+	<notice>
+		<titre>Vatn</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Raom &amp; Loba</b200f>
+	</notice>
+	<notice>
+		<titre>Takk fyrir</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Raom &amp; Loba</b200f>
+		<b205a>Tirage : 4/10</b205a>
+	</notice>
+	<notice>
+		<titre>Colonia</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Raom &amp; Loba</b200f>
+	</notice>
+	<notice>
+		<titre>Double Feature</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Dennis Adams</b200f>
+		<b205a>Tirage : 4/8</b205a>
+	</notice>
+	<notice>
+		<titre>Double Feature</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Dennis Adams</b200f>
+		<b205a>Tirage : 4/8</b205a>
+	</notice>
+	<notice>
+		<titre>Cités d'urgence</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Karim Kal</b200f>
+	</notice>
+	<notice>
+		<titre>Cités d'urgence</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>karim Kal</b200f>
+	</notice>
+	<notice>
+		<titre>Aires Classifiées vacantes</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Fabienne Ballandras</b200f>
+	</notice>
+	<notice>
+		<titre>Mal V + Mal VI</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Flurina Badel</b200f>
+	</notice>
+	<notice>
+		<titre>Toy play 2</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Jouet 2</b200d>
+		<b200f>Claire Guerrier</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>René-Jacques</b200f>
+		<b205a>Tirage : 3/3</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>René-Jacques</b200f>
+	</notice>
+	<notice>
+		<titre>Revers des ivoires d'Arslan Tash</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raphaël Chipault</b200f>
+	</notice>
+	<notice>
+		<titre>Revers des ivoires d'Arslan Tash</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raphaël Chipault</b200f>
+	</notice>
+	<notice>
+		<titre>Revers des ivoires d'Arslan Tash</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Raphaël Chipault</b200f>
 	</notice>
 	<notice>
-		<titre>Cinéma et imaginaire baroque</titre>
-		<isbn>978-2-7574-0023-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Emmanuel Plasseraud</b200f>
+		<titre>Taki</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Cascade</b200d>
+		<b200f>Naohiro Ninomiya</b200f>
 	</notice>
 	<notice>
-		<titre>Johann Georg Pinsel</titre>
-		<b200e>un sculpteur baroque en Ukraine au XVIIIe siècle</b200e>
-		<b200e>[exposition, Paris, Musée du Louvre, 22 novembre 2012-25 février 2013]</b200e>
-		<isbn>978-2-35031-399-3</isbn>
-		<isbn>978-94-6161-048-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>un sculpteur baroque en Ukraine au XVIIIe siècle</b200e>
-		<b200e>[exposition, Paris, Musée du Louvre, 22 novembre 2012-25 février 2013]</b200e>
-		<b200f>[organisée avec la collaboration du Ministère de la culture de l'Ukraine et de la Galerie nationale des beaux-arts de Lviv]</b200f>
-		<b200g>[catalogue] sous la direction de Jan K. Ostrowski et Guilhem Scherf</b200g>
-		<b200g>textes de Jan K. Ostrowski, Boris Voznitsky, Claude Michaud... [et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>L'art baroque</titre>
-		<isbn>2-85088-086-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Yves Bottineau</b200f>
-		<b205a>Nouvelle éd. revue et augmentée</b205a>
+		<titre>Melting Point</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Stéphane Couturier</b200f>
+		<b205a>Tirage : 19/30</b205a>
 	</notice>
 	<notice>
-		<titre>Guido Reni, la Consegna delle chiavi</titre>
-		<b200e>un capolavoro ritorna</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>un capolavoro ritorna</b200e>
-		<b200f>[a cura di Daniele Diotallevi]</b200f>
-		<b205a>1a ed.</b205a>
-	</notice>
-	<notice>
-		<titre>Da Rubens a Maratta</titre>
-		<b200e>le meraviglie del barocco nelle Marche</b200e>
-		<isbn>978-88-366-2652-6</isbn>
-		<isbn>88-366-2652-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>le meraviglie del barocco nelle Marche</b200e>
-		<b200f>mostra a cura di Vittorio Sgarbi</b200f>
-		<b200g>catalogo a cura di Vittorio Sgarbi, Stefano Papetti</b200g>
-	</notice>
-	<notice>
-		<titre>Das Christkind im Glasschrein</titre>
-		<b200e>vom Zauber barocker Klosterarbeiten</b200e>
-		<b200e>Krippen, Christkindfiguren und barocke Klosterarbeiten aus Sammlung und Werkstatt Monika Lennartz, Mönchengladbach</b200e>
-		<b200e>[Ausstellung] Couven-Museum, Aachen, 19. November 2011 - 12. Februar 2012</b200e>
-		<isbn>978-3-929203-75-2</isbn>
-		<isbn>3-929203-75-8</isbn>
-		<b200b>Texte imprimé</b200b>
-		<b200e>vom Zauber barocker Klosterarbeiten</b200e>
-		<b200e>Krippen, Christkindfiguren und barocke Klosterarbeiten aus Sammlung und Werkstatt Monika Lennartz, Mönchengladbach</b200e>
-		<b200e>[Ausstellung] Couven-Museum, Aachen, 19. November 2011 - 12. Februar 2012</b200e>
-		<b200f>Monika Lennartz</b200f>
-		<b200g>Dr Dagmar Preising</b200g>
-	</notice>
-	<notice>
-		<titre>Las Furias</titre>
-		<b200e>Alegoría política y desafío artístico</b200e>
-		<isbn>978-84-8480-282-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Alegoría política y desafío artístico</b200e>
-		<b200f>Miguel Falomir</b200f>
+		<titre>Via Zobernig/Merkel</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Akim Sakic</b200f>
 	</notice>
 	<notice>
-		<titre>Andreas Schlüter und das barocke Berlin</titre>
-		<isbn>978-3-7774-2199-5</isbn>
-		<isbn>3-7774-2199-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>für die Skulpturensammlung und das Museum für Byzantinische Kunst - Staatliche Museen zu Berlin, hrsg von Hans-Ulrich Kessler</b200f>
+		<titre>O.T. (Stillleben)</titre>
+		<b200b>image fixe</b200b>
+		<b200d>O.T. (Nature morte)</b200d>
+		<b200f>Akim Sakic</b200f>
 	</notice>
 	<notice>
-		<titre>Architectura curiosa nova, das ist</titre>
-		<b200e>Neue Ergötzliche Sinn-und Kunstreiche auch nützliche Bau-und Wasser-Kunst vorstellend. 1. Das Fundament und die Eigenschaft des Wassers wie dasselbe durch den Lugt hochsteigend zu machen. 2. Macherley lustige Wasserspiel wie auch schöne Aufsätze. 3. Allerleyzierliche Bronnen, Fonteynen und Wasserkünste so hin und wieder in Italien, Franchkreich, Engel-und Teutschland u. mit grossem Unkosten erbauet und zu sehen sind. 4. Vielerley kostbare Grotten Lusthäuser Garten, Fürstl. Paläst und Residenzen vornehme Clöster und Schlösser in Europa befindlichen. 5. Neben beygefügten schönen Abtheilungen der Gartenländer von Zugwercken auch zu Decken oben in den Gemächern zu gebrauchen samt schönen Irrgärten. Alles in 200. wolausgearbeiteten Kupffern so meistentheils nach dem Leben gezeichnet den verständigen Liebhabern und Künstlern zum besten deutlich erkläret und beschrieben</b200e>
-		<b200b>Texte imprimé</b200b>
-		<b200e>Neue Ergötzliche Sinn-und Kunstreiche auch nützliche Bau-und Wasser-Kunst vorstellend. 1. Das Fundament und die Eigenschaft des Wassers wie dasselbe durch den Lugt hochsteigend zu machen. 2. Macherley lustige Wasserspiel wie auch schöne Aufsätze. 3. Allerleyzierliche Bronnen, Fonteynen und Wasserkünste so hin und wieder in Italien, Franchkreich, Engel-und Teutschland u. mit grossem Unkosten erbauet und zu sehen sind. 4. Vielerley kostbare Grotten Lusthäuser Garten, Fürstl. Paläst und Residenzen vornehme Clöster und Schlösser in Europa befindlichen. 5. Neben beygefügten schönen Abtheilungen der Gartenländer von Zugwercken auch zu Decken oben in den Gemächern zu gebrauchen samt schönen Irrgärten. Alles in 200. wolausgearbeiteten Kupffern so meistentheils nach dem Leben gezeichnet den verständigen Liebhabern und Künstlern zum besten deutlich erkläret und beschrieben</b200e>
-		<b200f>Durch Georg Andream Böcklern. Mit Röm. Kayserl. Majest. besonderer Gnad und Greyheit</b200f>
+		<titre>CTR 188</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Denis Pondruel</b200f>
 	</notice>
 	<notice>
-		<titre>Bernini</titre>
-		<b200e>Erfinder des barocken Rom</b200e>
-		<isbn>978-3-7356-0001-1</isbn>
-		<isbn>3-7356-0001-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Erfinder des barocken Rom</b200e>
-		<b200f>[Herausgeber, Hans-Werner Schmidt, Sebastian Schütze und Jeannette Stoschek]</b200f>
+		<titre>COR 237</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Denis Pondruel</b200f>
 	</notice>
 	<notice>
-		<titre>Baroque in Bohemia</titre>
-		<b200e>guide to the permanent exhibitions of the National Gallery in Prague, Museum of Decorative Arts in Prague and Institute of Archaeology of the Academy of Sciences of the Czech Republic, Prague</b200e>
-		<isbn>978-80-7035-528-2</isbn>
-		<isbn>80-7035-528-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>guide to the permanent exhibitions of the National Gallery in Prague, Museum of Decorative Arts in Prague and Institute of Archaeology of the Academy of Sciences of the Czech Republic, Prague</b200e>
-		<b200f>[editor Marcela Vondrá?ková</b200f>
-		<b200g>authors of texts, Tomá? Hladík, Jana Klímová, Andrea Rousová... et al.]</b200g>
+		<titre>CTR 477</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Denis Pondruel</b200f>
 	</notice>
 	<notice>
-		<titre>Das Barock- und Rococo-Ornament Deutschlands </titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>herausgegeben von Cornelius Gurlitt</b200f>
+		<titre>CTR 478</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Denis Pondruel</b200f>
 	</notice>
 	<notice>
-		<titre>Les Bas-fonds du baroque</titre>
-		<b200e>la Rome du vice et de la misère</b200e>
-		<b200e>[exposition] Académie de France à Rome - Villa Médicis [7 octobre 2014 - 18 janvier 2015] ; Petit Palais-Musée des beaux-arts de la Ville de Paris [24 février - 24 mai 2015]</b200e>
-		<isbn>9788897737537</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>la Rome du vice et de la misère</b200e>
-		<b200e>[exposition] Académie de France à Rome - Villa Médicis [7 octobre 2014 - 18 janvier 2015] ; Petit Palais-Musée des beaux-arts de la Ville de Paris [24 février - 24 mai 2015]</b200e>
-		<b200f>[organisée avec l'Académie de France à Rome-Villa Médicis]</b200f>
-		<b200g>[textes d'Annick Lemoine et Pier Luigi Pizzi]</b200g>
-	</notice>
-	<notice>
-		<titre>L'oeil et la passion 2</titre>
-		<b200e>dessins baroques italiens dans les collections privées françaises</b200e>
-		<b200e>[exposition], Musée des beaux-arts de Rennes, 26 juin-13 septembre 2015</b200e>
-		<isbn>978-94-6161-227-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>dessins baroques italiens dans les collections privées françaises</b200e>
-		<b200e>[exposition], Musée des beaux-arts de Rennes, 26 juin-13 septembre 2015</b200e>
-		<b200f>[catalogue conçu et coordonné par Catherine Monbeig Goguel, Patrick Ramade, Nicolas Schwed]</b200f>
+		<titre>CTR 527</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Denis Pondruel</b200f>
 	</notice>
 	<notice>
-		<titre>Le baroque à Florence</titre>
-		<b200e>[exposition], Cabinet des dessins Jean Bonna-Beaux-arts de Paris, 27 janvier-17 avril 2015</b200e>
-		<isbn>978-2-84056-447-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposition], Cabinet des dessins Jean Bonna-Beaux-arts de Paris, 27 janvier-17 avril 2015</b200e>
-		<b200f>commissaire de l'exposition et direction d'ouvrage, Emmanuelle Brugerolles</b200f>
+		<titre>WVZ 1060</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Elmar Trenkwalder</b200f>
 	</notice>
 	<notice>
-		<titre>Meraviglie del Barocco nelle Marche</titre>
-		<isbn>978-88-366-1782-1</isbn>
-		<isbn>88-366-1782-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>mostra a cura di Vittorio Sgarbi</b200f>
-		<b200g>catalogo a cura di Vittorio Sgarbi, Stefano Papetti</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mamadou Cissé</b200f>
 	</notice>
 	<notice>
-		<titre>Venise baroque</titre>
-		<b200e>Splendeurs et illusions</b200e>
-		<isbn>978-2-85088-302-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Splendeurs et illusions</b200e>
-		<b200f>Massimo Favilla, Ruggero Rugolo</b200f>
-		<b200g>préf. de Filippo Pedrocco</b200g>
-		<b200g>photogr. Luca Sassi</b200g>
-		<b200g>trad. de l'italien par Odile Menegaux</b200g>
-		<b330a>Le XVIIe siècle de Venise est une période de triomphe et de majesté, de rêves et d'illusions où tout était propice à l'émerveillement. La ville s'est donc mise en scène. L'ouvrage retrace l'élan baroque et esthétique qui en a découlé à travers un panorama d'ornements, de sculpture et d'architecture, de fresques et de peintures... [Electre]</b330a>
-	</notice>
-	<notice>
-		<titre>Riotous baroque</titre>
-		<b200e>from Cattelan to Zurbarán</b200e>
-		<b200e>tributes to precarious vitality</b200e>
-		<isbn>978-3-86442-015-3</isbn>
-		<isbn>978-3-906574-77-6</isbn>
-		<isbn>3-906574-77-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200d>Deftig Barock</b200d>
-		<b200e>from Cattelan to Zurbarán</b200e>
-		<b200e>tributes to precarious vitality</b200e>
-		<b200f>[curator, Bice Curiger]</b200f>
-		<b200g>[with accompanying texts by Elfriede Jelinek, Eileen Myles, Raoul Vaneigem]</b200g>
-		<b200g>[a discussion between Nike Bätzner, Michael Glasmeier, Victoria von Flemming et al.]</b200g>
-		<b200g>[and a glossary by Muriel Pérez, Filine Wagner, Gabrielle Schaad]</b200g>
-	</notice>
-	<notice>
-		<titre>Baroque</titre>
-		<b200e>la culture de l'excès</b200e>
-		<isbn>0-7148-9047-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>la culture de l'excès</b200e>
-		<b200f>par Stephen Calloway</b200f>
-		<b200g>trad. de l'anglais par Karen Fontanive</b200g>
+		<titre>WVZ 1019</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Elmar Trenkwalder</b200f>
 	</notice>
 	<notice>
-		<titre>Art et architecture en France</titre>
-		<b200e>1500-1700 </b200e>
-		<isbn>2-86589-007-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>1500-1700 </b200e>
-		<b200f>par Anthony Blunt</b200f>
-		<b200g>traduction de Monique Chatenet</b200g>
+		<titre>La rue mêlée [n?]</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Philippe Paret</b200f>
 	</notice>
 	<notice>
-		<titre>Le XVIIe siècle, I</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Philippe Daudy</b200f>
+		<titre>Gämpe 6</titre>
+		<b200b>Image fixe</b200b>
+		<b200f>Gertrud Genhart</b200f>
 	</notice>
 	<notice>
-		<titre>Die Kunst des 17. Jahrhunderts</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Erich Hubala</b200f>
-		<b200g>unter Mitarb. von Per Bjurström, Thomas W. Gaehtgens und Norbert Huse ... [et al.]</b200g>
+		<titre>One and only Royal Mirage</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Pascal Poulain</b200f>
 	</notice>
 	<notice>
-		<titre>Die Kunst der Renaissance, des Barock und des Klassizismus</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Adolf Reinle</b200f>
+		<titre>Dédoublement</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Elisabeth Frering</b200f>
 	</notice>
 	<notice>
-		<titre>Destins du baroque</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Germain Bazin</b200f>
+		<titre>Sheikh Zayed Road</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Pascal Poulain</b200f>
 	</notice>
 	<notice>
-		<titre>Architecture baroque</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Werner Hager</b200f>
-		<b200g>[traduit par] Pierre Wirth</b200g>
+		<titre>Hymne à la joie</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Claude Leveque</b200f>
+		<b205a>Tirage : /60</b205a>
 	</notice>
 	<notice>
-		<titre>Art classique et baroque</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>[sous la direction de] Noel Schumann</b200f>
-		<b200g>[avec la collaboration de] R. Legnani</b200g>
+		<titre>Ballons 2</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Quentin Cherrier</b200f>
+		<b205a>Tirage : 1/5</b205a>
 	</notice>
 	<notice>
-		<titre>Barock Architektur</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Werner Hager</b200f>
+		<titre>Ceci est un escalier</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Quentin Cherrier</b200f>
+		<b205a>Tirage : 5/5</b205a>
 	</notice>
 	<notice>
-		<titre>Barock Skulptur und Malerei</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Werner Hager</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Arnaud Vasseux</b200f>
 	</notice>
 	<notice>
-		<titre>De la réalité à la beauté</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Louis Hautecoeur</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Arnaud Vasseux</b200f>
 	</notice>
 	<notice>
-		<titre>Die Kunst des Rokoko</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von A. E. Brinkmann</b200f>
+		<titre>Banja Luka</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathieu Boisadan</b200f>
+		<b205a>Tirage : 1/1</b205a>
 	</notice>
 	<notice>
-		<titre>L'art baroque</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Pierre Charpentrat</b200f>
+		<titre>Banja Luka</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathieu Boisadan</b200f>
+		<b205a>Tirage : 1/1</b205a>
 	</notice>
 	<notice>
-		<titre>L'art classique</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par François-Georges Pariset</b200f>
+		<titre>Banja Luka</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathieu Boisadan</b200f>
+		<b205a>Tirage : 1/1</b205a>
 	</notice>
 	<notice>
-		<titre>Art et architecture en Italie</titre>
-		<b200e>1600-1750 </b200e>
-		<isbn>2-85025-239-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>1600-1750 </b200e>
-		<b200f>par Rudolf Wittkower</b200f>
-		<b200g>trad. de l'anglais par Claude F. Fritsch</b200g>
+		<titre>Banja Luka</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Mathieu Boisadan</b200f>
+		<b205a>Tirage : 1/1</b205a>
 	</notice>
 	<notice>
-		<titre>Le baroque</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Victor-Lucien Tapié</b200f>
+		<titre>Watercolor Sarajevo</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Aquarelle Sarajevo</b200d>
+		<b200f>Mathieu Boisadan</b200f>
 	</notice>
 	<notice>
-		<titre>Ungarische Kunstgeschichte</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Anton Hekler</b200f>
+		<titre>Watercolor Sarajevo</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Aquarelle Sarajevo</b200d>
+		<b200f>Mathieu Boisadan</b200f>
 	</notice>
 	<notice>
-		<titre>Renaissance et baroque </titre>
-		<isbn>2-85226-001-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Heinrich Wölfflin</b200f>
-		<b200g>traduction de Guy Ballangé</b200g>
-		<b200g>présentation de Bernard Teyssèdre</b200g>
+		<titre>Watercolor Sarajevo</titre>
+		<b200b>image fixe</b200b>
+		<b200d>Aquarelle Sarajevo</b200d>
+		<b200f>Mathieu Boisadan</b200f>
 	</notice>
 	<notice>
-		<titre>L'Art religieux après le Concile de Trente</titre>
-		<b200e>étude sur l'iconographie de la fin du XVIe siècle, du XVIIe, du XVIIIe siècle</b200e>
-		<b200e>Italie, France, Espagne, Flandres</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>étude sur l'iconographie de la fin du XVIe siècle, du XVIIe, du XVIIIe siècle</b200e>
-		<b200e>Italie, France, Espagne, Flandres</b200e>
-		<b200f>par Emile Mâle</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Dominique Auerbacher</b200f>
 	</notice>
 	<notice>
-		<titre>L'architecture au siècle des Lumières</titre>
-		<b200b>texte imprimé</b200b>
-		<b200d>(architecture in the age of reason) : baroque et post-baroque en Angleterre, en Italie et en France</b200d>
-		<b200f>par Emil Kaufmann</b200f>
-		<b200g>traduit par Olivier Bernier</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Dominique Auerbacher</b200f>
 	</notice>
 	<notice>
-		<titre>Barok und Rokoko in den Schlössern von Berlin und Potsdam</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Edwin Redslob</b200f>
-		<b200g>ill. von Peter Cürlis</b200g>
+		<titre>Embûches (Scierie de Métabetchouan)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Katrin Gattinger</b200f>
 	</notice>
 	<notice>
-		<titre>L'Art baroque </titre>
-		<isbn>2-85088-016-7</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Yves Bottineau</b200f>
+		<titre>Embûches (Piscine de Dam-en-Terre)</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Katrin Gattinger</b200f>
 	</notice>
 	<notice>
-		<titre>Johann Conrad Schlaun 1695-1773</titre>
-		<b200e>Architektur des Spätbarock in Europa</b200e>
-		<b200e>[Münster, Westfälisches Landesmuseum für Kunst und Kulturgeschichte, 7. Mai-6. August 1995]</b200e>
-		<isbn>3-927789-78-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Architektur des Spätbarock in Europa</b200e>
-		<b200e>[Münster, Westfälisches Landesmuseum für Kunst und Kulturgeschichte, 7. Mai-6. August 1995]</b200e>
-		<b200f>hrsg. von Klaus Bussmann, Florian Matzner und Ulrich Schulze</b200f>
+		<titre>[Sans titre] [Ref GJF.1298]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Sam Francis</b200f>
 	</notice>
 	<notice>
-		<titre>L'Amour de l'art</titre>
-		<b200e>le gout de deux amateurs pour le baroque italien</b200e>
-		<b200e>[Strasbourg, Musée des Beaux-Arts, 1987]</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>le gout de deux amateurs pour le baroque italien</b200e>
-		<b200e>[Strasbourg, Musée des Beaux-Arts, 1987]</b200e>
-		<b200f>[sous la dir. de] Roland Recht et Alain Roy</b200f>
-		<b200g>[avec la collab. de] Anny-Claire Haus et Marie-Jeanne Geyer</b200g>
+		<titre>Jaune et noir</titre>
+		<b200e>Petit format I</b200e>
+		<b200b>image fixe </b200b>
+		<b200e>Petit format I</b200e>
+		<b200f>François Bruetschy</b200f>
+		<b205a>Tirage : 9/60</b205a>
 	</notice>
 	<notice>
-		<titre>Trois essais sur le style</titre>
-		<isbn>2-07-074344-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Erwin Panofsky</b200f>
-		<b200g>rassemblés et présentés par Irving Lavin</b200g>
-		<b200g>avec un texte de William S. Heckscher</b200g>
-		<b200g>trad. de l'anglais par Bernard Turle</b200g>
-		<b205a>3ème éd. rev. et augm.</b205a>
-	</notice>
-	<notice>
-		<titre>Music in painting</titre>
-		<b200e>music as symbol in European Renaissance and baroque painting</b200e>
-		<isbn>963-13-2681-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>music as symbol in European Renaissance and baroque painting</b200e>
-		<b200f>by Ildiko Ember</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Vladimir Velickovic</b200f>
 	</notice>
 	<notice>
-		<titre>Puissance du baroque</titre>
-		<b200e>les forces, les formes, les rationalités </b200e>
-		<isbn>2-7186-0477-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>les forces, les formes, les rationalités </b200e>
-		<b200f>par Hubert Damisch, John Pedersen, Maryse Laffitte ... [et al.]</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean Legros</b200f>
+		<b205a>Tirage : 431/500</b205a>
 	</notice>
 	<notice>
-		<titre>Roman baroque sculpture</titre>
-		<b200e>the industry of art</b200e>
-		<isbn>0-300-04392-9</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>the industry of art</b200e>
-		<b200f>by Jennifer Montagu</b200f>
+		<titre>Aires classifiées vacantes</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Fabienne Ballandras</b200f>
 	</notice>
 	<notice>
-		<titre>Alsace baroque &amp; classique</titre>
-		<b200e>1660-1790 </b200e>
-		<isbn>2-908367-43-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>1660-1790 </b200e>
-		<b200f>par François Souchal, Bernard Vogler et Théodore Rieger</b200f>
+		<titre>In Tuscia bis (01)</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Salvatore Puglia</b200f>
 	</notice>
 	<notice>
-		<titre>Dictionnaire de la sculpture</titre>
-		<b200e>la sculpture occidentale du Moyen âge à nos jours </b200e>
-		<isbn>2-03-511309-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>la sculpture occidentale du Moyen âge à nos jours </b200e>
-		<b200f>sous la direction de Jean-Philippe Breuille</b200f>
+		<titre>Giovaretti Remix</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Salvatore Puglia</b200f>
 	</notice>
 	<notice>
-		<titre>B.-K., baroque et kitsch</titre>
-		<b200e>imaginaires de rupture </b200e>
-		<isbn>2-7427-1242-9</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>imaginaires de rupture </b200e>
-		<b200f>par Jean  Duvignaud</b200f>
+		<titre>Igor, Roma et Aksor</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Eric Vazzoler</b200f>
+		<b205a>Tirage : 7/30</b205a>
 	</notice>
 	<notice>
-		<titre>Baroque</titre>
-		<b200e>la culture de l'excès</b200e>
-		<isbn>0-7148-9047-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>la culture de l'excès</b200e>
-		<b200f>par Stephen Calloway</b200f>
-		<b200g>trad. de l'anglais par Karen Fontanive</b200g>
-	</notice>
-	<notice>
-		<titre>Johann Wilhelm Baur 1607-1642</titre>
-		<b200e>maniérisme et baroque en Europe</b200e>
-		<b200e>Strasbourg, Palais Rohan, galerie Robert Heitz, du 14 mars au 16 juin 1998</b200e>
-		<isbn>2-87660-217-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>maniérisme et baroque en Europe</b200e>
-		<b200e>Strasbourg, Palais Rohan, galerie Robert Heitz, du 14 mars au 16 juin 1998</b200e>
-		<b200f>préf. de Rodolphe Rapetti</b200f>
-		<b200g>par Jacques Thuillier, Régine Bonnefoit, Anny-Claire Haus ... [et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>Die Kunst ders Barock</titre>
-		<b200e>Architektur, Skulptur , Malerei</b200e>
-		<isbn>3-89508-991-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Architektur, Skulptur , Malerei</b200e>
-		<b200f>hrsg. von Rolf Toman</b200f>
-		<b200g>von Rolf Toman, Birgit Beyer, Barbara Borngässer ... [et al.]</b200g>
-		<b200g>Photogr. von Achim Bednorz</b200g>
+		<titre>Giovaretti Remix</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Salvatore Puglia</b200f>
 	</notice>
 	<notice>
-		<titre>Baroque et classicisme</titre>
-		<isbn>2-253-02441-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Victor-L. Tapié,...</b200f>
-		<b200g>préface de Marc Fumaroli,..</b200g>
-	</notice>
-	<notice>
-		<titre>(N)ombres</titre>
-		<b200e>Baroque et modernité</b200e>
-		<b200e>Actes des cycles de conférences publiques sur le baroque et la modernité, organisés dans le cadre d'un projet pédagogique</b200e>
-		<b200e>Baroque en mars 1991 et (N)ombres en mars 1992</b200e>
-		<isbn>2-906743-03-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Baroque et modernité</b200e>
-		<b200e>Actes des cycles de conférences publiques sur le baroque et la modernité, organisés dans le cadre d'un projet pédagogique</b200e>
-		<b200e>Baroque en mars 1991 et (N)ombres en mars 1992</b200e>
-		<b200f>par Ecole régionale des Beaux-arts du Mans</b200f>
+		<titre>Giovaretti Remix</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Salvatore Puglia</b200f>
 	</notice>
 	<notice>
-		<titre>Baroque</titre>
-		<b200e>Italie et Europe centrale</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>Italie et Europe centrale</b200e>
-		<b200f>par Pierre Charpentrat </b200f>
-		<b200g>photogr. de Peter Heman</b200g>
+		<titre>In Tuscia bis (02)</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Salvatore Puglia</b200f>
 	</notice>
 	<notice>
-		<titre>Renaissance, Maniérisme, Baroque</titre>
-		<b200e>actes du XIe stage international de Tours</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>actes du XIe stage international de Tours</b200e>
-		<b200f>[textes de] F. Simone, A. Boase  et R. Sayce ... [et al.]</b200f>
+		<titre>In Tuscia bis (03)</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Salvatore Puglia</b200f>
 	</notice>
 	<notice>
-		<titre>Histoire de l'art</titre>
-		<b200e>la grande aventure des trésors du monde</b200e>
-		<b200e>tome VI</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>la grande aventure des trésors du monde</b200e>
-		<b200e>tome VI</b200e>
-		<b200f>par Jean Cassou</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean Legros</b200f>
+		<b205a>Tirage : 431/500</b205a>
 	</notice>
 	<notice>
-		<titre>Histoire de l'Art: T.2</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>sous la dir. de Albert Chatelet et Bernard Philippe Groslier</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean Legros</b200f>
+		<b205a>Tirage : 431/500</b205a>
 	</notice>
 	<notice>
-		<titre>Zeichne Passeri Zeichne...und verliere keine Zeit</titre>
-		<b200e>Giuseppe Passeri (1654-1714) in seiner Zeit</b200e>
-		<b200e>Zeichnungen und Ölstudien des Barock</b200e>
-		<b200e>Düsseldorf, Kunstmuseum Düsseldorf im Ehrenhof, 23. April - 25. Juni 1995</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>Giuseppe Passeri (1654-1714) in seiner Zeit</b200e>
-		<b200e>Zeichnungen und Ölstudien des Barock</b200e>
-		<b200e>Düsseldorf, Kunstmuseum Düsseldorf im Ehrenhof, 23. April - 25. Juni 1995</b200e>
-		<b200f>[Ausstellung im] Kunstmuseum. Düsseldorf, Allemagne</b200f>
-		<b200g>Katalogbearbeitung Bettina Baumgärtel</b200g>
-	</notice>
-	<notice>
-		<titre>[Baroque Napolitain]</titre>
-		<b200e>La peinture à Naples au XVIIe siècle</b200e>
-		<b200e>Oeuvres des collections publiques et privées napolitaines</b200e>
-		<b200e>Strasbourg, Musée des Beaux-Arts, 5 mars au 23 mai 1994</b200e>
-		<b200e>Bordeaux, Musée des Beaux-Arts, 3 juin au 21 août 1994</b200e>
-		<isbn>2-901833-21-7</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>La peinture à Naples au XVIIe siècle</b200e>
-		<b200e>Oeuvres des collections publiques et privées napolitaines</b200e>
-		<b200e>Strasbourg, Musée des Beaux-Arts, 5 mars au 23 mai 1994</b200e>
-		<b200e>Bordeaux, Musée des Beaux-Arts, 3 juin au 21 août 1994</b200e>
-		<b200f>textes de Nicola Spinosa, Biagio de Giovanni et Alain Roy</b200f>
+		<titre>Jaune et noir</titre>
+		<b200e>Petit format I</b200e>
+		<b200b>image fixe </b200b>
+		<b200e>Petit format I</b200e>
+		<b200f>François Bruetschy</b200f>
+		<b205a>Tirage : 9/60</b205a>
 	</notice>
 	<notice>
-		<titre>Die Architektur der Barok- und Rokokozeit in Deutschland und der Schweiz</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Hermann Popp</b200f>
+		<titre>Jaune et noir</titre>
+		<b200e>Petit format I</b200e>
+		<b200b>image fixe </b200b>
+		<b200e>Petit format I</b200e>
+		<b200f>François Bruetschy</b200f>
+		<b205a>Tirage : 9/60</b205a>
 	</notice>
 	<notice>
-		<titre>Johann Conrad Schlaun 1695-1773</titre>
-		<b200e>die Sakralbauten</b200e>
-		<isbn>3-88789-108-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>die Sakralbauten</b200e>
-		<b200f>von Barbara Busskamp</b200f>
+		<titre>Jaune et noir</titre>
+		<b200e>Petit format I</b200e>
+		<b200b>image fixe </b200b>
+		<b200e>Petit format I</b200e>
+		<b200f>François Bruetschy</b200f>
+		<b205a>Tirage : 9/60</b205a>
 	</notice>
 	<notice>
-		<titre>Zeichnungen des deutschen Barock</titre>
-		<isbn>3-7861-1922-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>[hrsg. von] Staatliche Museen. Berlin. Kupferstichkabinett</b200f>
-		<b200g>von Sibylle Gross</b200g>
+		<titre>Jaune et noir</titre>
+		<b200e>Petit format I</b200e>
+		<b200b>image fixe </b200b>
+		<b200e>Petit format I</b200e>
+		<b200f>François Bruetschy</b200f>
+		<b205a>Tirage : 9/60</b205a>
 	</notice>
 	<notice>
-		<titre>Baroque painting in Madrid</titre>
-		<b200e>The contribution of Claudio Coello with a catalogue raisonné of his works</b200e>
-		<isbn>0-8262-0614-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>The contribution of Claudio Coello with a catalogue raisonné of his works</b200e>
-		<b200f>by Edward J. Sullivan</b200f>
+		<titre>Jaune et noir</titre>
+		<b200e>Petit format I</b200e>
+		<b200b>image fixe </b200b>
+		<b200e>Petit format I</b200e>
+		<b200f>François Bruetschy</b200f>
+		<b205a>Tirage : 9/60</b205a>
 	</notice>
 	<notice>
-		<titre>Trésor artistique de Belgique</titre>
-		<b200e>roman, gothique, renaissance, baroque</b200e>
-		<b200e>les quatre époques de l'art flamand</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>roman, gothique, renaissance, baroque</b200e>
-		<b200e>les quatre époques de l'art flamand</b200e>
-		<b200f>[introd. par] Jacques Lavalleye</b200f>
+		<titre>Jaune et noir</titre>
+		<b200e>Petit format II</b200e>
+		<b200b>image fixe </b200b>
+		<b200e>Petit format II</b200e>
+		<b200f>François Bruetschy</b200f>
+		<b205a>Tirage : 68/160</b205a>
 	</notice>
 	<notice>
-		<titre>Studien zur barocken Gartenskulptur</titre>
-		<isbn>83-232-0886-7</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Konstanty Kalinowski</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Vladimir Velickovic</b200f>
 	</notice>
 	<notice>
-		<titre>Barok</titre>
-		<isbn>80-8059-014-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>door Ivan Rusina</b200f>
-		<b200g>met medew. van Jindra Bakosova, Jarmila Bencova en Vladimir Beskid ... [et al.]</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Vladimir Velickovic</b200f>
 	</notice>
 	<notice>
-		<titre>Le baroque</titre>
-		<b200e>profondeurs de l'apparence </b200e>
-		<isbn>2-86781-149-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>profondeurs de l'apparence </b200e>
-		<b200f>par Claude-Gilbert Dubois</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Vladimir Velickovic</b200f>
 	</notice>
 	<notice>
-		<titre>Art et architecture en Italie</titre>
-		<b200e>1600-1750</b200e>
-		<isbn>2-85025-239-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>1600-1750</b200e>
-		<b200f>Rudolf Wittkower</b200f>
-		<b200g>trad. de... [la 4e éd. anglaise] par Claude F. Fritsch</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Vladimir Velickovic</b200f>
 	</notice>
 	<notice>
-		<titre>La Grâce baroque</titre>
-		<b200e>Chefs-d'oeuvre de l'Ecole de Quito</b200e>
-		<isbn>2-909290-20-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Chefs-d'oeuvre de l'Ecole de Quito</b200e>
-		<b200f>[avant-propos de] Marie-Hélène Jouzeau et Edouard Pommier</b200f>
-		<b200g>[textes de] Marcos Rivadeneira S., Carlos Villasis Endara et Alexandra Kennedy Troya ... [et al.]</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Vladimir Velickovic</b200f>
 	</notice>
 	<notice>
-		<titre>Le XVIIe siècle</titre>
-		<isbn>2-02-032443-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Joel Cornette et Alain Mérot</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Vladimir Velickovic</b200f>
 	</notice>
 	<notice>
-		<titre>Rome 1630</titre>
-		<b200e>l'horizon du premier baroque</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>l'horizon du premier baroque</b200e>
-		<b200f>par Yves Bonnefoy</b200f>
+		<titre>Hypnotique n?</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Marion Galut</b200f>
+		<b205a>Tirage : 1/8</b205a>
 	</notice>
 	<notice>
-		<titre>Le XVIIe siècle</titre>
-		<b200b>texte imprimé</b200b>
+		<titre>La main du plaisir</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-Luc Verna</b200f>
 	</notice>
 	<notice>
-		<titre>L'Artifice </titre>
-		<isbn>2-246-40581-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Guy Scarpetta</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Joséphine Kaeppelin</b200f>
 	</notice>
 	<notice>
-		<titre>Art et pouvoirs à l'âge baroque</titre>
-		<b200e>crise mystique et crise esthétique aux XVIe et XVIIe siècles </b200e>
-		<isbn>2-7384-0495-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>crise mystique et crise esthétique aux XVIe et XVIIe siècles </b200e>
-		<b200f>par Christine Poletto</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Joséphine Kaeppelin</b200f>
 	</notice>
 	<notice>
-		<titre>Der Barock als Kunst der Gegenreformation</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Werner Weisbach</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Joséphine Kaeppelin</b200f>
 	</notice>
 	<notice>
-		<titre>Arts baroques</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Claude Roy</b200f>
+		<titre>Naufrage 1</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Laurent Impeduglia</b200f>
 	</notice>
 	<notice>
-		<titre>Meesters van het zuiden</titre>
-		<b200e>Barokschilders rondom Rubens</b200e>
-		<isbn>90-5349-315-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Barokschilders rondom Rubens</b200e>
-		<b200f>door Paul Huys Janssen</b200f>
-		<b200g>met medew. van Marc De Beyer, Axel Heinrich en Hans Vlieghe</b200g>
+		<titre>Temple 1</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Laurent Impeduglia</b200f>
 	</notice>
 	<notice>
-		<titre>Barockmalerei in den Germanischen Ländern</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Willi Drost</b200f>
+		<titre>Schone neue Welt</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Laurent Impeduglia</b200f>
 	</notice>
 	<notice>
-		<titre>Barockmalerei in den Romanischen Ländern</titre>
-		<b200e>die italienische Malerei vom ende der Renaissance bis zum Ausgehenden Rokoko, die Malerei im Barockzeitalter in Frankreich und Spanien</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>die italienische Malerei vom ende der Renaissance bis zum Ausgehenden Rokoko, die Malerei im Barockzeitalter in Frankreich und Spanien</b200e>
-		<b200f>von Nikolaus  Pevsner und Otto Grautoff</b200f>
+		<titre>The wall</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Laurent Impeduglia</b200f>
 	</notice>
 	<notice>
-		<titre>Barockskulptur</titre>
-		<b200e>entwicklungsgeschichte der Skulptur in den Romanischen und Germanischen Ländern seit Michelangelo bis zum Beginn des 18. Jahrhunderts</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>entwicklungsgeschichte der Skulptur in den Romanischen und Germanischen Ländern seit Michelangelo bis zum Beginn des 18. Jahrhunderts</b200e>
-		<b200f>von A. E. Brinckmann</b200f>
+		<titre>Profil</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Bernard Lallemand</b200f>
+		<b205a>Tirage : 2/3</b205a>
 	</notice>
 	<notice>
-		<titre>Italienische Barockporträts</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Hans Tietze</b200f>
+		<titre>Profil</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Bernard Lallemand</b200f>
+		<b205a>Tirage : 1/3</b205a>
 	</notice>
 	<notice>
-		<titre>Römische Barock-Brunnen</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Walter Friedlaender</b200f>
+		<titre>Profil</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Bernard Lallemand</b200f>
+		<b205a>Tirage : 1/3</b205a>
 	</notice>
 	<notice>
-		<titre>L'origine de l'art baroque à Rome </titre>
-		<isbn>2-252-02885-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Alois Riegl</b200f>
-		<b200g>trad. de l'allemand par Sibylle Muller</b200g>
-		<b200g>présentation de Paul Philippot</b200g>
+		<titre>We are legion</titre>
+		<b200b>image fixe </b200b>
+		<b200d>Nous sommes légion</b200d>
+		<b200f>Clément Cogitore</b200f>
+		<b205a>Tirage : 1/5</b205a>
 	</notice>
 	<notice>
-		<titre>Baroque et classicisme </titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Victor-Lucien Tapié</b200f>
+		<titre>Annonciation</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Clément Cogitore</b200f>
+		<b205a>Tirage : 1/5</b205a>
 	</notice>
 	<notice>
-		<titre>Dans la lumière de Rubens</titre>
-		<b200e>peintres baroques des Pays-Bas du Sud</b200e>
-		<isbn>2-85056-418-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>peintres baroques des Pays-Bas du Sud</b200e>
-		<b200f>par Patrick Ramade, Paul Huys Hanssen, Marc De Beyer ... [et al.]</b200f>
+		<titre>Alle Wege sind verschlossen</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Lydia Dambassina</b200f>
+		<b205a>Tirage : 1/9</b205a>
 	</notice>
 	<notice>
-		<titre>Les Palais de la foi</titre>
-		<b200e>le monde des monastères baroques, Autriche, Allemagne et Suisse, Belgique, Russie orthodoxe</b200e>
-		<isbn>2-7191-0122-2</isbn>
-		<isbn>2-7191-0122-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>le monde des monastères baroques, Autriche, Allemagne et Suisse, Belgique, Russie orthodoxe</b200e>
-		<b200f>par Germain Bazin</b200f>
+		<titre>Ombre</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Lydia Dambassina</b200f>
+		<b205a>Tirage : 1/9</b205a>
 	</notice>
 	<notice>
-		<titre>Du baroque</titre>
-		<isbn>2-07-041341-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Eugenio d'Ors</b200f>
-		<b200g>trad. de l'espagnol par Agathe Rouart-Valéry</b200g>
-		<b200g>préf. de Frédéric Dassas</b200g>
+		<titre>1330g</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Lydia Dambassina</b200f>
+		<b205a>TIrage : 1/9</b205a>
 	</notice>
 	<notice>
-		<titre>L'Art classique et le baroque</titre>
-		<isbn>2-03-505513-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Pierre Cabanne</b200f>
+		<titre>[Sant titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean Remlinger</b200f>
+		<b205a>Tirage : 27/35</b205a>
 	</notice>
 	<notice>
-		<titre>Architecture baroque </titre>
-		<isbn>2-07-015002-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Christian Norberg-Schulz</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Gretel Weyer</b200f>
 	</notice>
 	<notice>
-		<titre>Origine du drame baroque allemand</titre>
-		<isbn>2-08-081455-9</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Walter Benjamin</b200f>
-		<b200g>préf. de Irving Wohlfarth</b200g>
-		<b200g>trad.  de l'allemand   Sibylle Muller</b200g>
-		<b205a>Nouv. éd.</b205a>
-	</notice>
-	<notice>
-		<titre>Dutch tapestry in the golden age, 1590-1650</titre>
-		<b200e>baroque masterpieces from the northern Netherlands</b200e>
-		<b200e>exhibition, 19th October - 14th December 2007, [...] Franses</b200e>
-		<b200e>baroque masterpieces from the northern Netherlands</b200e>
-		<b200e>exhibition, 19th October - 14th December 2007, [...] Franses</b200e>
-		<b200f>[text by Simon Franses]</b200f>
-		<b200g>[foreword by David Franses]</b200g>
-	</notice>
-	<notice>
-		<titre>Le Pli</titre>
-		<b200e>Leibniz et le baroque</b200e>
-		<isbn>2-7073-1182-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Leibniz et le baroque</b200e>
-		<b200f>Gilles Deleuze</b200f>
+		<titre>[Sant titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Markus Weibel</b200f>
+		<b205a>Tirage : 22/30</b205a>
 	</notice>
 	<notice>
-		<titre>Baroque imagery</titre>
-		<b200e>Cleveland, Museum of art, [6 november 1984-6 january 1985]</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>Cleveland, Museum of art, [6 november 1984-6 january 1985]</b200e>
-		<b200f>[exhibition at the] Cleveland museum of art. Ohio</b200f>
-		<b200g>by John E. Schloder</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Dorota Walentynowicz</b200f>
 	</notice>
 	<notice>
-		<titre>Strateny raj</titre>
-		<b200e>barok &amp; sucanost</b200e>
-		<isbn>80-8059-029-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200d>Paradise lost : baroque &amp; the present : Bratislava, Slovenska narodna galéria : Galéria mesta Bratislavy, 16. december 1998-14. marec 1999</b200d>
-		<b200e>barok &amp; sucanost</b200e>
-		<b200f>[exhibition at the] Slovenská národná galéria. Bratislava, Slovaquie en Galéria mesta Bratislavy. Bratislava, Slovaquie</b200f>
-		<b200g>[ed. by] Zora Rusinova</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Dorota Walentynowicz</b200f>
 	</notice>
 	<notice>
-		<titre>Baroque et rococo</titre>
-		<isbn>2-87811-073-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Germain Bazin</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Dorota Walentynowicz</b200f>
 	</notice>
 	<notice>
-		<titre>La Sculpture baroque italienne</titre>
-		<isbn>2-87811-154-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Bruce Boucher</b200f>
-		<b200g>trad. de l'anglais par Christian-Martin Diebold</b200g>
+		<titre>JT 643, 19 juin 2012</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Henri Jacobs</b200f>
 	</notice>
 	<notice>
-		<titre>Le château d'Oiron et son cabinet de curiosités</titre>
-		<isbn>2-85822-264-9</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>sous la dir. de Jean-Hubert  Martin</b200f>
-		<b200g>par Jean  Guillaume et Frédéric  Didier</b200g>
-		<b200g>photogr. de Laurent Lecat</b200g>
+		<titre>Der Junge Fritz</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Ilse Teipelke</b200f>
+		<b205a>Tirage : 2/3</b205a>
 	</notice>
 	<notice>
-		<titre>Renaissance und Barock im Westfälischen Landesmuseum für Kunst und Kulturgeschichte Münster</titre>
-		<isbn>3-88789-137-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>[Redaktion] Angelika Lorenz</b200f>
+		<titre>Die Ballade vom Toter Soldaten (nach Bertolt Brecht)</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Ilse Teipelke</b200f>
+		<b205a>Tirage : 6/10</b205a>
 	</notice>
 	<notice>
-		<titre>The Image of the black in western art</titre>
-		<b200e>From the "age of discovery" to the age of abolition</b200e>
-		<isbn>978-0-674-05261-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>From the "age of discovery" to the age of abolition</b200e>
-		<b200f>[ed. by David Bindman and Henry Louis Gates Jr.]</b200f>
-		<b200g>[texts by Joseph Leo Koerner, Paul H. D. Kaplan, Victoria Stoichita, ... et al.]</b200g>
-		<b200g>[pref. by David Bindman and Henry Louis Gates Jr.]</b200g>
-		<b205a>Nouv. éd.</b205a>
-	</notice>
-	<notice>
-		<titre>Arte y arquitectura en la Valencia de 1700</titre>
-		<isbn>84-7822-450-5</isbn>
-		<isbn>978-84-7822-450-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Pablo González Tornel</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-François Maurige</b200f>
+		<b205a>Tirage : 7 exemplaires</b205a>
 	</notice>
 	<notice>
-		<titre>Aspects de l'art baroque en Alsace</titre>
-		<b200e>peter Thumb et les maîtres du Vorarlberg</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>peter Thumb et les maîtres du Vorarlberg</b200e>
-		<b200f>par Roger Lehni// Dans: [ SAI [PER] ] Saisons d'Alsace [ périodique ]</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-François Maurige</b200f>
+		<b205a>Tirage : 7 exemplaires</b205a>
 	</notice>
 	<notice>
-		<titre>Il Barocco in Slovacchia</titre>
-		<b200e>catalogo della mostra nell'ambito del Premio nazionale letterario stabile Nicola Stefanelli</b200e>
-		<b200e>Caserta, Palazzo Reale 15 ottobre 14 novembre 1988</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>catalogo della mostra nell'ambito del Premio nazionale letterario stabile Nicola Stefanelli</b200e>
-		<b200e>Caserta, Palazzo Reale 15 ottobre 14 novembre 1988</b200e>
-		<b200f>[organizzata al] Palazzo reale. Caserta, Italie</b200f>
-		<b200g>[testo] Magda Keletiova</b200g>
-	</notice>
-	<notice>
-		<titre>Style et écriture</titre>
-		<b200e>du rococo aux Arts déco</b200e>
-		<isbn>2-226-12224-9</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>du rococo aux Arts déco</b200e>
-		<b200f>par Massin</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-François Maurige</b200f>
+		<b205a>Tirage : 11 exemplaires</b205a>
 	</notice>
 	<notice>
-		<titre>Portugal</titre>
-		<b200e>dossier</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>dossier</b200e>
+		<titre>Sans titre (14/12/12 11:26:31 am, 14/12/12 11:28:03 am)</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Joséphine Kaeppelin</b200f>
 	</notice>
 	<notice>
-		<titre>La Peinture baroque</titre>
-		<isbn>2-07-011633-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>[sous la dir. de] Stefano Zuffi</b200f>
-		<b200g>[trad. de l'italien par] Silvia Bonucci et Claude-Sophie Mazéas</b200g>
+		<titre>Sans titre (14/12/12 11:01:19 am, 14/12/12 11:03:18 am)</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Joséphine Kaeppelin</b200f>
 	</notice>
 	<notice>
-		<titre>Kleine Ekstasen</titre>
-		<b200e>Barocke Meisterwerke aus der Sammlung Dessauer</b200e>
-		<isbn>3-926982-73-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Barocke Meisterwerke aus der Sammlung Dessauer</b200e>
-		<b200f>[Vorwort von] G. Ulrich Grossmann</b200f>
-		<b200g>[Texte von] Guido Dessauer und Frank Matthias Kammel</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>I Marmi vivi</titre>
-		<b200e>Bernini e la nascita del ritratto barocco</b200e>
-		<isbn>978-88-09-74236-9</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Bernini e la nascita del ritratto barocco</b200e>
-		<b200f>a cura di Andrea Bacchi, Tomaso Montanari, Beatrice Paolozzi Strozzi, Dimitrios Zikos</b200f>
-		<b200g>Firenze Musei</b200g>
-	</notice>
-	<notice>
-		<titre>Le triomphe du baroque</titre>
-		<b200e>l'architecture en Europe, 1600-1750</b200e>
-		<b200e>Palazzo Grassi, Venise, [3 juillet-7 novembre 1999], Musée des beaux-arts de Montréal, [9 décembre 1999-9 avril 2000], National gallery of art, Washington, [21 mai-9 octobre 2000], Musée des beaux-arts, Marseille, [17 novembre 2000-4 mars 2001]</b200e>
-		<isbn>2-85025-713-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>l'architecture en Europe, 1600-1750</b200e>
-		<b200e>Palazzo Grassi, Venise, [3 juillet-7 novembre 1999], Musée des beaux-arts de Montréal, [9 décembre 1999-9 avril 2000], National gallery of art, Washington, [21 mai-9 octobre 2000], Musée des beaux-arts, Marseille, [17 novembre 2000-4 mars 2001]</b200e>
-		<b200f>sous la dir. de Henry A. Millon</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>Ornamentale Details im Barock-und Rococo-Stil</titre>
-		<b200e>Photographische, in Lichtdruck vervielfältigte Naturaufnahmen nach Auswahl</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>Photographische, in Lichtdruck vervielfältigte Naturaufnahmen nach Auswahl</b200e>
-		<b200f>von Jean Pape</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>Le baroque et le rococo</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Liselotte Andersen</b200f>
-		<b200g>trad. par Sonia de la Brélie</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>Renaissance et baroque</titre>
-		<b200e>dessins italiens du Musée de Lille</b200e>
-		<b200e>Lille, Musée des beaux-arts, 9 décembre 1989-20 février 1990</b200e>
-		<isbn>2-902092-10-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>dessins italiens du Musée de Lille</b200e>
-		<b200e>Lille, Musée des beaux-arts, 9 décembre 1989-20 février 1990</b200e>
-		<b200f>exposition organisée par la Ville de Lille</b200f>
-		<b200g>avec le concours de Fiat France</b200g>
-		<b200g>[catalogue par Barbara Brejon de Lavergnée]</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>Das Barockmuseum im unteren Belvedere</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>hrsg. von Österreichische Galerie. Vienne</b200f>
-		<b200g>[Einleitung von] Franz Martin Haberditzl</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>Johann Kupezky (1666-1740)</titre>
-		<b200e>ein Meister des Barockporträts</b200e>
-		<b200e>Aachen, Suermondt-Ludwig-Museum, 10.November 2001 - 3.Februar 2002</b200e>
-		<isbn>88-8016-474-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>ein Meister des Barockporträts</b200e>
-		<b200e>Aachen, Suermondt-Ludwig-Museum, 10.November 2001 - 3.Februar 2002</b200e>
-		<b200f>[Ausstellung im] Suermondt-Ludwig-Museum. Aix-la-Chapelle, Allemagne</b200f>
-		<b200g>von Eduard A. Safarik</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>La Peinture flamande au siècle de Rubens </titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Leo Van Puyvelde et Thierry Van Puyvelde</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>Dessins baroques florentins du Musée du Louvre</titre>
-		<b200e>LXXIVe exposition du Cabinet des dessins</b200e>
-		<b200e>[Paris], Musée du Louvre, 2 octobre 1981-28 janvier 1982</b200e>
-		<isbn>2-7118-0193-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>LXXIVe exposition du Cabinet des dessins</b200e>
-		<b200e>[Paris], Musée du Louvre, 2 octobre 1981-28 janvier 1982</b200e>
-		<b200f>[catalogue par Françoise Viatte et Catherine Monbeig-Goguel]</b200f>
-	</notice>
-	<notice>
-		<titre>La Rome baroque de Maratti à Piranèse</titre>
-		<b200e>dessins du Louvre et des collections publiques françaises</b200e>
-		<b200e>97e exposition du Cabinet des dessins, Musée du Louvre, 15 novembre 1990-18 février 1991</b200e>
-		<isbn>2-7118-2392-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>dessins du Louvre et des collections publiques françaises</b200e>
-		<b200e>97e exposition du Cabinet des dessins, Musée du Louvre, 15 novembre 1990-18 février 1991</b200e>
-		<b200f>[catalogue par] Catherine Legrand,... Domitilla d'Ormesson-Peugeot,..</b200f>
-	</notice>
-	<notice>
-		<titre>Giovanni Lanfranco</titre>
-		<b200e>Un pittore barocco tra Parma, Roma e Napoli</b200e>
-		<b200e>[Parma, Reggia di Colormo, 8 settembre-2 dicembre 2001</b200e>
-		<b200e>Napoli, Castel Sant'Elmo, 22 dicembre 2001-24 febbraio 2002</b200e>
-		<b200e>Roma, Palazzo Venezia, 16 marzo-16 giugno 2002]</b200e>
-		<isbn>88-435-9839-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Un pittore barocco tra Parma, Roma e Napoli</b200e>
-		<b200e>[Parma, Reggia di Colormo, 8 settembre-2 dicembre 2001</b200e>
-		<b200e>Napoli, Castel Sant'Elmo, 22 dicembre 2001-24 febbraio 2002</b200e>
-		<b200e>Roma, Palazzo Venezia, 16 marzo-16 giugno 2002]</b200e>
-		<b200f>a cura di Erich Schleier</b200f>
-		<b200g>[mostra] Reggia di Colorno. Parme, Italie, Castel Sant'Elmo. Naples, Italie et Museo nazionale del Palazzo di Venezia. Rome</b200g>
-	</notice>
-	<notice>
-		<titre>Escales du Baroque</titre>
-		<isbn>2-87660-021-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>[intr. de] Françoise Viatte</b200f>
-		<b200g>[textes de] Krzysztof Pomian, Pierre Rosenberg et Mina Gregori</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>Renaissance et baroque à Aix-en-Provence</titre>
-		<b200e>recherches sur la culture architecturale dans le Midi de la France de la fin du 15p5s au début du 18b6s siècle</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>recherches sur la culture architecturale dans le Midi de la France de la fin du 15p5s au début du 18b6s siècle</b200e>
-		<b200f>par Jean-Jacques Gloton,..</b200f>
+		<titre>Combat de coqs</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Haleh Zahedi</b200f>
 	</notice>
 	<notice>
-		<titre>Baroques</titre>
-		<isbn>2-85088-181-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Giovanni Careri et Ferrante Ferranti</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Haleh Zahedi</b200f>
 	</notice>
 	<notice>
-		<titre>Les soleils du baroque</titre>
-		<b200e>[actes]</b200e>
-		<isbn>2-84621-028-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[actes]</b200e>
-		<b200f>Rencontre de Porto, 1993</b200f>
-		<b200g>[org. par l'Union Latine]</b200g>
-		<b200g>sous la dir. d'Edouard Pommier</b200g>
-	</notice>
-	<notice>
-		<titre>Der Riss im Himmel</titre>
-		<b200e>Clemens August und seine Epoche</b200e>
-		<isbn>3-7701-5001-5</isbn>
-		<isbn>3-7701-5002-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Clemens August und seine Epoche</b200e>
-		<b200f>[Texte von] Alfred Beckers, Kristiane Benedix und Marcus Bernhardt ... [et al.]</b200f>
+		<titre>Songe d'une nuit de janvier</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Haleh Zahedi</b200f>
 	</notice>
 	<notice>
-		<titre>Architecture romane </titre>
-		<isbn>2-7013-0440-7</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Hans Erich Kubach</b200f>
-		<b200g>[sous la direction de] Pier Luigi Nervi</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Sabine Brand-Scheffel</b200f>
 	</notice>
 	<notice>
-		<titre>La Moravie à l'âge baroque, 1670-1790</titre>
-		<b200e>dans le miroir des ombres</b200e>
-		<isbn>2-85056-569-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>dans le miroir des ombres</b200e>
-		<b200f>[sous la dir. de Jiri Kroupa]</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Sabine Brand-Scheffel</b200f>
 	</notice>
 	<notice>
-		<titre>Spätbarock und Klassizismus</titre>
-		<b200e>Bestandskatalog der Gemälde in den Staatlichen Museen Kassel</b200e>
-		<isbn>3-931787-24-9</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Bestandskatalog der Gemälde in den Staatlichen Museen Kassel</b200e>
-		<b200f>Bearbeitet von Stefanie Heraeus</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Sabine Brand-Scheffel</b200f>
 	</notice>
 	<notice>
-		<titre>Mythos Rom</titre>
-		<b200e>Das antike Fundament des barocken Staates</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>Das antike Fundament des barocken Staates</b200e>
-		<b200f>mit Beiträgen von Ulrich Becker, Bernhard Hebert, Barbara Kaiser und Karl Peitler</b200f>
+		<titre>Regardez la rivière !</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Zuzana Jaczova</b200f>
 	</notice>
 	<notice>
-		<titre>Tomasz Weissfeld</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>[opracowal Pawel Banas]</b200f>
+		<titre>Ecouter le silence</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Zuzana Jaczova</b200f>
 	</notice>
 	<notice>
-		<titre>Lumière et ténèbres</titre>
-		<b200e>art et civilisation du baroque en Bohême, exposition, Lille, Palais des beaux-arts, 12 octobre 2002-5 janvier 2003</b200e>
-		<isbn>2-7118-4548-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>art et civilisation du baroque en Bohême, exposition, Lille, Palais des beaux-arts, 12 octobre 2002-5 janvier 2003</b200e>
-		<b200f>sous la dir. de Vit Vlnas</b200f>
-		<b200g>[textes de Marie-Elisabeth Ducreux, Mojmir Horyna]</b200g>
-	</notice>
-	<notice>
-		<titre>Baroque, vision jésuite</titre>
-		<b200e>du Tintoret à Rubens</b200e>
-		<b200e>[exposition, Caen, Musée des Beaux-Arts, 12 juillet au 13 octobre 2003]</b200e>
-		<isbn>2-85056-647-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>du Tintoret à Rubens</b200e>
-		<b200e>[exposition, Caen, Musée des Beaux-Arts, 12 juillet au 13 octobre 2003]</b200e>
-		<b200f>sous la dir. d'Alain Tapié</b200f>
-		<b200g>[textes de Marc Fumaroli, Pierre-André Fabre, Bernadette Majorana, ...et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>Anversa &amp; Genova</titre>
-		<b200e>un sommet dans la peinture baroque</b200e>
-		<isbn>90-5349-461-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>un sommet dans la peinture baroque</b200e>
-		<b200f>[Marzia Cataldi Gallo, Nico Van Hout]</b200f>
-		<b200g>[Paola Massa, Bram de Klerck... [et al.]</b200g>
+		<titre>Dessin d'une clémentine</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Léa Barbazanges</b200f>
 	</notice>
 	<notice>
-		<titre>Lux in tenebris</titre>
-		<b200e>Barock in der Slowakei und sein mitteleuropäischer Kontext </b200e>
-		<isbn>80-8059-048-6</isbn>
-		<b200b>cédérom interactif</b200b>
-		<b200e>Barock in der Slowakei und sein mitteleuropäischer Kontext </b200e>
-		<b200f>Ivan Rusina, Jozef Medvecky, Vladimir Burcik... [et.al.]</b200f>
+		<titre>Dessin d'une clémentine</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Léa Barbazanges</b200f>
 	</notice>
 	<notice>
-		<titre>Pracht und Pathos</titre>
-		<b200e>[Staatliche Museen Berlin], Gemäldegalerie, [24.10.2003- 25.01.2004]</b200e>
-		<isbn>88-8215-631-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200c>Meisterwerke der Barockmalerei aus dem Palazzo Bianco in Genua</b200c>
-		<b200e>[Staatliche Museen Berlin], Gemäldegalerie, [24.10.2003- 25.01.2004]</b200e>
-		<b200f>Katalog Roberto Contini</b200f>
-		<b200g>unter Mitarbeit von Sibylle Luig und Brigitte Reineke</b200g>
-	</notice>
-	<notice>
-		<titre>Baroque Napolitain</titre>
-		<b200e>La peinture à Naples au XVIIe siècle</b200e>
-		<b200e>Oeuvres des collections publiques et privées napolitaines</b200e>
-		<b200e>[Strasbourg] Musée des Beaux-Arts, 5 mars au 23 mai 1994</b200e>
-		<b200e>Revue de presse</b200e>
-		<isbn>2-901833-21-7</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>La peinture à Naples au XVIIe siècle</b200e>
-		<b200e>Oeuvres des collections publiques et privées napolitaines</b200e>
-		<b200e>[Strasbourg] Musée des Beaux-Arts, 5 mars au 23 mai 1994</b200e>
-		<b200e>Revue de presse</b200e>
-		<b200f>Les Musées de la Ville de Strasbourg</b200f>
-	</notice>
-	<notice>
-		<titre>Architecture baroque et classique </titre>
-		<isbn>2-7013-0317-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>par Christian Norberg-Schulz</b200f>
-		<b200g>[sous la dir. de] Pier Luigi Nervi</b200g>
+		<titre>Spargel grün 1</titre>
+		<b200b>image fixe </b200b>
+		<b200d>Asperge verte 1</b200d>
+		<b200f>Gabi Streile</b200f>
 	</notice>
 	<notice>
-		<titre>Barockgalerie im Schloss Ludwigsburg</titre>
-		<b200e>[exposition, Schloss Ludwigsburg, 7 mai 2004]</b200e>
-		<isbn>3-7757-1476-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposition, Schloss Ludwigsburg, 7 mai 2004]</b200e>
-		<b200f>August B. Rave</b200f>
+		<titre>Spargel grün 2</titre>
+		<b200b>image fixe </b200b>
+		<b200d>Asperge verte 2</b200d>
+		<b200f>Gabi Streile</b200f>
 	</notice>
 	<notice>
-		<titre>Augenkitzel. Barocke Meisterwerke und die Kunst des Informel</titre>
-		<b200e>[exposition], Kunsthalle zu Kiel, 24. Januar-12. April 2004</b200e>
-		<isbn>3-937208-05-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposition], Kunsthalle zu Kiel, 24. Januar-12. April 2004</b200e>
-		<b200f>Herausgegeben von Dirk Luckow</b200f>
-		<b200g>Kuratiert von Sylvia Martin</b200g>
+		<titre>Les cygnes</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Mina El Bakali</b200f>
 	</notice>
 	<notice>
-		<titre>Silver</titre>
-		<b200e>makt och prakt i barockens Sverige</b200e>
-		<isbn>91-7100-684-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>makt och prakt i barockens Sverige</b200e>
-		<b200f>Nationalmuseum</b200f>
-		<b200g>[utställningskommissarier, Anneli Welin, Brigitta Martinius]</b200g>
+		<titre>La forme simple</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Mina El Bakali</b200f>
 	</notice>
 	<notice>
-		<titre>France baroque</titre>
-		<isbn>2-85025-171-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Philippe Minguet</b200f>
-		<b200g>conception graphique et réalisation Sylvie Raulet</b200g>
-		<b200g>recherche iconographique Nathalie Beaud</b200g>
+		<titre>Etre</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Mina El Bakali</b200f>
 	</notice>
 	<notice>
-		<titre>Le retour des anges</titre>
-		<b200e>baroque des cimes en Bolivie</b200e>
-		<isbn>2-909290-13-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200d>El retorno de los ángeles : barroco de las cumbres en Bolivia</b200d>
-		<b200e>baroque des cimes en Bolivie</b200e>
-		<b200f>[textos] José de Mesa, Teresa Gisbert</b200f>
+		<titre>Skizzen am Bodensee</titre>
+		<b200b>image fixe </b200b>
+		<b200d>Esquisses au Bodensee</b200d>
+		<b200f>Werner Schmidt</b200f>
 	</notice>
 	<notice>
-		<titre>La Belle et la Superbe</titre>
-		<b200e>du baroque génois au pays niçois, [exposition, Nice], Palais Lascaris, 25 novembre 2004-31 janvier 2005</b200e>
-		<isbn>2-913548-56-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>du baroque génois au pays niçois, [exposition, Nice], Palais Lascaris, 25 novembre 2004-31 janvier 2005</b200e>
-		<b200f>[textes de] Charles Astro, Massimo Bartoletti, Clario Di Fabio [et al.]</b200f>
+		<titre>Skizzen am Bodensee</titre>
+		<b200b>image fixe </b200b>
+		<b200d>Esquisses au Bodensee</b200d>
+		<b200f>Werner Schmidt</b200f>
 	</notice>
 	<notice>
-		<titre>Das Bruchsaler Schloss</titre>
-		<b200e>aus Anlass der Renovation (1900-1909)</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>aus Anlass der Renovation (1900-1909)</b200e>
-		<b200f>par Grossh. Bad. Ministerium der Finanzen</b200f>
+		<titre>Skizzen am Bodensee</titre>
+		<b200b>image fixe </b200b>
+		<b200d>Esquisses au Bodensee</b200d>
+		<b200f>Werner Schmidt</b200f>
 	</notice>
 	<notice>
-		<titre>Grundriss der Kunstgeschichte</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>von Wilhelm Lübke</b200f>
-		<b200g>Vollständig neu bearbeitet von Dr. Max Semrau</b200g>
-		<b205a>Dritte (des Gesamtwerkes vierzehnte) Auflage</b205a>
+		<titre>Blister 17/3</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-Baptiste Dorner</b200f>
 	</notice>
 	<notice>
-		<titre>Deutsche Barockplastik</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>Wilhelm Pinder</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Guillaume Chauvin</b200f>
+		<b205a>Tirage unique</b205a>
 	</notice>
 	<notice>
-		<titre>Deutscher Barock</titre>
-		<b200e>Die grossen Baumeister des 18. Jahrhunderts</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>Die grossen Baumeister des 18. Jahrhunderts</b200e>
-		<b200f>Wilhelm Pinder</b200f>
+		<titre>Memento (avril)</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Pierre Buraglio</b200f>
+		<b205a>Tirage : 7/24</b205a>
 	</notice>
 	<notice>
-		<titre>Flämische Malerei des Barock in der Alten Pinakothek</titre>
-		<isbn>3-8321-7255-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Konrad Renger mit Claudia Denk</b200f>
+		<titre>Rosa et / und Jules</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Pierre Buraglio</b200f>
+		<b205a>Tirage : IV / IV</b205a>
 	</notice>
 	<notice>
-		<titre>Die Malerei des Barock</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>herausgegeben vom Cigaretten-Bilderdienst </b200f>
-		<b200g>Wissenschaftliche Bearbeitung und text von Hermann Wiemann</b200g>
+		<titre>Enregistrement photosensible de cristaux</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Léa Barbazanges</b200f>
+		<b205a>Tirage : 1/3</b205a>
 	</notice>
 	<notice>
-		<titre>Das deutsche Zimmer der Gothik und Renaissance des Barock, Rococo und Zopfstils</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>Anregungen zu Häuslicher Kunstpflege von Georg Hirth</b200f>
-		<b205a>Dritte stark vermehrte Auflage</b205a>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Bourgeois</b200f>
 	</notice>
 	<notice>
-		<titre>Bernin</titre>
-		<b200e>le sculpteur du baroque romain</b200e>
-		<isbn>0-7148-9432-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>le sculpteur du baroque romain</b200e>
-		<b200f>Rudolf Wittkower</b200f>
-		<b200g>[trad.  de l'anglais  Dominique Lablanche]</b200g>
-		<b200g>photogr. de Pino Guidolotti</b200g>
-		<b205a>4e éd. mise à jour et augm.</b205a>
-	</notice>
-	<notice>
-		<titre>El barocco en la pintura</titre>
-		<b200e>[exposition], Cordoba, CajaSur, 9 diciembre 2004-16 enero 2005, Sevilla, 25 enero-27 febrero 2005</b200e>
-		<isbn>84-7959-573-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposition], Cordoba, CajaSur, 9 diciembre 2004-16 enero 2005, Sevilla, 25 enero-27 febrero 2005</b200e>
-		<b200f>[texto] Enrique F. Pareja Lopez</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Christophe Bourgeois</b200f>
 	</notice>
 	<notice>
-		<titre>Storie Barocche</titre>
-		<b200e>da Guercino a Serra e Savolini nella Romagna del Seicento</b200e>
-		<isbn>88-88566-03-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>da Guercino a Serra e Savolini nella Romagna del Seicento</b200e>
-		<b200f>a cura di Marina Cellini</b200f>
-		<b200g>presentazione di Andrea Emiliani</b200g>
+		<titre>Expression pure</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Régis Guillaume</b200f>
 	</notice>
 	<notice>
-		<titre>Flämische Barockmalerei</titre>
-		<b200e>Staatsgalerie Neuburg an der Donau</b200e>
-		<isbn>3-8321-7576-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Staatsgalerie Neuburg an der Donau</b200e>
-		<b200f>Katalog von Konrad Renger und Nina Schleif</b200f>
-		<b200g>Herausgegeben von Reinhold Baumstark</b200g>
+		<titre>Expression pure</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Régis Guillaume</b200f>
 	</notice>
 	<notice>
-		<titre>Caravaggio in Preussen</titre>
-		<b200e>Die Sammlung Giustiniani und die Berliner Gemäldegalerie, [exposition, Berlin, Altes museum, 15. Juni-9. September 2001, Rom, Palazzo Giustiniani, 26. Januar-20. Mai 2001]</b200e>
-		<isbn>88-435-7984-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Die Sammlung Giustiniani und die Berliner Gemäldegalerie, [exposition, Berlin, Altes museum, 15. Juni-9. September 2001, Rom, Palazzo Giustiniani, 26. Januar-20. Mai 2001]</b200e>
-		<b200f>Herausgegeben von Silvia Danesi Squarzina</b200f>
+		<titre>La crise</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Damien Deroubaix</b200f>
+		<b205a>Tirage : 20 exemplaires</b205a>
 	</notice>
 	<notice>
-		<titre>Die Zeichnungen des Giovanni Lanfranco</titre>
-		<b200e>Dello stile naturale, [exposition, Museum Kunst Palast, Sammlung der Kunstakademie, 8. April-5. juni 2006]</b200e>
-		<isbn>3-422-06602-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Dello stile naturale, [exposition, Museum Kunst Palast, Sammlung der Kunstakademie, 8. April-5. juni 2006]</b200e>
-		<b200f>bearbeitet von Erich Schleier</b200f>
+		<titre>Spiel mir das Lied vom Tod</titre>
+		<b200b>image fixe </b200b>
+		<b200d>Joue-moi la chanson de la mort</b200d>
+		<b200f>Damien Deroubaix</b200f>
+		<b205a>Tirage : 36 exemplaires</b205a>
 	</notice>
 	<notice>
-		<titre>L'Esplendor de la pintura del Barroc</titre>
-		<b200e>mecenatge català al Museu nacional d'art de Catalunya</b200e>
-		<b200e>Barcelona, maig de 1996</b200e>
-		<isbn>84-8043-014-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>mecenatge català al Museu nacional d'art de Catalunya</b200e>
-		<b200e>Barcelona, maig de 1996</b200e>
-		<b200f>[exposicio en el] Museu Nacional d'Art de Catalunya. Barcelone, Espagne</b200f>
-		<b200g>[textos] Maria Margarita Cuyàs</b200g>
-	</notice>
-	<notice>
-		<titre>Sehnsucht Süden</titre>
-		<b200e>Französische Barock- und Rokokomaler in Italien</b200e>
-		<b200e>Residenzgalerie, Salzburg, 22.11.2002-2.2.2003</b200e>
-		<isbn>3-901443-19-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Französische Barock- und Rokokomaler in Italien</b200e>
-		<b200e>Residenzgalerie, Salzburg, 22.11.2002-2.2.2003</b200e>
-		<b200f>Thomas Habersatter (Herausgeber)</b200f>
-		<b200g>mit Beiträgen von Norbert M. Grillitsch, Thomas Habersatter, Wolfgang Wanko</b200g>
-	</notice>
-	<notice>
-		<titre>Fascination baroque</titre>
-		<b200e>la sculpture baroque flamande dans les collections publiques françaises</b200e>
-		<b200e>[exposition, Cassel, Musée départemental de Flandre, du 15 octobre 2011 au 28 janvier 2012]</b200e>
-		<isbn>978-2-7572-0502-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>la sculpture baroque flamande dans les collections publiques françaises</b200e>
-		<b200e>[exposition, Cassel, Musée départemental de Flandre, du 15 octobre 2011 au 28 janvier 2012]</b200e>
-		<b200f>[catalogue sous la direction d'Alain Jacobs et Sandrine Vézilier]</b200f>
-		<b330a>Parcours à travers la sculpture baroque flamande religieuse et profane des XVIIe et XVIIIe siècles dans les collections publiques françaises</b330a>
-	</notice>
-	<notice>
-		<titre>Alba Daurada</titre>
-		<b200e>L'art del retaule a Catalunya : 1600-1792 circa</b200e>
-		<b200e>Museu d'Art Girona, Exposicio del 15 de juliol al 10 de desembre de 2006</b200e>
-		<isbn>84-393-7103-9</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>L'art del retaule a Catalunya : 1600-1792 circa</b200e>
-		<b200e>Museu d'Art Girona, Exposicio del 15 de juliol al 10 de desembre de 2006</b200e>
-		<b200f>Edicio a carrec de Joan Bosch Ballbona</b200f>
+		<titre>Les trois grâces</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Damien Deroubaix</b200f>
+		<b205a>Tirage : 36 exemplaires</b205a>
 	</notice>
 	<notice>
-		<titre>La beauté et ses monstres</titre>
-		<b200e>dans l'Europe baroque 16e-18e </b200e>
-		<isbn>2-87854-263-0</isbn>
-		<b200e>dans l'Europe baroque 16e-18e </b200e>
-		<b200f>sous la dir. de Line Cottegnies, Tony Gheeraert, Gisèle Venet</b200f>
-		<b330a>Réunit des études autour du thème du beau dans ce qu'il a de différent dans sa conception et sa représentation du XVIe au XVIIIe siècle par rapport à l'idéal platonicien. Le baroque, dans l'art, la littérature, etc., semble être l'expression artistique de cette étroite relation entre monstruosité et beauté. [Electre]</b330a>
+		<titre>Boot (karminrot)</titre>
+		<b200b>image fixe </b200b>
+		<b200d>Bateau (rouge carmin)</b200d>
+		<b200f>Sabine Brand-Scheffel</b200f>
 	</notice>
 	<notice>
-		<titre>Chefs-d'oeuvre du baroque du musée des beaux-arts du Canada</titre>
-		<isbn>0-88884-820-X</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Erika Dolphin</b200f>
-		<b200g>avant-propos de Pierre Théberge</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Haleh Zahedi</b200f>
 	</notice>
 	<notice>
-		<titre>Roldana</titre>
-		<b200e>[exposición] Real Alcázar de Sevilla, 25 de julio-14 de octubre 2007</b200e>
-		<isbn>978-84-8266-717-1</isbn>
-		<isbn>84-8266-717-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposición] Real Alcázar de Sevilla, 25 de julio-14 de octubre 2007</b200e>
-		<b200f>[coordinación Antonio Torrejón Díaz, José Luis Romero Torres]</b200f>
-		<b200g>[textos Lorenzo Alonso de la Sierra Fernández, Ana Aranda Bernal, Francisco Espinosa de los Monteros... et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>La Imagen reflejada</titre>
-		<b200e>Andalucía, espejo de Europa</b200e>
-		<b200e>[exposición] Iglesia de Santa Cruz de Cádiz, 12 de noviembre de 2007-30 de enero 2008</b200e>
-		<isbn>978-84-8266-769-0</isbn>
-		<isbn>84-8266-769-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Andalucía, espejo de Europa</b200e>
-		<b200e>[exposición] Iglesia de Santa Cruz de Cádiz, 12 de noviembre de 2007-30 de enero 2008</b200e>
-		<b200f>[coordinación científica, Luis Francisco Martínez Montiel, Fernando Pérez Mulet]</b200f>
-		<b200g>[textos, Pilar Benito García, Fausta Franchini Guelfi, Mercedes Fernández Martín... et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>Andalucía barroca</titre>
-		<b200e>exposición itinerante</b200e>
-		<isbn>84-8266-725-4</isbn>
-		<isbn>978-84-8266-725-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>exposición itinerante</b200e>
-		<b200f>[coordinación científica, Juan Luis Ravé Prieto, Pedro José Respaldiza Lama]</b200f>
-		<b200f>[textos, Lorenzo Alonso de la Sierra Fernández, Juan Fernández Lacomba, Pedro A. Galera Andreu... et al.]</b200f>
-	</notice>
-	<notice>
-		<titre>Fiesta y simulacro</titre>
-		<b200e>[exposición] Palacio Episcopal de Málaga, 19 septiembre - 30 de diciembre 2007</b200e>
-		<isbn>978-84-8266-726-3</isbn>
-		<isbn>84-8266-726-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposición] Palacio Episcopal de Málaga, 19 septiembre - 30 de diciembre 2007</b200e>
-		<b200f>[coordinación científica catálogo, Rosario Camacho Martínez, Reyes Escalera Pérez]</b200f>
-		<b200g>[textos, Maria José Cuesta García de Leonardo, Javier Escalera Reyes, José Jaime García Bernal... et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>El Fulgor de la plata</titre>
-		<b200e>[exposición] Iglesia de San Agustín, Córdoba, 24 de septiembre-30 de dieciembre 2007</b200e>
-		<isbn>978-84-8266-738-6</isbn>
-		<isbn>84-8266-738-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposición] Iglesia de San Agustín, Córdoba, 24 de septiembre-30 de dieciembre 2007</b200e>
-		<b200f>[coordinación científica, Rafael Sánchez Lafuente Gémar]</b200f>
-		<b200g>[textos, Leticia Arbeteta Mira, José Manuel Cruz Valdovinos, Ma. del Carmen Heredia Moreno... et al.]</b200g>
+		<titre>Maison ouverte, piscine ouverte</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Zuzana Jaczova</b200f>
 	</notice>
 	<notice>
-		<titre>Antigüedad y excelencias</titre>
-		<b200e>[exposición] Museo de bellas artes de Sevilla, 24 de octubre-30 de diciembre 2007</b200e>
-		<isbn>978-84-8266-756-0</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposición] Museo de bellas artes de Sevilla, 24 de octubre-30 de diciembre 2007</b200e>
-		<b200f>[coordinación científica, Ignacio Henares Cuéllar, Rafael López Guzman]</b200f>
-		<b200g>[textos, Antonio Calvo Castellón, José Policarpo Cruz Cabrera, M.a Elena Díez Jorge... et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>Teatro de Grandezas</titre>
-		<b200e>[exposición] Hospital Real de Granada, 15 de noviembre 2007 - 30 de enero 2008</b200e>
-		<isbn>978-84-8266-764-5</isbn>
-		<isbn>84-8266-764-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposición] Hospital Real de Granada, 15 de noviembre 2007 - 30 de enero 2008</b200e>
-		<b200f>[coord. científica catálogo, Alfonso Pleguezuelo, Enrique Valdivieso]</b200f>
-		<b200g>[textos, Vincente Lleó Canal, José Luis Romero Torres, Francisco M. Martín Morales... et al]</b200g>
+		<titre>Vorkuta was the largest center of gulag camps in European Russia</titre>
+		<b200b>image fixe </b200b>
+		<b200d>Vorkuta était le plus grand camp de goulag de la Russie européenne</b200d>
+		<b200f>Pavlos Fysakis</b200f>
 	</notice>
 	<notice>
-		<titre>Das Zeitalter Maria Theresias</titre>
-		<b200e>Meisterwerke des Barock</b200e>
-		<b200e>[exposition], Luxembourg, Musée national d'histoire et d'art, 18. November 2006 - 11. Februar 2007</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>Meisterwerke des Barock</b200e>
-		<b200e>[exposition], Luxembourg, Musée national d'histoire et d'art, 18. November 2006 - 11. Februar 2007</b200e>
-		<b200f>Hrsg. von Michael Krapf, Cornelia Reiter</b200f>
-		<b200g>[Texte von Michael Krapf, Cornelia Reiter, Andrea Sommer-Mathis, ... et al]</b200g>
-		<b200g>eine ausstellung der Österreichischen Galerie Belvedere Wien</b200g>
-	</notice>
-	<notice>
-		<titre>Le Bernin</titre>
-		<isbn>2-86589-011-2</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>by Howard Hibbard</b200f>
-		<b205a>1er Ed. 1965</b205a>
+		<titre>Mageroya, Skanjes</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Pavlos Fysakis</b200f>
 	</notice>
 	<notice>
-		<titre>Speculum humanae vitae : imagen de la muerte en los inicios de la Europa moderna</titre>
-		<isbn>84-453-2028-9</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>[textos Manuel Nuñez Rodriguez, Alfonso Pérez Sanchez, Juan Manuel Monterroso Montero]</b200f>
+		<titre>Vatsiana has three families who live there</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Pavlos Fysakis</b200f>
 	</notice>
 	<notice>
-		<titre>Teatralita nel barocco fiorentino : Collezione Gianfranco Luzzetti</titre>
-		<b200e>[exposition, Grosseto, Museo archeologico e d'arte della Maremma, 26 maggio-15 ottobre 2007]</b200e>
-		<isbn>978-88-596-0231-6</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposition, Grosseto, Museo archeologico e d'arte della Maremma, 26 maggio-15 ottobre 2007]</b200e>
-		<b200f>a cura di Federico Berti e Gianfranco Luzzetti et al.</b200f>
+		<titre>Cabo Espichel</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Pavlos Fysakis</b200f>
 	</notice>
 	<notice>
-		<titre>Tableaux napolitains du naturalisme au baroque</titre>
-		<b200b>texte imprimé</b200b>
-		<b200f>Véronique Damian</b200f>
-		<b200g>[trad. par Frank Dabell]</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Sébastien Gouju</b200f>
 	</notice>
 	<notice>
-		<titre>Pierre et François Puget</titre>
-		<b200e>peintres baroques</b200e>
-		<isbn>2-85744-225-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>peintres baroques</b200e>
-		<b200f>Marie-Christine Gloton</b200f>
-		<b200g>préf. par Jacques Thuillier</b200g>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Sébastien Gouju</b200f>
 	</notice>
 	<notice>
-		<titre>Museo nacional de escultura</titre>
-		<b200e>[exposición] Sala de exposiciones "Palacio de Pimentel", Valladolid, del 5 de agosto al 11 de septiembre de 2005</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>[exposición] Sala de exposiciones "Palacio de Pimentel", Valladolid, del 5 de agosto al 11 de septiembre de 2005</b200e>
-		<b200f>[catálogo, Rosario Fernández González]</b200f>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Sébastien Gouju</b200f>
 	</notice>
 	<notice>
-		<titre>Barock und Rokoko</titre>
-		<isbn>978-3-7913-3122-5</isbn>
-		<isbn>978-3-423-34305-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Hrsg. von Frank Büttner, Meinrad von Engelberg, Stephan Hoppe, ... [et al.]</b200f>
-		<b200g>mit Beitr. von Thorsten Albrecht, Christoph Bellot, Markus Bertsch, ... [et al.]</b200g>
+		<titre>Chambord</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Georges Rousse</b200f>
+		<b205a>Tirage : 14/30</b205a>
 	</notice>
 	<notice>
-		<titre>Généalogies du baroque</titre>
-		<isbn>978-2-07-078486-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200f>Alain Mérot</b200f>
+		<titre>World Downfall</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Damien Deroubaix</b200f>
+		<b205a>Tirage : /36</b205a>
 	</notice>
 	<notice>
-		<titre>Arquitecturas y ornamentos barrocos</titre>
-		<b200e>los Rabaglio y el arte cortesano del siglo XVIII en Madrid</b200e>
-		<b200e>[exposición] Real academia de bellas artes de San Fernando, 10 de noviembre de 1997 - 6 de enero de 1998</b200e>
-		<isbn>84-87181-53-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>los Rabaglio y el arte cortesano del siglo XVIII en Madrid</b200e>
-		<b200e>[exposición] Real academia de bellas artes de San Fernando, 10 de noviembre de 1997 - 6 de enero de 1998</b200e>
-		<b200g>[textos Antonio Bonet Correa, Silvia Sugranyes Foletti, Beatriz Blasco Esquivas... et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>Barokk müvészet Közép-Európában</titre>
-		<b200e>utak és találkozások</b200e>
-		<b200e>Budapest, Budapesti Történeti Múzeum, 1993. június 11-október 10.</b200e>
-		<isbn>963-7441-44-1</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200d>Baroque art in Central Europe</b200d>
-		<b200d>Crossroads</b200d>
-		<b200e>utak és találkozások</b200e>
-		<b200e>Budapest, Budapesti Történeti Múzeum, 1993. június 11-október 10.</b200e>
-		<b200f>koncepció és tudományos szerkesztés : Galavics Géza</b200f>
-	</notice>
-	<notice>
-		<titre>I Fiori del barocco</titre>
-		<b200e>Pittura a Genova dal naturalismo al rococò</b200e>
-		<b200e>[Mostra Genova Musei di Strada Nuova - Palazzo Rosso e Palazzo Bianci, 25 marzo - 25 giugno 2006]</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>Pittura a Genova dal naturalismo al rococò</b200e>
-		<b200e>[Mostra Genova Musei di Strada Nuova - Palazzo Rosso e Palazzo Bianci, 25 marzo - 25 giugno 2006]</b200e>
-		<b200f>a cura di Anna Orlando</b200f>
+		<titre>Impermanence</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Patrick Bogner</b200f>
 	</notice>
 	<notice>
-		<titre>Rosso corallo</titre>
-		<b200e>arti preziose della Sicilia barocca</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>arti preziose della Sicilia barocca</b200e>
-		<b200f>[Cura della mostra e del catalogo : Clelia Arnaldi di Balme, Simonetta Castronovo]</b200f>
-		<b200g>[Autori : Anna Maria Bava, Simone Caglio, Concetta Di Natale... et al.] </b200g>
-	</notice>
-	<notice>
-		<titre>Barock im Vatikan</titre>
-		<b200e>Kunst und Kutlur im Rom der Päpste</b200e>
-		<b200e>1572-1576</b200e>
-		<isbn>978-3-86502-125-0</isbn>
-		<isbn>3-86502-125-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>Kunst und Kutlur im Rom der Päpste</b200e>
-		<b200e>1572-1576</b200e>
-		<b200f>Koordination Jutta Frings</b200f>
-	</notice>
-	<notice>
-		<titre>Peindre et dire les passions</titre>
-		<b200e>La gestuelle baroque aux XVIIe et XVIIIe siècles</b200e>
-		<b200e>L'exemple du Musée Fesch d'Ajaccio</b200e>
-		<isbn>2-915410-28-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>La gestuelle baroque aux XVIIe et XVIIIe siècles</b200e>
-		<b200e>L'exemple du Musée Fesch d'Ajaccio</b200e>
-		<b200f>Nicole Rouillé</b200f>
-		<b200g>préf. Jean-Marc Olivesi</b200g>
-		<b330a>Etude de la gestualité caractéristique de l'art pictural aux XVIIe et XVIIIe siècles à partir d'un choix de tableaux issus des collections du Musée Fesch d'Ajaccio. L'observation d'une manière de construire le corps dans l'espace et d'en définir les attitudes montre qu'il existe un langage propre à l'art baroque dont l'étude permet la compréhension du message transmis par le peintre. [Electre]</b330a>
-	</notice>
-	<notice>
-		<titre>Le bois des missions</titre>
-		<b200e>Sculptures baroques du Paraguay</b200e>
-		<isbn>2-908789-20-5</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200d>La madera de las misiones : Imágenes barrocas del Paraguay</b200d>
-		<b200e>Sculptures baroques du Paraguay</b200e>
-		<b200f>[textes de Édouard Pommier, Bartomeu Meliá, Ticio Escobar, ... et al.]</b200f>
-		<b200g>[préf. de Denis Vène, Alain Marty, Jean-Claude Boulard, ... et al.]</b200g>
-		<b330a>Exposition donnant à voir les ruines des missions paraguayennes à travers les statues et retables en bois peint, symboles du syncrétisme élaboré entre les canons artistiques du Vieux Continent et l'esthétique guarani. [Electre]</b330a>
-	</notice>
-	<notice>
-		<titre>En torno al barroco</titre>
-		<b200e>fondos del Museo de bellas artes de Córdoba</b200e>
-		<b200e>[exposiciones] Sala de Exposiciones Vimcorsa, Cordóba, marzo-abril 2005, Sala de Exposiciones Caja San Fernando, Sevilla, junio-julio 2005</b200e>
-		<b200b>texte imprimé</b200b>
-		<b200e>fondos del Museo de bellas artes de Córdoba</b200e>
-		<b200e>[exposiciones] Sala de Exposiciones Vimcorsa, Cordóba, marzo-abril 2005, Sala de Exposiciones Caja San Fernando, Sevilla, junio-julio 2005</b200e>
-		<b200f>[comisariado : Fuensanta García de la Torre, José María Baez]</b200f>
+		<titre>Arche</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Serge Clement</b200f>
+		<b205a>Tirage : 1/10</b205a>
 	</notice>
 	<notice>
-		<titre>Espíritu barocco</titre>
-		<b200e>colleción Granados</b200e>
-		<isbn>978-84-96421-78-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>colleción Granados</b200e>
-		<b200f>[texto Caja de Burgos, José Maria Palencia Cerezo, Javier del Campo]</b200f>
+		<titre>Photographies (Shangai)</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jérôme Saint-Loubert Bié</b200f>
+		<b205a>Tirage : 1/3</b205a>
 	</notice>
 	<notice>
-		<titre>Ritorno al barocco</titre>
-		<b200e>da Caravaggio a Vanvitelli</b200e>
-		<b200e>[mostre, Napoli, Museo di Capodimonte, Certosa e museo di San Martino, Castel Sant'Elmo, Museo Pignatelli, Museo Duca di Martina, Palazzo Reale, 12 dicembre 2009 - 11 aprile 2010]</b200e>
-		<isbn>978-88-569-0058-3</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>da Caravaggio a Vanvitelli</b200e>
-		<b200e>[mostre, Napoli, Museo di Capodimonte, Certosa e museo di San Martino, Castel Sant'Elmo, Museo Pignatelli, Museo Duca di Martina, Palazzo Reale, 12 dicembre 2009 - 11 aprile 2010]</b200e>
-		<b200f>[a cura di Nicola Spinosa]</b200f>
-		<b200g>[realizzate da Soprintendenza speciale per il patrimonio storico, artistico, etnoantropologico e per il polo museale della città di Napoli]</b200g>
-		<b200g>[in collaborazione con Regione Campania]</b200g>
-	</notice>
-	<notice>
-		<titre>Karel Skréta</titre>
-		<b200e>1610-1674</b200e>
-		<b200e>studie a dokumenty</b200e>
-		<isbn>978-80-7035-469-8</isbn>
-		<isbn>80-7035469-0</isbn>
-		<isbn>978-80-7035-470-4</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200e>1610-1674</b200e>
-		<b200e>studie a dokumenty</b200e>
-		<b200f>Lenka Stolárová, Vít Vlnas (edd.)</b200f>
-		<b200g>[autori studií, Tomás Berger... et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>Napoli, la belleza e la corte</titre>
-		<b200e>capolavori del Museo di Capodimonte</b200e>
-		<b200e>dal rinascimento al barocco</b200e>
-		<isbn>978-4-906536-54-2</isbn>
-		<isbn>4-906536-54-9</isbn>
-		<isbn>978-4-906536-55-9</isbn>
+		<titre>Photographies (Ryad)</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jérôme Saint-Loubert Bié</b200f>
+		<b205a>Tirage : 1/3</b205a>
+	</notice>
+	<notice>
+		<titre>Eldorado 22</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-Baptiste Dorner</b200f>
+		<b205a>Tirage : 1/7</b205a>
+	</notice>
+	<notice>
+		<titre>Processus</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Mina El Bakali</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans Titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Silvi Simon</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans Titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Silvi Simon</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans Titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Silvi Simon</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans Titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Silvi Simon</b200f>
+	</notice>
+	<notice>
+		<titre>Gras et bâton 1</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Faustine Andres</b200f>
+	</notice>
+	<notice>
+		<titre>Gras et bâton 2</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Faustine Andres</b200f>
+	</notice>
+	<notice>
+		<titre>TEST RFID</titre>
+		<b200e>Notice pour les tests RFID non visible à l'OPAC</b200e>
 		<b200b>texte imprimé</b200b>
-		<b200e>capolavori del Museo di Capodimonte</b200e>
-		<b200e>dal rinascimento al barocco</b200e>
-		<b200f>[red. a cura di Shinsuke Watanabe, TBS Television, The Tokyo Shimbun</b200f>
-		<b200g>autori dei saggi, Linda Martino, Mariaserena Mormone, Nicola Spinosa... et al.]</b200g>
-	</notice>
-	<notice>
-		<titre>Ex fumo lucem</titre>
-		<b200e>baroque studies in honour of Klara Garas presented on her eightieth birthday</b200e>
-		<isbn>963-7441-68-9</isbn>
+		<b200e>Notice pour les tests RFID non visible à l'OPAC</b200e>
+		<b330a>Notice pour les tests RFID, merci de ne pas supprimer les exemplaires liés à la notice. C.GIANOLIO 01/07/2015</b330a>
+	</notice>
+	<notice>
+		<titre>Fumées</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Olivia Benveniste</b200f>
+	</notice>
+	<notice>
+		<titre>Fumées</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Olivia Benveniste</b200f>
+	</notice>
+	<notice>
+		<titre>Fumées</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Olivia Benveniste</b200f>
+	</notice>
+	<notice>
+		<titre>Hallalit, Mecklenburg</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Gudrun Von Maltzan</b200f>
+	</notice>
+	<notice>
+		<titre>Les champs de résonances</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Dominique Sosolic</b200f>
+	</notice>
+	<notice>
+		<titre>Platon in Aeternam</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Dominique Sosolic</b200f>
+	</notice>
+	<notice>
+		<titre>La Seine</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Pascal Bastien</b200f>
+	</notice>
+	<notice>
+		<titre>La Seine</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Pascal Bastien</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Aurélie Amiot</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Aurélie Amiot</b200f>
+	</notice>
+	<notice>
+		<titre>La rivière rouge</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Marie-Amélie Germain</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jan Voss</b200f>
+		<b205a>Tirage : 23/75</b205a>
+	</notice>
+	<notice>
+		<titre>Le motif qui s'ignore</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Frédéric Pagace</b200f>
+		<b205a>Tirage : 2/5</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Geneviève Claisse</b200f>
+		<b205a>Tirage : 53/100</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Didier Guth</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Didier Guth</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Didier Guth</b200f>
+	</notice>
+	<notice>
+		<titre>Bittes/noir</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-François Robic</b200f>
+	</notice>
+	<notice>
+		<titre>Bittes/noir</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-François Robic</b200f>
+	</notice>
+	<notice>
+		<titre>Bittes/noir</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-François Robic</b200f>
+	</notice>
+	<notice>
+		<titre>Bittes/noir</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Jean-François Robic</b200f>
+	</notice>
+	<notice>
+		<titre>Ecouteur audio Philips </titre>
 		<b200b>texte imprimé</b200b>
-		<b200e>baroque studies in honour of Klara Garas presented on her eightieth birthday</b200e>
-		<b200f>[ed. by] Zsuzsanna Dobos</b200f>
-		<b200g>[in cooperation with] Peter Ujvari, Imre Takacs and Vilmos Tatrai</b200g>
 	</notice>
 	<notice>
-		<titre>Geschichte der Deutschen Kunst</titre>
+		<titre>Nexus 8 pouces </titre>
 		<b200b>texte imprimé</b200b>
-		<b200f>Georg Dehio</b200f>
-		<b205a>Zweite durchbearb. Aufl.</b205a>
 	</notice>
 	<notice>
-		<titre>Passages</titre>
-		<b200e>de la Renaissance au Baroque</b200e>
-		<isbn>2-213-63361-4</isbn>
-		<b200b>multimédia multisupport</b200b>
-		<b200e>de la Renaissance au Baroque</b200e>
-		<b200f>Philippe Beaussant</b200f>
+		<titre>New-York rangé</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Armelle Caron</b200f>
+		<b205a>Tiré à 50 exemplaires</b205a>
 	</notice>
 	<notice>
-		<titre>Rubens, Van Dyck, Jordaens... et les autres </titre>
-		<b200e>peintures baroques flamandes aux Musées royaux des beaux-arts de Belgique</b200e>
-		<b200e>[exposition, Paris, Musée Marmottan Monet, du 19 septembre 2012 au 3 février 2013]</b200e>
-		<isbn>978-2-7541-0652-8</isbn>
-		<b200b>texte imprimé</b200b>
-		<b200d>flemish baroque painting from the Royal museums of fine arts of Belgium</b200d>
-		<b200e>peintures baroques flamandes aux Musées royaux des beaux-arts de Belgique</b200e>
-		<b200e>[exposition, Paris, Musée Marmottan Monet, du 19 septembre 2012 au 3 février 2013]</b200e>
-		<b200f>[catalogue Véronique Bücken, Liesbeth de Belie, Neil de Marchi... et. al.]</b200f>
-	</notice>
-	<notice>
-		<titre>Itinerari barocchi</titre>
-		<b200e>letteratura, musica e teatro nella San Severino del Seicento</b200e>
-		<b200b>Texte imprimé</b200b>
-		<b200e>letteratura, musica e teatro nella San Severino del Seicento</b200e>
-		<b200f>a cura di Alberto Pellegrino, Milena Ranieri</b200f>
+		<titre>Rennes rangé</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Armelle Caron</b200f>
+	</notice>
+	<notice>
+		<titre>Berlin rangé</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Armelle Caron</b200f>
+		<b205a>32/50</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Geneviève Claisse</b200f>
+		<b205a>Tirage : 53/100</b205a>
+	</notice>
+	<notice>
+		<titre>25 carrés noirs</titre>
+		<b200b>image fixe</b200b>
+		<b200f>Vera Molnar</b200f>
+		<b205a>Tirage : 121/200</b205a>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Ainaz Nosrat</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Ainaz Nosrat</b200f>
+	</notice>
+	<notice>
+		<titre>[Sans titre]</titre>
+		<b200b>image fixe </b200b>
+		<b200f>Ainaz Nosrat</b200f>
 	</notice>
 </livre>
