@@ -40,7 +40,6 @@ foreach($liste as $requete){
 }
 
 
-
 function downloadISBN($isbn = false, $delais = 3){
 
 	if(!is_dir('images')){
@@ -52,6 +51,9 @@ function downloadISBN($isbn = false, $delais = 3){
 
 		// $urlGoogle = "https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=".$requete."&as_filetype=jpg";
 
+		"https://www.google.fr/search?q=88-8215-631-1&biw=1315&bih=920&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjF05OIl-vLAhWDDBoKHQaYC2MQ_AUICSgE#tbm=isch&q=88-8215-631-1"
+
+		// https://www.google.fr/search?q=Les+champs+de+r%C3%A9sonances&source=lnms&tbm=isch
 
 		//$url = "https://www.google.fr/search?q=".$requete."&biw=1315&bih=920&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjF05OIl-vLAhWDDBoKHQaYC2MQ_AUICSgE#tbm=isch&q=".$requete."";
 
@@ -62,6 +64,53 @@ function downloadISBN($isbn = false, $delais = 3){
 		echo $isbn."\n";
 
 		$url = "http://www.amazon.fr/gp/aw/d/$isbn/ref=mw_dp_img_1?in=1&is=l";
+
+		$result = file_get_contents($url);
+
+		$pattern = "/src\s*=\s*(\"|')(([^\"';]*))(\"|')/";
+
+		//echo $result;
+
+		preg_match($pattern, $result, $matches, PREG_OFFSET_CAPTURE, 3);
+
+		//print_r($matches[2][0]);
+
+		try {
+			$image = file_get_contents($matches[2][0]) ;
+
+			if($image){
+				file_put_contents('images/'.$isbn.".jpg", $image);
+
+				echo date('l jS \of F Y h:i:s A')."\n";
+				echo "sleep $delais\n";
+				sleep( $delais );
+			}
+		} catch (Exception $e) {
+			// echo 'Caught exception: ',  $e->getMessage(), "\n";
+			echo "l'image n'existe pas pour l'ISBN $isbn\n";
+		}
+	}
+
+}
+
+
+function downloadGoogle($requete = false, $delais = 3){
+
+	if(!is_dir('images')){
+		mkdir('images');
+	}
+
+	if($requete){
+
+		// https://www.google.fr/search?q=Les+champs+de+r%C3%A9sonances&source=lnms&tbm=isch
+
+	
+
+		$requete = str_replace(' ','+',$requete);
+
+		echo $isbn."\n";
+
+		$url = "https://www.google.fr/search?q=$requete&source=lnms&tbm=isch";
 
 		$result = file_get_contents($url);
 

@@ -1,0 +1,6 @@
+{
+    "name": "loic/amazon",
+    "require": {
+        "exeu/apai-io": "~1.0"
+    }
+}
